@@ -4,8 +4,52 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
+             xmlns:views="clr-namespace:B4.EE.RodriguezA.Pages"
+             xmlns:conv="clr-namespace:B4.EE.RodriguezA.Converters"
              x:Class="B4.EE.RodriguezA.App">
     <Application.Resources>
+        <StyleSheet Source="/Styles/appstyles.css"></StyleSheet>
+        <ResourceDictionary>
+            <!--Converters-->
+            <conv:ItemTappedEventArgsConverter x:Key="ItemTappedEventArgsConv" />
 
+            <OnPlatform x:Key="ErrorMessageFontSize" x:TypeArguments="NamedSize">
+                <On Platform="iOS, Android" Value="Small"></On>
+                <On Platform="UWP" Value="Micro"></On>
+            </OnPlatform>
+
+            <!-- Common Colors -->
+            <Color x:Key="ColorPrimary">#2196F3</Color>
+            <Color x:Key="ColorSecundary">#ec008c</Color>
+            <Color x:Key="ColorAccent">#ffffff</Color>
+
+            <!--On Platform Resources-->
+            <OnPlatform x:Key="DefaultThickness" x:TypeArguments="Thickness">
+                <On Platform="iOS" Value="0"></On>
+                <On Platform="Android" Value="0"></On>
+                <On Platform="UWP" Value="20"></On>
+            </OnPlatform>
+
+            <!--Global, Implicit (= valid for ALL controls of this TargetType)-->
+            <Style TargetType="views:BusyView">
+                <Setter Property="BackgroundColor" Value="#CCFFFFFF" />
+                <Setter Property="IsVisible" Value="False" />
+                <Setter Property="AbsoluteLayout.LayoutFlags" Value="All" />
+                <Setter Property="AbsoluteLayout.LayoutBounds" Value="0,0,1,1" />
+            </Style>
+            <!--Explicit Styles-->
+            <Style x:Key="MainLayout" TargetType="StackLayout">
+                <Setter Property="Margin" Value="{StaticResource DefaultThickness}" />
+
+            </Style>
+            <Style x:Key="PrimaryButton" TargetType="Button">
+                <Setter Property="TextColor" Value="{StaticResource ColorAccent}" />
+                <Setter Property="BackgroundColor" Value="{StaticResource ColorPrimary}" />
+            </Style>
+            <Style x:Key="SecundaryButton" TargetType="Button">
+                <Setter Property="TextColor" Value="{StaticResource ColorAccent}" />
+                <Setter Property="BackgroundColor" Value="{StaticResource ColorSecundary}" />
+            </Style>
+        </ResourceDictionary>
     </Application.Resources>
 </Application>
