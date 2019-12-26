@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:bhv="clr-namespace:B4.EE.RodriguezA.Behaviors"
+             xmlns:buttons="clr-namespace:Syncfusion.XForms.Buttons;assembly=Syncfusion.Buttons.XForms" 
+             mc:Ignorable="d"
+             Title="{Binding PageTitle}"
+             x:Name="page"
+             x:Class="B4.EE.RodriguezA.Pages.ReminderTopicPage">
+    
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Save"  IconImageSource="{OnPlatform UWP=ok.png}" Command="{Binding SaveReminderTopicCommand}"></ToolbarItem>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Style="{StaticResource MainLayout}">
+                <Label Text="Name" />
+                <Entry Text="{Binding Name}" Placeholder="Enter location name" Keyboard="Text" TextColor="Blue"/>
+                <Label Text="{Binding ReminderTopicNameError}" 
+                           IsVisible="{Binding ReminderTopicNameErrorVisible}" 
+                           StyleClass="errormessage" />
+               
+
+                <buttons:SfButton CornerRadius="20" WidthRequest="150" HeightRequest="50" Margin="20" Text="Add new item" 
+                            Command="{Binding OpenItemPageCommand}" 
+                            HorizontalOptions="End" />
+                <ListView  ItemsSource="{Binding TopicItems}"
+                              HasUnevenRows="False" RowHeight="110">
+                    <ListView.Header>
+                        <StackLayout Orientation="Horizontal">
+                            <Label Text="My Favorite Locations:" Margin="10" FontSize="Medium"  FontAttributes="Bold" />
+                        </StackLayout>
+                    </ListView.Header>
+                    <ListView.Behaviors>
+                        <bhv:EventToCommandBehavior 
+                                EventName="ItemTapped"  
+                                Command="{Binding OpenItemPageCommand}"
+                                EventArgsConverter="{StaticResource ItemTappedEventArgsConv}" />
+                    </ListView.Behaviors>
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell  Height="100"  >
+                                <ViewCell.ContextActions>
+                                    <MenuItem Command="{Binding BindingContext.OpenItemPageCommand, Source={x:Reference page}}" 
+                                                  CommandParameter="{Binding .}" 
+                                                  Text="Edit" />
+                                    <MenuItem Command="{Binding BindingContext.DeleteItemCommand, Source={x:Reference page}}"
+                                                  CommandParameter="{Binding .}"
+                                                  Text="Delete" IsDestructive="True" />
+                                </ViewCell.ContextActions>
+                                <Frame HasShadow="true" Margin="5" BorderColor="Gray" CornerRadius="5" Padding="5"  HorizontalOptions="Start" >
+                                    <StackLayout>
+
+                                        <Label Text="{Binding ItemName}"  FontSize="Small"  FontAttributes="Bold" />
+                                        <BoxView Color="Gray" HeightRequest="2" HorizontalOptions="Fill" />
+
+                                        <Label Text="Mijn herinering:"/>
+                                        <Label Text="{Binding MyLocation}" FontSize="Micro"  TextColor="Blue"/>
+                                    </StackLayout>
+                                </Frame>
+
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

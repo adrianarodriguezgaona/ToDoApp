@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:buttons="clr-namespace:Syncfusion.XForms.Buttons;assembly=Syncfusion.Buttons.XForms"  
+             xmlns:views="clr-namespace:B4.EE.RodriguezA.Pages"
+             mc:Ignorable="d"
+             
+             x:Class="B4.EE.RodriguezA.Pages.ReminderTopicItemPage">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Save Item" 
+                     IconImageSource="{OnPlatform UWP=ok.png}" 
+                     Command="{Binding SaveTopicItemCommand }" />
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <AbsoluteLayout>
+            <ScrollView AbsoluteLayout.LayoutFlags="All"
+                        AbsoluteLayout.LayoutBounds="0,0,1,1">
+                <StackLayout Padding="12">
+                    <Label Text="Ik moet....." />
+                    <Entry Text="{Binding ItemName}" Placeholder="Schrijf hier wat wil je zeker niet vergeten..." />
+                    <Label Text="{Binding ItemNameError}" 
+                           IsVisible="{Binding ItemNameErrorVisible}" 
+                           StyleClass="errormessage" />
+                    <Label Text="Wanneer?:"/>
+                    <DatePicker  Date="{Binding ToDoDate}" HorizontalOptions="Start"/>
+                    <StackLayout Orientation="Horizontal">
+                      
+                        <buttons:SfButton CornerRadius="20" WidthRequest="70" HeightRequest="50" Margin="10" BackgroundImage="camara.png" Command="{Binding TakeAPictureCommand}"></buttons:SfButton>
+                       
+
+                    </StackLayout>
+             
+                    <Image Source="{Binding PhotoSource}"/>
+
+                </StackLayout>
+
+            </ScrollView>
+            <views:BusyView IsVisible="{Binding IsBusy}" />
+        </AbsoluteLayout>
+    </ContentPage.Content>
+</ContentPage>

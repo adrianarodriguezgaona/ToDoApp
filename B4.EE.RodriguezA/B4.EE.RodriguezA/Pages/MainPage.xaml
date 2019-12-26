@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+              xmlns:views="clr-namespace:B4.EE.RodriguezA.Pages"
+             xmlns:bhv="clr-namespace:B4.EE.RodriguezA.Behaviors"
+             mc:Ignorable="d"
+             x:Name="page"
+             x:Class="B4.EE.RodriguezA.Pages.MainPage">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Add" IconImageSource="add.png" Priority="1" Order="Primary" 
+                     Command="{Binding OpenReminderTopicPageCommand}"></ToolbarItem>
+
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <AbsoluteLayout AbsoluteLayout.LayoutFlags="All"
+                        AbsoluteLayout.LayoutBounds="0,0,1,1">
+            <StackLayout Padding="12">
+                <ListView ItemsSource="{Binding ReminderTopics}" 
+                          HasUnevenRows="False" RowHeight="60" >
+                    <ListView.Behaviors>
+                        <bhv:EventToCommandBehavior 
+                        EventName="ItemTapped"  
+                        Command="{Binding OpenReminderTopicPageCommand}"
+                        EventArgsConverter="{StaticResource ItemTappedEventArgsConv}" />
+                    </ListView.Behaviors>
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell >
+                                <ViewCell.ContextActions>
+                                    <MenuItem Command="{Binding BindingContext.OpenReminderTopicPageCommand, Source={x:Reference page}}" 
+                                              CommandParameter="{Binding .}" 
+                                              Text="Edit" />
+                                    <MenuItem Command="{Binding BindingContext.DeleteReminderTopicCommand, Source={x:Reference page}}"
+                                              CommandParameter="{Binding .}" 
+                                              Text="Delete" 
+                                              IsDestructive="True" />
+                                </ViewCell.ContextActions>
+                                <StackLayout StyleClass="listitem" >
+                                   <Label Text="{Binding Name}" FontAttributes="Bold" 
+                                           VerticalOptions="Center" HorizontalOptions="StartAndExpand" />
+                                </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackLayout>
+            <views:BusyView IsVisible="{Binding IsBusy}" />
+        </AbsoluteLayout>
+    </ContentPage.Content>
+</ContentPage>
