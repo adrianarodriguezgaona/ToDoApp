@@ -1,4 +1,5 @@
 ﻿using B4.EE.RodriguezA.Domain.Models;
+using B4.EE.RodriguezA.Domain.Services;
 using B4.EE.RodriguezA.Validators;
 using FluentValidation;
 using FreshMvvm;
@@ -7,6 +8,7 @@ using Plugin.Media.Abstractions;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
+using System.IO;
 using System.Text;
 using System.Windows.Input;
 using Xamarin.Forms;
@@ -21,9 +23,12 @@ namespace B4.EE.RodriguezA.ViewModels
         public ReminderTopicItemViewModel()
         {
             _topicItemValidator = new TopicItemValidator();
+            
         }
 
         #region Properties
+
+        private MediaFile file;
 
 
         private string pageTitle;
@@ -102,6 +107,21 @@ namespace B4.EE.RodriguezA.ViewModels
             set { photoSource = value; RaisePropertyChanged(nameof(PhotoSource)); }
         }
 
+
+        private string pathImageFromDevice;
+        public string PathImageFromDevice
+        {
+            get { return pathImageFromDevice; }
+            set { pathImageFromDevice = value; RaisePropertyChanged(nameof(PathImageFromDevice)); }
+        }
+
+        
+        private ImageSource imageFromDeviceSource;
+        public ImageSource ImageFromDeviceSource
+        {
+            get { return imageFromDeviceSource; }
+            set { imageFromDeviceSource = value; RaisePropertyChanged(nameof(ImageFromDeviceSource)); }
+        }
         #endregion
 
         public override void Init(object initData)
@@ -115,6 +135,10 @@ namespace B4.EE.RodriguezA.ViewModels
             else
             {
                 PageTitle = "Edit Item";
+            }
+            if (item.PhotoSource == null)
+            {
+                _topicItem.PhotoSource = "noFoto.jpeg";
             }
 
             LoadItemState();
@@ -142,23 +166,39 @@ namespace B4.EE.RodriguezA.ViewModels
                     return;
                 }
 
-                var file = await CrossMedia.Current.TakePhotoAsync(new Plugin.Media.Abstractions.StoreCameraMediaOptions
-                {
-                    Directory = "Sample",
-                    Name = $"{ItemName}.jpg",
-                    PhotoSize = PhotoSize.Small
-                });
+                var sourceUser = await Application.Current.MainPage.DisplayActionSheet("Wil je een afbeelding opslaan?", "Nee!", null, "Nieuwe foto nemen", "Bestande Foto kiezen");
 
-                if (file == null)
+                if (sourceUser == "Nee!")
+                {
+                    this.file = null;
+                     return;
+                }
+
+                if (sourceUser == "Nieuwe foto nemen")
+                {
+                    this.file = await CrossMedia.Current.TakePhotoAsync(new StoreCameraMediaOptions
+                    {
+                        Directory = "Sample",
+                        Name = $"{ItemName}.jpg",
+                        PhotoSize = PhotoSize.Small
+                    });
+
+                }
+                else
+                {
+                    this.file = await CrossMedia.Current.PickPhotoAsync();
+                }
+
+                if (this.file == null)
                     return;
 
-                await Application.Current.MainPage.DisplayAlert("File Location", file.Path, "OK");
+                await Application.Current.MainPage.DisplayAlert("File Location", this.file.Path, "OK");
 
-                PhotoSource = file.Path;
+                PhotoSource = this.file.Path;
 
                 var source = ImageSource.FromStream(() =>
                 {
-                    var stream = file.GetStream();
+                    var stream = this.file.GetStream();
                     return stream;
                 });
 
@@ -199,7 +239,19 @@ namespace B4.EE.RodriguezA.ViewModels
                 }
             }
         );
-       
+
+        public ICommand PickPhotoCommand => new Command(
+           async () =>
+           {
+
+               Stream stream = await DependencyService.Get<IPhotoPickerService>().GetImageStreamAsync();
+               if (stream != null)
+               {
+                   ImageFromDeviceSource = ImageSource.FromStream(() => stream);
+               }
+           });
+
+           
         private bool Validate(TopicItem item)
         {
             var validationResult = _topicItemValidator.Validate(item);

@@ -26,14 +26,18 @@
                     <Label Text="Wanneer?:"/>
                     <DatePicker  Date="{Binding ToDoDate}" HorizontalOptions="Start"/>
                     <StackLayout Orientation="Horizontal">
-                      
-                        <buttons:SfButton CornerRadius="20" WidthRequest="70" HeightRequest="50" Margin="10" BackgroundImage="camara.png" Command="{Binding TakeAPictureCommand}"></buttons:SfButton>
-                       
+                        <buttons:SfButton CornerRadius="20" WidthRequest="80" HeightRequest="70" Margin="10" BackgroundImage="camara.png" Command="{Binding TakeAPictureCommand}"></buttons:SfButton>
+                        <buttons:SfButton CornerRadius="20" WidthRequest="80" HeightRequest="70" Margin="10" BackgroundImage="gallery.png" Command="{Binding PickPhotoCommand}"></buttons:SfButton>
+                    </StackLayout>
+                    <StackLayout class="listitem">
+                    <Image Source="{Binding PhotoSource}">
+                        <Image.GestureRecognizers>
+                            <TapGestureRecognizer Command="{Binding TakeAPictureCommand}"/>
+                        </Image.GestureRecognizers>
+                    </Image>
+                    <Image Source="{Binding ImageFromDeviceSource }" />
 
                     </StackLayout>
-             
-                    <Image Source="{Binding PhotoSource}"/>
-
                 </StackLayout>
 
             </ScrollView>
