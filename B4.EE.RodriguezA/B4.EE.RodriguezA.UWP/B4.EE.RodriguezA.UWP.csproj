@@ -96,6 +96,7 @@
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\PhotoPickerService.cs" />
   </ItemGroup>
   <ItemGroup>
     <AppxManifest Include="Package.appxmanifest">
@@ -132,6 +133,9 @@
     <Content Include="Assets\Wide310x150Logo.scale-200.png" />
     <Content Include="Assets\Wide310x150Logo.scale-400.png" />
     <Content Include="camara.png" />
+    <Content Include="gallery.png" />
+    <Content Include="noFoto.jpeg" />
+    <Content Include="noFoto.png" />
     <Content Include="ok.png" />
     <Content Include="Properties\Default.rd.xml" />
   </ItemGroup>
