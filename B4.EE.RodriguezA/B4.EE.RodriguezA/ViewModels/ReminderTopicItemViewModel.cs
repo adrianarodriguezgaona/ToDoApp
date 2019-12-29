@@ -93,6 +93,14 @@ namespace B4.EE.RodriguezA.ViewModels
             }
         }
 
+
+        private string toDoDateString;
+        public string ToDoDateString
+        {
+            get { return toDoDateString; }
+            set { toDoDateString = value; RaisePropertyChanged(nameof(ToDoDateString)); }
+        }
+
         private string myTopicItem;
         public string MyTopicItem
         {
@@ -121,6 +129,36 @@ namespace B4.EE.RodriguezA.ViewModels
         {
             get { return imageFromDeviceSource; }
             set { imageFromDeviceSource = value; RaisePropertyChanged(nameof(ImageFromDeviceSource)); }
+        }
+
+
+        private bool isPrior;
+        public bool IsPrior
+        {
+            get { return isPrior; }
+            set { isPrior = value; RaisePropertyChanged(nameof(IsPrior)); }
+        }
+
+        private string colorForPrior;
+        public string ColorForPrior
+        {
+            get { return colorForPrior; }
+            set { colorForPrior = value; RaisePropertyChanged(nameof(GiveColorForPrior)); }
+        }
+
+        private string description;
+        public string Description
+        {
+            get { return description; }
+            set { description = value; RaisePropertyChanged(nameof(Description)); }
+        }
+
+
+        private TimeSpan selectedTime;
+        public TimeSpan SelectedTime
+        {
+            get { return selectedTime; }
+            set { selectedTime = value; RaisePropertyChanged(nameof(SelectedTime)); }
         }
         #endregion
 
@@ -151,6 +189,12 @@ namespace B4.EE.RodriguezA.ViewModels
             ToDoDate = _topicItem.ToDoDate ?? DateTime.Now;
             PhotoSource = _topicItem.PhotoSource;
             MyTopicItem = _topicItem.MyTopicItem;
+            IsPrior = _topicItem.IsPrior;
+            Description = _topicItem.Description;
+            SelectedTime = _topicItem.SelectedTime;
+            ToDoDateString = _topicItem.ToDoDateString;
+            ColorForPrior = _topicItem.ColorForPrior;
+
         }
      
 
@@ -208,10 +252,31 @@ namespace B4.EE.RodriguezA.ViewModels
 
         private void SaveItemState()
         {
+            GiveColorForPrior();
             _topicItem.ItemName = ItemName;
             _topicItem.ToDoDate = new DateTime?(ToDoDate);
             _topicItem.MyTopicItem = MyTopicItem;
             _topicItem.PhotoSource = PhotoSource;
+            _topicItem.IsPrior = IsPrior;
+            _topicItem.Description = Description;
+            _topicItem.SelectedTime = SelectedTime;
+            _topicItem.ToDoDateString = ToDoDate.ToShortDateString();
+            _topicItem.ColorForPrior = ColorForPrior;
+        }
+
+        public string GiveColorForPrior()
+        {
+            if (IsPrior)
+            {
+                ColorForPrior = "Red";
+            }
+            else
+            {
+                ColorForPrior = "Black";
+
+            }
+
+            return ColorForPrior;
         }
 
         public ICommand SaveTopicItemCommand => new Command(

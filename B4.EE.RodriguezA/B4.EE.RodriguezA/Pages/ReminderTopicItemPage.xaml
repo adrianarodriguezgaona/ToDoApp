@@ -19,17 +19,26 @@
                         AbsoluteLayout.LayoutBounds="0,0,1,1">
                 <StackLayout Padding="12">
                     <Label Text="Ik moet....." />
-                    <Entry Text="{Binding ItemName}" Placeholder="Schrijf hier wat wil je zeker niet vergeten..." />
+                    <Entry Text="{Binding ItemName}" Placeholder="Schrijf hier de naam of onderwerp van jouw to do item..." PlaceholderColor="Olive"  />
                     <Label Text="{Binding ItemNameError}" 
                            IsVisible="{Binding ItemNameErrorVisible}" 
                            StyleClass="errormessage" />
+                    <Editor Text="{Binding Description}" Placeholder="Geef meer details hier indien nodig..." PlaceholderColor="Olive" />
                     <Label Text="Wanneer?:"/>
                     <DatePicker  Date="{Binding ToDoDate}" HorizontalOptions="Start"/>
+                    <TimePicker Time="{Binding SelectedTime}" HorizontalOptions="Start"/>
+                    <StackLayout class="listitem">
+                        <Label Text="Hoog prioriteit?"/>
+                        <buttons:SfSwitch VisualType="Material" IsOn="{Binding IsPrior}" />
+                    </StackLayout>
+                    <StackLayout>
+                        <Label Text="Nog extra informatie via een foto (kasticket, document, uitnodiging ...)? Vog een foto toe of bekijk het vanuit jouw gallery."/>
+                    </StackLayout>
                     <StackLayout Orientation="Horizontal">
                         <buttons:SfButton CornerRadius="20" WidthRequest="80" HeightRequest="70" Margin="10" BackgroundImage="camara.png" Command="{Binding TakeAPictureCommand}"></buttons:SfButton>
                         <buttons:SfButton CornerRadius="20" WidthRequest="80" HeightRequest="70" Margin="10" BackgroundImage="gallery.png" Command="{Binding PickPhotoCommand}"></buttons:SfButton>
                     </StackLayout>
-                    <StackLayout class="listitem">
+                    <StackLayout class="listitem" HorizontalOptions="CenterAndExpand">
                     <Image Source="{Binding PhotoSource}">
                         <Image.GestureRecognizers>
                             <TapGestureRecognizer Command="{Binding TakeAPictureCommand}"/>

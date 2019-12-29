@@ -17,20 +17,19 @@
         <ScrollView>
             <StackLayout Style="{StaticResource MainLayout}">
                 <Label Text="Name" />
-                <Entry Text="{Binding Name}" Placeholder="Enter location name" Keyboard="Text" TextColor="Blue"/>
+                <Entry Text="{Binding Name}" Placeholder="Geef een naam of onderwerp aan jouw To Do lijst..." Keyboard="Text" />
                 <Label Text="{Binding ReminderTopicNameError}" 
                            IsVisible="{Binding ReminderTopicNameErrorVisible}" 
                            StyleClass="errormessage" />
-               
 
-                <buttons:SfButton CornerRadius="20" WidthRequest="150" HeightRequest="50" Margin="20" Text="Add new item" 
+                <buttons:SfButton CornerRadius="20" WidthRequest="150" HeightRequest="50" Margin="20" Text="Voeg een item" 
                             Command="{Binding OpenItemPageCommand}" 
                             HorizontalOptions="End" />
                 <ListView  ItemsSource="{Binding TopicItems}"
                               HasUnevenRows="False" RowHeight="110">
                     <ListView.Header>
                         <StackLayout Orientation="Horizontal">
-                            <Label Text="My Favorite Locations:" Margin="10" FontSize="Medium"  FontAttributes="Bold" />
+                            <Label Text="Nog te doen in deze lijst:" Margin="10" FontSize="Medium"  FontAttributes="Bold" />
                         </StackLayout>
                     </ListView.Header>
                     <ListView.Behaviors>
@@ -41,8 +40,9 @@
                     </ListView.Behaviors>
                     <ListView.ItemTemplate>
                         <DataTemplate>
-                            <ViewCell  Height="100"  >
+                            <ViewCell  Height="100" >
                                 <ViewCell.ContextActions>
+                                  
                                     <MenuItem Command="{Binding BindingContext.OpenItemPageCommand, Source={x:Reference page}}" 
                                                   CommandParameter="{Binding .}" 
                                                   Text="Edit" />
@@ -50,17 +50,20 @@
                                                   CommandParameter="{Binding .}"
                                                   Text="Delete" IsDestructive="True" />
                                 </ViewCell.ContextActions>
-                                <Frame HasShadow="true" Margin="5" BorderColor="Gray" CornerRadius="5" Padding="5"  HorizontalOptions="Start" >
-                                    <StackLayout>
+                                <StackLayout>
+                                   <Frame HasShadow="true" Margin="5" BorderColor="Gray" CornerRadius="5" Padding="5"  HorizontalOptions="Start"  >
+                                      <StackLayout>
 
-                                        <Label Text="{Binding ItemName}"  FontSize="Small"  FontAttributes="Bold" />
+                                        <Label Text="{Binding ItemName}" TextColor="{Binding ColorForPrior}" FontSize="Small"  FontAttributes="Bold" />
                                         <BoxView Color="Gray" HeightRequest="2" HorizontalOptions="Fill" />
-
-                                        <Label Text="Mijn herinering:"/>
-                                        <Label Text="{Binding MyLocation}" FontSize="Micro"  TextColor="Blue"/>
-                                    </StackLayout>
-                                </Frame>
-
+                                        <Label Text="To Do Datum:"/>
+                                        <StackLayout class="listitem">
+                                           <Label Text="{Binding ToDoDateString}" FontSize="Micro"  TextColor="Blue"/>
+                                           <Label Text="{Binding SelectedTime}" FontSize="Micro"  TextColor="Blue"/>
+                                        </StackLayout>
+                                        </StackLayout>
+                                   </Frame>
+                                </StackLayout>
                             </ViewCell>
                         </DataTemplate>
                     </ListView.ItemTemplate>
