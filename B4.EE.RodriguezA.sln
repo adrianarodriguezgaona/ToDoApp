@@ -7,7 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B4.EE.RodriguezA.UWP", "B4.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B4.EE.RodriguezA.Android", "B4.EE.RodriguezA\B4.EE.RodriguezA.Android\B4.EE.RodriguezA.Android.csproj", "{F9C6486D-B589-4FE9-A472-7601EFBF8D72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B4.EE.RodriguezA", "B4.EE.RodriguezA\B4.EE.RodriguezA\B4.EE.RodriguezA.csproj", "{190AAF25-789B-4ACB-9988-41E405FECBFD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B4.EE.RodriguezA", "B4.EE.RodriguezA\B4.EE.RodriguezA\B4.EE.RodriguezA.csproj", "{190AAF25-789B-4ACB-9988-41E405FECBFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B4.EE.RodriguezA.Tests", "B4.EE.RodriguezA.Tests\B4.EE.RodriguezA.Tests.csproj", "{23998070-B653-4443-8E11-44B4ADB91957}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,22 @@ Global
 		{190AAF25-789B-4ACB-9988-41E405FECBFD}.Release|x86.ActiveCfg = Release|Any CPU
 		{190AAF25-789B-4ACB-9988-41E405FECBFD}.Release|x86.Build.0 = Release|Any CPU
 		{190AAF25-789B-4ACB-9988-41E405FECBFD}.Release|x86.Deploy.0 = Release|Any CPU
+		{23998070-B653-4443-8E11-44B4ADB91957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23998070-B653-4443-8E11-44B4ADB91957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23998070-B653-4443-8E11-44B4ADB91957}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{23998070-B653-4443-8E11-44B4ADB91957}.Debug|ARM.Build.0 = Debug|Any CPU
+		{23998070-B653-4443-8E11-44B4ADB91957}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{23998070-B653-4443-8E11-44B4ADB91957}.Debug|x64.Build.0 = Debug|Any CPU
+		{23998070-B653-4443-8E11-44B4ADB91957}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{23998070-B653-4443-8E11-44B4ADB91957}.Debug|x86.Build.0 = Debug|Any CPU
+		{23998070-B653-4443-8E11-44B4ADB91957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23998070-B653-4443-8E11-44B4ADB91957}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23998070-B653-4443-8E11-44B4ADB91957}.Release|ARM.ActiveCfg = Release|Any CPU
+		{23998070-B653-4443-8E11-44B4ADB91957}.Release|ARM.Build.0 = Release|Any CPU
+		{23998070-B653-4443-8E11-44B4ADB91957}.Release|x64.ActiveCfg = Release|Any CPU
+		{23998070-B653-4443-8E11-44B4ADB91957}.Release|x64.Build.0 = Release|Any CPU
+		{23998070-B653-4443-8E11-44B4ADB91957}.Release|x86.ActiveCfg = Release|Any CPU
+		{23998070-B653-4443-8E11-44B4ADB91957}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
