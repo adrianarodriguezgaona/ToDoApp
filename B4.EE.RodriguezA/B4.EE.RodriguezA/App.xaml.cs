@@ -14,7 +14,7 @@ namespace B4.EE.RodriguezA
         {
             InitializeComponent();
 
-            Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("MTUyNzA0QDMxMzcyZTMzMmUzME5PemVVY2JiQWtqSHZnLzZtRHRVdVRVc3pxVjU5R1kyN2pGNjNyUnBLSGM9");
+            Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("MTg4OTk5QDMxMzcyZTM0MmUzME13endTdWExSW05VnVMQWhHTW93VFlSYkVzaGpFN0xoaHU2UENxK2FFRnM9");
 
             //Register dependencies
             FreshIOC.Container.Register<ITopicRepository>(new JsonTopicRepository());

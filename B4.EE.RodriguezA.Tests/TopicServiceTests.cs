@@ -88,8 +88,6 @@ namespace B4.EE.RodriguezA.Tests
             }
         }
 
-
-
         [Fact]
         public async Task Save_Updates_When_TopicIdExists()
         {
@@ -111,7 +109,8 @@ namespace B4.EE.RodriguezA.Tests
             var topicToUpdate = new ReminderTopic
             {
                 Id = Guid.Parse("00000000-0000-0000-0000-000000000003"), //existing Id
-                Name = "Mijn Topic"              
+                Name = "Mijn Topic",
+                Items = new List<TopicItem>()
             };
 
             //act
@@ -141,7 +140,8 @@ namespace B4.EE.RodriguezA.Tests
         //    var topicToInsert = new ReminderTopic
         //    {
         //        Id = Guid.Parse("00000000-0000-0000-0000-000000000004"), //non-existing Id
-        //        Name = "New Topic"
+        //        Name = "New Topic",
+        //        Items = new List<TopicItem>()
         //    };
 
         //    //act
