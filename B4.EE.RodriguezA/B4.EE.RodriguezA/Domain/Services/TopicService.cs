@@ -10,6 +10,7 @@ using FluentValidation;
 namespace B4.EE.RodriguezA.Domain.Services
 {
     public class TopicService : ITopicService
+
     {
         private ITopicRepository _topicRepository;
         private IValidator _topicValidator;
@@ -61,9 +62,6 @@ namespace B4.EE.RodriguezA.Domain.Services
             }
         }
 
-        //public Task<ReminderTopic> Update(ReminderTopic topic)
-        //{
-        //    throw new NotImplementedException();
-        //}
+       
     }
 }

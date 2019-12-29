@@ -28,7 +28,7 @@ namespace B4.EE.RodriguezA.Domain.Services
         Task<ReminderTopic> Save(ReminderTopic topic);
 
         /// <summary>
-        /// Deletes a Site using its Id and returns the removed Site on success
+        /// Deletes a Topic using its Id and returns the removed Topic on success
         /// </summary>
         Task<ReminderTopic> Delete(Guid topicId);
 
