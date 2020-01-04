@@ -6,7 +6,7 @@
              xmlns:bhv="clr-namespace:B4.EE.RodriguezA.Behaviors"
              xmlns:buttons="clr-namespace:Syncfusion.XForms.Buttons;assembly=Syncfusion.Buttons.XForms" 
              mc:Ignorable="d"
-             Title="{Binding PageTitle}"
+             Title="{Binding PageTitle}"  BackgroundColor="#e9f7ef"
              x:Name="page"
              x:Class="B4.EE.RodriguezA.Pages.ReminderTopicPage">
     
@@ -25,7 +25,7 @@
                 <buttons:SfButton CornerRadius="20" WidthRequest="150" HeightRequest="50" Margin="20" Text="Voeg een item" 
                             Command="{Binding OpenItemPageCommand}" 
                             HorizontalOptions="End" />
-                <ListView  ItemsSource="{Binding TopicItems}"
+                <ListView  ItemsSource="{Binding TopicItems}" 
                               HasUnevenRows="False" RowHeight="110">
                     <ListView.Header>
                         <StackLayout Orientation="Horizontal">
