@@ -13,8 +13,8 @@ namespace B4.EE.RodriguezA.Validators
             RuleFor(item => item.Name)
                 .NotEmpty()
                 .WithMessage("Geef een naam a.u.b.")
-                .Length(3, 50)
-                .WithMessage("Naamlengte moet tussen 3 en 50 zijn!");
+                .Length(3, 30)
+                .WithMessage("Naamlengte moet tussen 3 en 30 zijn!");
 
         }
 
