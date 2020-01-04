@@ -3,10 +3,12 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-              xmlns:views="clr-namespace:B4.EE.RodriguezA.Pages"
+             xmlns:views="clr-namespace:B4.EE.RodriguezA.Pages"
              xmlns:bhv="clr-namespace:B4.EE.RodriguezA.Behaviors"
              mc:Ignorable="d"
              x:Name="page"
+             Title="To Do App." BackgroundColor="#e9f7ef"
+             IconImageSource="icon.png"
              x:Class="B4.EE.RodriguezA.Pages.MainPage">
     <ContentPage.ToolbarItems>
         <ToolbarItem Text="Add" IconImageSource="add.png" Priority="1" Order="Primary" 
@@ -17,7 +19,7 @@
         <AbsoluteLayout AbsoluteLayout.LayoutFlags="All"
                         AbsoluteLayout.LayoutBounds="0,0,1,1">
             <StackLayout Padding="12">
-                <ListView ItemsSource="{Binding ReminderTopics}" 
+                <ListView ItemsSource="{Binding ReminderTopics}" SeparatorVisibility="Default" Header="{Binding HeaderForList}" 
                           HasUnevenRows="False" RowHeight="60" >
                     <ListView.Behaviors>
                         <bhv:EventToCommandBehavior 
@@ -38,6 +40,7 @@
                                               IsDestructive="True" />
                                 </ViewCell.ContextActions>
                                 <StackLayout StyleClass="listitem" >
+                                   <Image Source="icon.png"/>
                                    <Label Text="{Binding Name}" FontAttributes="Bold" 
                                            VerticalOptions="Center" HorizontalOptions="StartAndExpand" />
                                 </StackLayout>
