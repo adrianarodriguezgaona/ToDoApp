@@ -45,6 +45,14 @@ namespace B4.EE.RodriguezA.ViewModels
         }
 
 
+        private string headerForList;
+        public string HeaderForList
+        {
+            get { return headerForList; }
+            set { headerForList = value; RaisePropertyChanged(nameof(HeaderForList)); }
+        }
+
+
         protected async override void ViewIsAppearing(object sender, EventArgs e)
         {
             base.ViewIsAppearing(sender, e);
@@ -74,6 +82,14 @@ namespace B4.EE.RodriguezA.ViewModels
             //bind IEnumerable<ReminderTopic> to the ListView's ItemSource
             ReminderTopics = null;    //Important! ensure the list is empty first to force refresh!
             ReminderTopics = new ObservableCollection<ReminderTopic>(reminderTopic.OrderBy(e => e.Name));
+            if (ReminderTopics == null)
+            {
+                HeaderForList = "Nog geen To Do lijst?? Voeg jouw eerste lijst toe!";
+            }
+            else
+            {
+                HeaderForList = "Mijn To Do lijst:";
+            }
             IsBusy = false;
         }
 
