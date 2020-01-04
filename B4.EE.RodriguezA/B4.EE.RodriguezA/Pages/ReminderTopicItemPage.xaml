@@ -6,7 +6,7 @@
              xmlns:buttons="clr-namespace:Syncfusion.XForms.Buttons;assembly=Syncfusion.Buttons.XForms"  
              xmlns:views="clr-namespace:B4.EE.RodriguezA.Pages"
              mc:Ignorable="d"
-             
+             BackgroundColor="#e9f7ef"
              x:Class="B4.EE.RodriguezA.Pages.ReminderTopicItemPage">
     <ContentPage.ToolbarItems>
         <ToolbarItem Text="Save Item" 
@@ -38,14 +38,15 @@
                         <buttons:SfButton CornerRadius="20" WidthRequest="80" HeightRequest="70" Margin="10" BackgroundImage="camara.png" Command="{Binding TakeAPictureCommand}"></buttons:SfButton>
                         <buttons:SfButton CornerRadius="20" WidthRequest="80" HeightRequest="70" Margin="10" BackgroundImage="gallery.png" Command="{Binding PickPhotoCommand}"></buttons:SfButton>
                     </StackLayout>
-                    <StackLayout class="listitem" HorizontalOptions="CenterAndExpand">
-                    <Image Source="{Binding PhotoSource}">
-                        <Image.GestureRecognizers>
+                    <StackLayout  HorizontalOptions="CenterAndExpand">
+                      <Image Source="{Binding PhotoSource}" IsVisible="{Binding IsVisible}">
+                          <Image.GestureRecognizers>
                             <TapGestureRecognizer Command="{Binding TakeAPictureCommand}"/>
-                        </Image.GestureRecognizers>
-                    </Image>
-                    <Image Source="{Binding ImageFromDeviceSource }" />
-
+                          </Image.GestureRecognizers>
+                     </Image>
+                    </StackLayout>
+                    <StackLayout HorizontalOptions="FillAndExpand">
+                        <Image Source="{Binding ImageFromDeviceSource }" WidthRequest="450" HeightRequest="300" />
                     </StackLayout>
                 </StackLayout>
 
