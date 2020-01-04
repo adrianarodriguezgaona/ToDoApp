@@ -160,6 +160,14 @@ namespace B4.EE.RodriguezA.ViewModels
             get { return selectedTime; }
             set { selectedTime = value; RaisePropertyChanged(nameof(SelectedTime)); }
         }
+
+
+        private bool isVisible  ;
+        public bool IsVisible
+        {
+            get { return isVisible; }
+            set { isVisible = value; RaisePropertyChanged(nameof(IsVisible)); }
+        }
         #endregion
 
         public override void Init(object initData)
@@ -178,7 +186,7 @@ namespace B4.EE.RodriguezA.ViewModels
             {
                 _topicItem.PhotoSource = "noFoto.jpeg";
             }
-
+            IsVisible = true;
             LoadItemState();
             base.Init(initData);
         }
@@ -308,6 +316,7 @@ namespace B4.EE.RodriguezA.ViewModels
         public ICommand PickPhotoCommand => new Command(
            async () =>
            {
+               IsVisible = false;
 
                Stream stream = await DependencyService.Get<IPhotoPickerService>().GetImageStreamAsync();
                if (stream != null)
