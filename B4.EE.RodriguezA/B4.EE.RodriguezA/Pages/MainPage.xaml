@@ -19,7 +19,8 @@
         <AbsoluteLayout AbsoluteLayout.LayoutFlags="All"
                         AbsoluteLayout.LayoutBounds="0,0,1,1">
             <StackLayout Padding="12">
-                <ListView ItemsSource="{Binding ReminderTopics}" SeparatorVisibility="Default" Header="{Binding HeaderForList}" 
+                <Label Text="{Binding HeaderForList}"></Label>
+                <ListView ItemsSource="{Binding ReminderTopics}" SeparatorVisibility="Default" 
                           HasUnevenRows="False" RowHeight="60" >
                     <ListView.Behaviors>
                         <bhv:EventToCommandBehavior 
