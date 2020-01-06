@@ -5,6 +5,8 @@ using FreshMvvm;
 using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using Microsoft.AppCenter;
+using Microsoft.AppCenter.Push;
 
 namespace B4.EE.RodriguezA
 {
@@ -24,7 +26,8 @@ namespace B4.EE.RodriguezA
 
         protected override void OnStart()
         {
-            // Handle when your app starts
+           
+            AppCenter.Start("270d236d-fd06-45df-a9e1-e78e9d6a3dbd", typeof(Push));
         }
 
         protected override void OnSleep()

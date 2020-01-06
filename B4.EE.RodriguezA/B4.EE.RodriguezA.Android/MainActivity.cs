@@ -1,5 +1,4 @@
 ﻿using System;
-
 using Android.App;
 using Android.Content.PM;
 using Android.Runtime;
@@ -12,6 +11,7 @@ using Android.Content;
 using Xamarin.Forms;
 using B4.EE.RodriguezA.Droid.Services;
 using B4.EE.RodriguezA.Domain.Services;
+
 
 namespace B4.EE.RodriguezA.Droid
 {
@@ -35,6 +35,7 @@ namespace B4.EE.RodriguezA.Droid
             Instance = this;
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
+
             LoadApplication(new App());
             DependencyService.Register<IPhotoPickerService, PhotoPickerService>();
         }

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "492033868473",
+    "firebase_url": "https://b4eerodrigueza.firebaseio.com",
+    "project_id": "b4eerodrigueza",
+    "storage_bucket": "b4eerodrigueza.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492033868473:android:e13257e31f37aca9015168",
+        "android_client_info": {
+          "package_name": "com.companyname.b4.ee.rodrigueza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492033868473-3oag50sdtqs9ojajdbqh2r88ja65eion.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDflM0BuSgI2tlUuVM1FBN4H8wh_1BxYT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492033868473-3oag50sdtqs9ojajdbqh2r88ja65eion.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
