@@ -19,11 +19,13 @@ namespace B4.EE.RodriguezA.ViewModels
     {
         private TopicItem _topicItem;
         private IValidator _topicItemValidator;
+        private string alarmId;
+        
 
         public ReminderTopicItemViewModel()
         {
             _topicItemValidator = new TopicItemValidator();
-            
+
         }
 
         #region Properties
@@ -161,6 +163,13 @@ namespace B4.EE.RodriguezA.ViewModels
             set { selectedTime = value; RaisePropertyChanged(nameof(SelectedTime)); }
         }
 
+
+        private DateTime dateTimeForAlarm   ;
+        public  DateTime  DateTimeForAlarm
+        {
+            get { return dateTimeForAlarm; }
+            set { dateTimeForAlarm = value; RaisePropertyChanged(nameof(DateTimeForAlarm)); }
+        }
 
         private bool isVisible  ;
         public bool IsVisible
@@ -325,6 +334,23 @@ namespace B4.EE.RodriguezA.ViewModels
                }
            });
 
+        public ICommand CreateAlarmCommand => new Command(
+            async () =>
+            {
+                DateTimeForAlarm = ToDoDate.Date + SelectedTime;
+
+                var alarmService = DependencyService.Get<IAlarmService>();
+
+                alarmId = await alarmService.CreateAlarmAsync( ItemName, "Alert gemaakt vanuit ToDoApp", DateTimeForAlarm, DateTimeForAlarm.AddHours(2), 4);
+                if (string.IsNullOrWhiteSpace(alarmId))
+                    await Application.Current.MainPage.DisplayAlert("Error", "Geen alert gemaakt", "ok");
+                else
+                    await Application.Current.MainPage.DisplayAlert("Succes", $"Alert id:{alarmId}", "ok");
+            });
+           
+
+    
+
            
         private bool Validate(TopicItem item)
         {
@@ -339,8 +365,6 @@ namespace B4.EE.RodriguezA.ViewModels
             }
             return validationResult.IsValid;
         }
-
-
 
     }
 }

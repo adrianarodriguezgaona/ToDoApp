@@ -276,6 +276,1502 @@ namespace B4.EE.RodriguezA.Droid
 			global::Syncfusion.XForms.Android.Core.Resource.Drawable.input_layout_drop_down_icon = global::B4.EE.RodriguezA.Droid.Resource.Drawable.input_layout_drop_down_icon;
 			global::Syncfusion.XForms.Android.Core.Resource.Drawable.inputlayout_togglecollapseicon = global::B4.EE.RodriguezA.Droid.Resource.Drawable.inputlayout_togglecollapseicon;
 			global::Syncfusion.XForms.Android.Core.Resource.Drawable.inputlayout_togglevisibleicon = global::B4.EE.RodriguezA.Droid.Resource.Drawable.inputlayout_togglevisibleicon;
+			global::Plugin.Toasts.Resource.Animation.abc_fade_in = global::B4.EE.RodriguezA.Droid.Resource.Animation.abc_fade_in;
+			global::Plugin.Toasts.Resource.Animation.abc_fade_out = global::B4.EE.RodriguezA.Droid.Resource.Animation.abc_fade_out;
+			global::Plugin.Toasts.Resource.Animation.abc_grow_fade_in_from_bottom = global::B4.EE.RodriguezA.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::Plugin.Toasts.Resource.Animation.abc_popup_enter = global::B4.EE.RodriguezA.Droid.Resource.Animation.abc_popup_enter;
+			global::Plugin.Toasts.Resource.Animation.abc_popup_exit = global::B4.EE.RodriguezA.Droid.Resource.Animation.abc_popup_exit;
+			global::Plugin.Toasts.Resource.Animation.abc_shrink_fade_out_from_bottom = global::B4.EE.RodriguezA.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::Plugin.Toasts.Resource.Animation.abc_slide_in_bottom = global::B4.EE.RodriguezA.Droid.Resource.Animation.abc_slide_in_bottom;
+			global::Plugin.Toasts.Resource.Animation.abc_slide_in_top = global::B4.EE.RodriguezA.Droid.Resource.Animation.abc_slide_in_top;
+			global::Plugin.Toasts.Resource.Animation.abc_slide_out_bottom = global::B4.EE.RodriguezA.Droid.Resource.Animation.abc_slide_out_bottom;
+			global::Plugin.Toasts.Resource.Animation.abc_slide_out_top = global::B4.EE.RodriguezA.Droid.Resource.Animation.abc_slide_out_top;
+			global::Plugin.Toasts.Resource.Animation.design_bottom_sheet_slide_in = global::B4.EE.RodriguezA.Droid.Resource.Animation.design_bottom_sheet_slide_in;
+			global::Plugin.Toasts.Resource.Animation.design_bottom_sheet_slide_out = global::B4.EE.RodriguezA.Droid.Resource.Animation.design_bottom_sheet_slide_out;
+			global::Plugin.Toasts.Resource.Animation.design_snackbar_in = global::B4.EE.RodriguezA.Droid.Resource.Animation.design_snackbar_in;
+			global::Plugin.Toasts.Resource.Animation.design_snackbar_out = global::B4.EE.RodriguezA.Droid.Resource.Animation.design_snackbar_out;
+			global::Plugin.Toasts.Resource.Attribute.actionBarDivider = global::B4.EE.RodriguezA.Droid.Resource.Attribute.actionBarDivider;
+			global::Plugin.Toasts.Resource.Attribute.actionBarItemBackground = global::B4.EE.RodriguezA.Droid.Resource.Attribute.actionBarItemBackground;
+			global::Plugin.Toasts.Resource.Attribute.actionBarPopupTheme = global::B4.EE.RodriguezA.Droid.Resource.Attribute.actionBarPopupTheme;
+			global::Plugin.Toasts.Resource.Attribute.actionBarSize = global::B4.EE.RodriguezA.Droid.Resource.Attribute.actionBarSize;
+			global::Plugin.Toasts.Resource.Attribute.actionBarSplitStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.actionBarSplitStyle;
+			global::Plugin.Toasts.Resource.Attribute.actionBarStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.actionBarStyle;
+			global::Plugin.Toasts.Resource.Attribute.actionBarTabBarStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.actionBarTabBarStyle;
+			global::Plugin.Toasts.Resource.Attribute.actionBarTabStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.actionBarTabStyle;
+			global::Plugin.Toasts.Resource.Attribute.actionBarTabTextStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.actionBarTabTextStyle;
+			global::Plugin.Toasts.Resource.Attribute.actionBarTheme = global::B4.EE.RodriguezA.Droid.Resource.Attribute.actionBarTheme;
+			global::Plugin.Toasts.Resource.Attribute.actionBarWidgetTheme = global::B4.EE.RodriguezA.Droid.Resource.Attribute.actionBarWidgetTheme;
+			global::Plugin.Toasts.Resource.Attribute.actionButtonStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.actionButtonStyle;
+			global::Plugin.Toasts.Resource.Attribute.actionDropDownStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.actionDropDownStyle;
+			global::Plugin.Toasts.Resource.Attribute.actionLayout = global::B4.EE.RodriguezA.Droid.Resource.Attribute.actionLayout;
+			global::Plugin.Toasts.Resource.Attribute.actionMenuTextAppearance = global::B4.EE.RodriguezA.Droid.Resource.Attribute.actionMenuTextAppearance;
+			global::Plugin.Toasts.Resource.Attribute.actionMenuTextColor = global::B4.EE.RodriguezA.Droid.Resource.Attribute.actionMenuTextColor;
+			global::Plugin.Toasts.Resource.Attribute.actionModeBackground = global::B4.EE.RodriguezA.Droid.Resource.Attribute.actionModeBackground;
+			global::Plugin.Toasts.Resource.Attribute.actionModeCloseButtonStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.actionModeCloseButtonStyle;
+			global::Plugin.Toasts.Resource.Attribute.actionModeCloseDrawable = global::B4.EE.RodriguezA.Droid.Resource.Attribute.actionModeCloseDrawable;
+			global::Plugin.Toasts.Resource.Attribute.actionModeCopyDrawable = global::B4.EE.RodriguezA.Droid.Resource.Attribute.actionModeCopyDrawable;
+			global::Plugin.Toasts.Resource.Attribute.actionModeCutDrawable = global::B4.EE.RodriguezA.Droid.Resource.Attribute.actionModeCutDrawable;
+			global::Plugin.Toasts.Resource.Attribute.actionModeFindDrawable = global::B4.EE.RodriguezA.Droid.Resource.Attribute.actionModeFindDrawable;
+			global::Plugin.Toasts.Resource.Attribute.actionModePasteDrawable = global::B4.EE.RodriguezA.Droid.Resource.Attribute.actionModePasteDrawable;
+			global::Plugin.Toasts.Resource.Attribute.actionModePopupWindowStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.actionModePopupWindowStyle;
+			global::Plugin.Toasts.Resource.Attribute.actionModeSelectAllDrawable = global::B4.EE.RodriguezA.Droid.Resource.Attribute.actionModeSelectAllDrawable;
+			global::Plugin.Toasts.Resource.Attribute.actionModeShareDrawable = global::B4.EE.RodriguezA.Droid.Resource.Attribute.actionModeShareDrawable;
+			global::Plugin.Toasts.Resource.Attribute.actionModeSplitBackground = global::B4.EE.RodriguezA.Droid.Resource.Attribute.actionModeSplitBackground;
+			global::Plugin.Toasts.Resource.Attribute.actionModeStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.actionModeStyle;
+			global::Plugin.Toasts.Resource.Attribute.actionModeWebSearchDrawable = global::B4.EE.RodriguezA.Droid.Resource.Attribute.actionModeWebSearchDrawable;
+			global::Plugin.Toasts.Resource.Attribute.actionOverflowButtonStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.actionOverflowButtonStyle;
+			global::Plugin.Toasts.Resource.Attribute.actionOverflowMenuStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.actionOverflowMenuStyle;
+			global::Plugin.Toasts.Resource.Attribute.actionProviderClass = global::B4.EE.RodriguezA.Droid.Resource.Attribute.actionProviderClass;
+			global::Plugin.Toasts.Resource.Attribute.actionViewClass = global::B4.EE.RodriguezA.Droid.Resource.Attribute.actionViewClass;
+			global::Plugin.Toasts.Resource.Attribute.activityChooserViewStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.activityChooserViewStyle;
+			global::Plugin.Toasts.Resource.Attribute.alertDialogButtonGroupStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::Plugin.Toasts.Resource.Attribute.alertDialogCenterButtons = global::B4.EE.RodriguezA.Droid.Resource.Attribute.alertDialogCenterButtons;
+			global::Plugin.Toasts.Resource.Attribute.alertDialogStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.alertDialogStyle;
+			global::Plugin.Toasts.Resource.Attribute.alertDialogTheme = global::B4.EE.RodriguezA.Droid.Resource.Attribute.alertDialogTheme;
+			global::Plugin.Toasts.Resource.Attribute.allowStacking = global::B4.EE.RodriguezA.Droid.Resource.Attribute.allowStacking;
+			global::Plugin.Toasts.Resource.Attribute.arrowHeadLength = global::B4.EE.RodriguezA.Droid.Resource.Attribute.arrowHeadLength;
+			global::Plugin.Toasts.Resource.Attribute.arrowShaftLength = global::B4.EE.RodriguezA.Droid.Resource.Attribute.arrowShaftLength;
+			global::Plugin.Toasts.Resource.Attribute.autoCompleteTextViewStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.autoCompleteTextViewStyle;
+			global::Plugin.Toasts.Resource.Attribute.background = global::B4.EE.RodriguezA.Droid.Resource.Attribute.background;
+			global::Plugin.Toasts.Resource.Attribute.backgroundSplit = global::B4.EE.RodriguezA.Droid.Resource.Attribute.backgroundSplit;
+			global::Plugin.Toasts.Resource.Attribute.backgroundStacked = global::B4.EE.RodriguezA.Droid.Resource.Attribute.backgroundStacked;
+			global::Plugin.Toasts.Resource.Attribute.backgroundTint = global::B4.EE.RodriguezA.Droid.Resource.Attribute.backgroundTint;
+			global::Plugin.Toasts.Resource.Attribute.backgroundTintMode = global::B4.EE.RodriguezA.Droid.Resource.Attribute.backgroundTintMode;
+			global::Plugin.Toasts.Resource.Attribute.barLength = global::B4.EE.RodriguezA.Droid.Resource.Attribute.barLength;
+			global::Plugin.Toasts.Resource.Attribute.behavior_hideable = global::B4.EE.RodriguezA.Droid.Resource.Attribute.behavior_hideable;
+			global::Plugin.Toasts.Resource.Attribute.behavior_overlapTop = global::B4.EE.RodriguezA.Droid.Resource.Attribute.behavior_overlapTop;
+			global::Plugin.Toasts.Resource.Attribute.behavior_peekHeight = global::B4.EE.RodriguezA.Droid.Resource.Attribute.behavior_peekHeight;
+			global::Plugin.Toasts.Resource.Attribute.borderWidth = global::B4.EE.RodriguezA.Droid.Resource.Attribute.borderWidth;
+			global::Plugin.Toasts.Resource.Attribute.borderlessButtonStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.borderlessButtonStyle;
+			global::Plugin.Toasts.Resource.Attribute.bottomSheetDialogTheme = global::B4.EE.RodriguezA.Droid.Resource.Attribute.bottomSheetDialogTheme;
+			global::Plugin.Toasts.Resource.Attribute.bottomSheetStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.bottomSheetStyle;
+			global::Plugin.Toasts.Resource.Attribute.buttonBarButtonStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.buttonBarButtonStyle;
+			global::Plugin.Toasts.Resource.Attribute.buttonBarNegativeButtonStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::Plugin.Toasts.Resource.Attribute.buttonBarNeutralButtonStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::Plugin.Toasts.Resource.Attribute.buttonBarPositiveButtonStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::Plugin.Toasts.Resource.Attribute.buttonBarStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.buttonBarStyle;
+			global::Plugin.Toasts.Resource.Attribute.buttonPanelSideLayout = global::B4.EE.RodriguezA.Droid.Resource.Attribute.buttonPanelSideLayout;
+			global::Plugin.Toasts.Resource.Attribute.buttonStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.buttonStyle;
+			global::Plugin.Toasts.Resource.Attribute.buttonStyleSmall = global::B4.EE.RodriguezA.Droid.Resource.Attribute.buttonStyleSmall;
+			global::Plugin.Toasts.Resource.Attribute.buttonTint = global::B4.EE.RodriguezA.Droid.Resource.Attribute.buttonTint;
+			global::Plugin.Toasts.Resource.Attribute.buttonTintMode = global::B4.EE.RodriguezA.Droid.Resource.Attribute.buttonTintMode;
+			global::Plugin.Toasts.Resource.Attribute.checkboxStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.checkboxStyle;
+			global::Plugin.Toasts.Resource.Attribute.checkedTextViewStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.checkedTextViewStyle;
+			global::Plugin.Toasts.Resource.Attribute.closeIcon = global::B4.EE.RodriguezA.Droid.Resource.Attribute.closeIcon;
+			global::Plugin.Toasts.Resource.Attribute.closeItemLayout = global::B4.EE.RodriguezA.Droid.Resource.Attribute.closeItemLayout;
+			global::Plugin.Toasts.Resource.Attribute.collapseContentDescription = global::B4.EE.RodriguezA.Droid.Resource.Attribute.collapseContentDescription;
+			global::Plugin.Toasts.Resource.Attribute.collapseIcon = global::B4.EE.RodriguezA.Droid.Resource.Attribute.collapseIcon;
+			global::Plugin.Toasts.Resource.Attribute.collapsedTitleGravity = global::B4.EE.RodriguezA.Droid.Resource.Attribute.collapsedTitleGravity;
+			global::Plugin.Toasts.Resource.Attribute.collapsedTitleTextAppearance = global::B4.EE.RodriguezA.Droid.Resource.Attribute.collapsedTitleTextAppearance;
+			global::Plugin.Toasts.Resource.Attribute.color = global::B4.EE.RodriguezA.Droid.Resource.Attribute.color;
+			global::Plugin.Toasts.Resource.Attribute.colorAccent = global::B4.EE.RodriguezA.Droid.Resource.Attribute.colorAccent;
+			global::Plugin.Toasts.Resource.Attribute.colorButtonNormal = global::B4.EE.RodriguezA.Droid.Resource.Attribute.colorButtonNormal;
+			global::Plugin.Toasts.Resource.Attribute.colorControlActivated = global::B4.EE.RodriguezA.Droid.Resource.Attribute.colorControlActivated;
+			global::Plugin.Toasts.Resource.Attribute.colorControlHighlight = global::B4.EE.RodriguezA.Droid.Resource.Attribute.colorControlHighlight;
+			global::Plugin.Toasts.Resource.Attribute.colorControlNormal = global::B4.EE.RodriguezA.Droid.Resource.Attribute.colorControlNormal;
+			global::Plugin.Toasts.Resource.Attribute.colorPrimary = global::B4.EE.RodriguezA.Droid.Resource.Attribute.colorPrimary;
+			global::Plugin.Toasts.Resource.Attribute.colorPrimaryDark = global::B4.EE.RodriguezA.Droid.Resource.Attribute.colorPrimaryDark;
+			global::Plugin.Toasts.Resource.Attribute.colorSwitchThumbNormal = global::B4.EE.RodriguezA.Droid.Resource.Attribute.colorSwitchThumbNormal;
+			global::Plugin.Toasts.Resource.Attribute.commitIcon = global::B4.EE.RodriguezA.Droid.Resource.Attribute.commitIcon;
+			global::Plugin.Toasts.Resource.Attribute.contentInsetEnd = global::B4.EE.RodriguezA.Droid.Resource.Attribute.contentInsetEnd;
+			global::Plugin.Toasts.Resource.Attribute.contentInsetLeft = global::B4.EE.RodriguezA.Droid.Resource.Attribute.contentInsetLeft;
+			global::Plugin.Toasts.Resource.Attribute.contentInsetRight = global::B4.EE.RodriguezA.Droid.Resource.Attribute.contentInsetRight;
+			global::Plugin.Toasts.Resource.Attribute.contentInsetStart = global::B4.EE.RodriguezA.Droid.Resource.Attribute.contentInsetStart;
+			global::Plugin.Toasts.Resource.Attribute.contentScrim = global::B4.EE.RodriguezA.Droid.Resource.Attribute.contentScrim;
+			global::Plugin.Toasts.Resource.Attribute.controlBackground = global::B4.EE.RodriguezA.Droid.Resource.Attribute.controlBackground;
+			global::Plugin.Toasts.Resource.Attribute.counterEnabled = global::B4.EE.RodriguezA.Droid.Resource.Attribute.counterEnabled;
+			global::Plugin.Toasts.Resource.Attribute.counterMaxLength = global::B4.EE.RodriguezA.Droid.Resource.Attribute.counterMaxLength;
+			global::Plugin.Toasts.Resource.Attribute.counterOverflowTextAppearance = global::B4.EE.RodriguezA.Droid.Resource.Attribute.counterOverflowTextAppearance;
+			global::Plugin.Toasts.Resource.Attribute.counterTextAppearance = global::B4.EE.RodriguezA.Droid.Resource.Attribute.counterTextAppearance;
+			global::Plugin.Toasts.Resource.Attribute.customNavigationLayout = global::B4.EE.RodriguezA.Droid.Resource.Attribute.customNavigationLayout;
+			global::Plugin.Toasts.Resource.Attribute.defaultQueryHint = global::B4.EE.RodriguezA.Droid.Resource.Attribute.defaultQueryHint;
+			global::Plugin.Toasts.Resource.Attribute.dialogPreferredPadding = global::B4.EE.RodriguezA.Droid.Resource.Attribute.dialogPreferredPadding;
+			global::Plugin.Toasts.Resource.Attribute.dialogTheme = global::B4.EE.RodriguezA.Droid.Resource.Attribute.dialogTheme;
+			global::Plugin.Toasts.Resource.Attribute.displayOptions = global::B4.EE.RodriguezA.Droid.Resource.Attribute.displayOptions;
+			global::Plugin.Toasts.Resource.Attribute.divider = global::B4.EE.RodriguezA.Droid.Resource.Attribute.divider;
+			global::Plugin.Toasts.Resource.Attribute.dividerHorizontal = global::B4.EE.RodriguezA.Droid.Resource.Attribute.dividerHorizontal;
+			global::Plugin.Toasts.Resource.Attribute.dividerPadding = global::B4.EE.RodriguezA.Droid.Resource.Attribute.dividerPadding;
+			global::Plugin.Toasts.Resource.Attribute.dividerVertical = global::B4.EE.RodriguezA.Droid.Resource.Attribute.dividerVertical;
+			global::Plugin.Toasts.Resource.Attribute.drawableSize = global::B4.EE.RodriguezA.Droid.Resource.Attribute.drawableSize;
+			global::Plugin.Toasts.Resource.Attribute.drawerArrowStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.drawerArrowStyle;
+			global::Plugin.Toasts.Resource.Attribute.dropDownListViewStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.dropDownListViewStyle;
+			global::Plugin.Toasts.Resource.Attribute.dropdownListPreferredItemHeight = global::B4.EE.RodriguezA.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::Plugin.Toasts.Resource.Attribute.editTextBackground = global::B4.EE.RodriguezA.Droid.Resource.Attribute.editTextBackground;
+			global::Plugin.Toasts.Resource.Attribute.editTextColor = global::B4.EE.RodriguezA.Droid.Resource.Attribute.editTextColor;
+			global::Plugin.Toasts.Resource.Attribute.editTextStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.editTextStyle;
+			global::Plugin.Toasts.Resource.Attribute.elevation = global::B4.EE.RodriguezA.Droid.Resource.Attribute.elevation;
+			global::Plugin.Toasts.Resource.Attribute.errorEnabled = global::B4.EE.RodriguezA.Droid.Resource.Attribute.errorEnabled;
+			global::Plugin.Toasts.Resource.Attribute.errorTextAppearance = global::B4.EE.RodriguezA.Droid.Resource.Attribute.errorTextAppearance;
+			global::Plugin.Toasts.Resource.Attribute.expandActivityOverflowButtonDrawable = global::B4.EE.RodriguezA.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::Plugin.Toasts.Resource.Attribute.expanded = global::B4.EE.RodriguezA.Droid.Resource.Attribute.expanded;
+			global::Plugin.Toasts.Resource.Attribute.expandedTitleGravity = global::B4.EE.RodriguezA.Droid.Resource.Attribute.expandedTitleGravity;
+			global::Plugin.Toasts.Resource.Attribute.expandedTitleMargin = global::B4.EE.RodriguezA.Droid.Resource.Attribute.expandedTitleMargin;
+			global::Plugin.Toasts.Resource.Attribute.expandedTitleMarginBottom = global::B4.EE.RodriguezA.Droid.Resource.Attribute.expandedTitleMarginBottom;
+			global::Plugin.Toasts.Resource.Attribute.expandedTitleMarginEnd = global::B4.EE.RodriguezA.Droid.Resource.Attribute.expandedTitleMarginEnd;
+			global::Plugin.Toasts.Resource.Attribute.expandedTitleMarginStart = global::B4.EE.RodriguezA.Droid.Resource.Attribute.expandedTitleMarginStart;
+			global::Plugin.Toasts.Resource.Attribute.expandedTitleMarginTop = global::B4.EE.RodriguezA.Droid.Resource.Attribute.expandedTitleMarginTop;
+			global::Plugin.Toasts.Resource.Attribute.expandedTitleTextAppearance = global::B4.EE.RodriguezA.Droid.Resource.Attribute.expandedTitleTextAppearance;
+			global::Plugin.Toasts.Resource.Attribute.fabSize = global::B4.EE.RodriguezA.Droid.Resource.Attribute.fabSize;
+			global::Plugin.Toasts.Resource.Attribute.foregroundInsidePadding = global::B4.EE.RodriguezA.Droid.Resource.Attribute.foregroundInsidePadding;
+			global::Plugin.Toasts.Resource.Attribute.gapBetweenBars = global::B4.EE.RodriguezA.Droid.Resource.Attribute.gapBetweenBars;
+			global::Plugin.Toasts.Resource.Attribute.goIcon = global::B4.EE.RodriguezA.Droid.Resource.Attribute.goIcon;
+			global::Plugin.Toasts.Resource.Attribute.headerLayout = global::B4.EE.RodriguezA.Droid.Resource.Attribute.headerLayout;
+			global::Plugin.Toasts.Resource.Attribute.height = global::B4.EE.RodriguezA.Droid.Resource.Attribute.height;
+			global::Plugin.Toasts.Resource.Attribute.hideOnContentScroll = global::B4.EE.RodriguezA.Droid.Resource.Attribute.hideOnContentScroll;
+			global::Plugin.Toasts.Resource.Attribute.hintAnimationEnabled = global::B4.EE.RodriguezA.Droid.Resource.Attribute.hintAnimationEnabled;
+			global::Plugin.Toasts.Resource.Attribute.hintEnabled = global::B4.EE.RodriguezA.Droid.Resource.Attribute.hintEnabled;
+			global::Plugin.Toasts.Resource.Attribute.hintTextAppearance = global::B4.EE.RodriguezA.Droid.Resource.Attribute.hintTextAppearance;
+			global::Plugin.Toasts.Resource.Attribute.homeAsUpIndicator = global::B4.EE.RodriguezA.Droid.Resource.Attribute.homeAsUpIndicator;
+			global::Plugin.Toasts.Resource.Attribute.homeLayout = global::B4.EE.RodriguezA.Droid.Resource.Attribute.homeLayout;
+			global::Plugin.Toasts.Resource.Attribute.icon = global::B4.EE.RodriguezA.Droid.Resource.Attribute.icon;
+			global::Plugin.Toasts.Resource.Attribute.iconifiedByDefault = global::B4.EE.RodriguezA.Droid.Resource.Attribute.iconifiedByDefault;
+			global::Plugin.Toasts.Resource.Attribute.imageButtonStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.imageButtonStyle;
+			global::Plugin.Toasts.Resource.Attribute.indeterminateProgressStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.indeterminateProgressStyle;
+			global::Plugin.Toasts.Resource.Attribute.initialActivityCount = global::B4.EE.RodriguezA.Droid.Resource.Attribute.initialActivityCount;
+			global::Plugin.Toasts.Resource.Attribute.insetForeground = global::B4.EE.RodriguezA.Droid.Resource.Attribute.insetForeground;
+			global::Plugin.Toasts.Resource.Attribute.isLightTheme = global::B4.EE.RodriguezA.Droid.Resource.Attribute.isLightTheme;
+			global::Plugin.Toasts.Resource.Attribute.itemBackground = global::B4.EE.RodriguezA.Droid.Resource.Attribute.itemBackground;
+			global::Plugin.Toasts.Resource.Attribute.itemIconTint = global::B4.EE.RodriguezA.Droid.Resource.Attribute.itemIconTint;
+			global::Plugin.Toasts.Resource.Attribute.itemPadding = global::B4.EE.RodriguezA.Droid.Resource.Attribute.itemPadding;
+			global::Plugin.Toasts.Resource.Attribute.itemTextAppearance = global::B4.EE.RodriguezA.Droid.Resource.Attribute.itemTextAppearance;
+			global::Plugin.Toasts.Resource.Attribute.itemTextColor = global::B4.EE.RodriguezA.Droid.Resource.Attribute.itemTextColor;
+			global::Plugin.Toasts.Resource.Attribute.keylines = global::B4.EE.RodriguezA.Droid.Resource.Attribute.keylines;
+			global::Plugin.Toasts.Resource.Attribute.layout = global::B4.EE.RodriguezA.Droid.Resource.Attribute.layout;
+			global::Plugin.Toasts.Resource.Attribute.layoutManager = global::B4.EE.RodriguezA.Droid.Resource.Attribute.layoutManager;
+			global::Plugin.Toasts.Resource.Attribute.layout_anchor = global::B4.EE.RodriguezA.Droid.Resource.Attribute.layout_anchor;
+			global::Plugin.Toasts.Resource.Attribute.layout_anchorGravity = global::B4.EE.RodriguezA.Droid.Resource.Attribute.layout_anchorGravity;
+			global::Plugin.Toasts.Resource.Attribute.layout_behavior = global::B4.EE.RodriguezA.Droid.Resource.Attribute.layout_behavior;
+			global::Plugin.Toasts.Resource.Attribute.layout_collapseMode = global::B4.EE.RodriguezA.Droid.Resource.Attribute.layout_collapseMode;
+			global::Plugin.Toasts.Resource.Attribute.layout_collapseParallaxMultiplier = global::B4.EE.RodriguezA.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::Plugin.Toasts.Resource.Attribute.layout_keyline = global::B4.EE.RodriguezA.Droid.Resource.Attribute.layout_keyline;
+			global::Plugin.Toasts.Resource.Attribute.layout_scrollFlags = global::B4.EE.RodriguezA.Droid.Resource.Attribute.layout_scrollFlags;
+			global::Plugin.Toasts.Resource.Attribute.layout_scrollInterpolator = global::B4.EE.RodriguezA.Droid.Resource.Attribute.layout_scrollInterpolator;
+			global::Plugin.Toasts.Resource.Attribute.listChoiceBackgroundIndicator = global::B4.EE.RodriguezA.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::Plugin.Toasts.Resource.Attribute.listDividerAlertDialog = global::B4.EE.RodriguezA.Droid.Resource.Attribute.listDividerAlertDialog;
+			global::Plugin.Toasts.Resource.Attribute.listItemLayout = global::B4.EE.RodriguezA.Droid.Resource.Attribute.listItemLayout;
+			global::Plugin.Toasts.Resource.Attribute.listLayout = global::B4.EE.RodriguezA.Droid.Resource.Attribute.listLayout;
+			global::Plugin.Toasts.Resource.Attribute.listPopupWindowStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.listPopupWindowStyle;
+			global::Plugin.Toasts.Resource.Attribute.listPreferredItemHeight = global::B4.EE.RodriguezA.Droid.Resource.Attribute.listPreferredItemHeight;
+			global::Plugin.Toasts.Resource.Attribute.listPreferredItemHeightLarge = global::B4.EE.RodriguezA.Droid.Resource.Attribute.listPreferredItemHeightLarge;
+			global::Plugin.Toasts.Resource.Attribute.listPreferredItemHeightSmall = global::B4.EE.RodriguezA.Droid.Resource.Attribute.listPreferredItemHeightSmall;
+			global::Plugin.Toasts.Resource.Attribute.listPreferredItemPaddingLeft = global::B4.EE.RodriguezA.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::Plugin.Toasts.Resource.Attribute.listPreferredItemPaddingRight = global::B4.EE.RodriguezA.Droid.Resource.Attribute.listPreferredItemPaddingRight;
+			global::Plugin.Toasts.Resource.Attribute.logo = global::B4.EE.RodriguezA.Droid.Resource.Attribute.logo;
+			global::Plugin.Toasts.Resource.Attribute.logoDescription = global::B4.EE.RodriguezA.Droid.Resource.Attribute.logoDescription;
+			global::Plugin.Toasts.Resource.Attribute.maxActionInlineWidth = global::B4.EE.RodriguezA.Droid.Resource.Attribute.maxActionInlineWidth;
+			global::Plugin.Toasts.Resource.Attribute.maxButtonHeight = global::B4.EE.RodriguezA.Droid.Resource.Attribute.maxButtonHeight;
+			global::Plugin.Toasts.Resource.Attribute.measureWithLargestChild = global::B4.EE.RodriguezA.Droid.Resource.Attribute.measureWithLargestChild;
+			global::Plugin.Toasts.Resource.Attribute.menu = global::B4.EE.RodriguezA.Droid.Resource.Attribute.menu;
+			global::Plugin.Toasts.Resource.Attribute.multiChoiceItemLayout = global::B4.EE.RodriguezA.Droid.Resource.Attribute.multiChoiceItemLayout;
+			global::Plugin.Toasts.Resource.Attribute.navigationContentDescription = global::B4.EE.RodriguezA.Droid.Resource.Attribute.navigationContentDescription;
+			global::Plugin.Toasts.Resource.Attribute.navigationIcon = global::B4.EE.RodriguezA.Droid.Resource.Attribute.navigationIcon;
+			global::Plugin.Toasts.Resource.Attribute.navigationMode = global::B4.EE.RodriguezA.Droid.Resource.Attribute.navigationMode;
+			global::Plugin.Toasts.Resource.Attribute.overlapAnchor = global::B4.EE.RodriguezA.Droid.Resource.Attribute.overlapAnchor;
+			global::Plugin.Toasts.Resource.Attribute.paddingEnd = global::B4.EE.RodriguezA.Droid.Resource.Attribute.paddingEnd;
+			global::Plugin.Toasts.Resource.Attribute.paddingStart = global::B4.EE.RodriguezA.Droid.Resource.Attribute.paddingStart;
+			global::Plugin.Toasts.Resource.Attribute.panelBackground = global::B4.EE.RodriguezA.Droid.Resource.Attribute.panelBackground;
+			global::Plugin.Toasts.Resource.Attribute.panelMenuListTheme = global::B4.EE.RodriguezA.Droid.Resource.Attribute.panelMenuListTheme;
+			global::Plugin.Toasts.Resource.Attribute.panelMenuListWidth = global::B4.EE.RodriguezA.Droid.Resource.Attribute.panelMenuListWidth;
+			global::Plugin.Toasts.Resource.Attribute.popupMenuStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.popupMenuStyle;
+			global::Plugin.Toasts.Resource.Attribute.popupTheme = global::B4.EE.RodriguezA.Droid.Resource.Attribute.popupTheme;
+			global::Plugin.Toasts.Resource.Attribute.popupWindowStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.popupWindowStyle;
+			global::Plugin.Toasts.Resource.Attribute.preserveIconSpacing = global::B4.EE.RodriguezA.Droid.Resource.Attribute.preserveIconSpacing;
+			global::Plugin.Toasts.Resource.Attribute.pressedTranslationZ = global::B4.EE.RodriguezA.Droid.Resource.Attribute.pressedTranslationZ;
+			global::Plugin.Toasts.Resource.Attribute.progressBarPadding = global::B4.EE.RodriguezA.Droid.Resource.Attribute.progressBarPadding;
+			global::Plugin.Toasts.Resource.Attribute.progressBarStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.progressBarStyle;
+			global::Plugin.Toasts.Resource.Attribute.queryBackground = global::B4.EE.RodriguezA.Droid.Resource.Attribute.queryBackground;
+			global::Plugin.Toasts.Resource.Attribute.queryHint = global::B4.EE.RodriguezA.Droid.Resource.Attribute.queryHint;
+			global::Plugin.Toasts.Resource.Attribute.radioButtonStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.radioButtonStyle;
+			global::Plugin.Toasts.Resource.Attribute.ratingBarStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.ratingBarStyle;
+			global::Plugin.Toasts.Resource.Attribute.ratingBarStyleIndicator = global::B4.EE.RodriguezA.Droid.Resource.Attribute.ratingBarStyleIndicator;
+			global::Plugin.Toasts.Resource.Attribute.ratingBarStyleSmall = global::B4.EE.RodriguezA.Droid.Resource.Attribute.ratingBarStyleSmall;
+			global::Plugin.Toasts.Resource.Attribute.reverseLayout = global::B4.EE.RodriguezA.Droid.Resource.Attribute.reverseLayout;
+			global::Plugin.Toasts.Resource.Attribute.rippleColor = global::B4.EE.RodriguezA.Droid.Resource.Attribute.rippleColor;
+			global::Plugin.Toasts.Resource.Attribute.searchHintIcon = global::B4.EE.RodriguezA.Droid.Resource.Attribute.searchHintIcon;
+			global::Plugin.Toasts.Resource.Attribute.searchIcon = global::B4.EE.RodriguezA.Droid.Resource.Attribute.searchIcon;
+			global::Plugin.Toasts.Resource.Attribute.searchViewStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.searchViewStyle;
+			global::Plugin.Toasts.Resource.Attribute.seekBarStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.seekBarStyle;
+			global::Plugin.Toasts.Resource.Attribute.selectableItemBackground = global::B4.EE.RodriguezA.Droid.Resource.Attribute.selectableItemBackground;
+			global::Plugin.Toasts.Resource.Attribute.selectableItemBackgroundBorderless = global::B4.EE.RodriguezA.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::Plugin.Toasts.Resource.Attribute.showAsAction = global::B4.EE.RodriguezA.Droid.Resource.Attribute.showAsAction;
+			global::Plugin.Toasts.Resource.Attribute.showDividers = global::B4.EE.RodriguezA.Droid.Resource.Attribute.showDividers;
+			global::Plugin.Toasts.Resource.Attribute.showText = global::B4.EE.RodriguezA.Droid.Resource.Attribute.showText;
+			global::Plugin.Toasts.Resource.Attribute.singleChoiceItemLayout = global::B4.EE.RodriguezA.Droid.Resource.Attribute.singleChoiceItemLayout;
+			global::Plugin.Toasts.Resource.Attribute.spanCount = global::B4.EE.RodriguezA.Droid.Resource.Attribute.spanCount;
+			global::Plugin.Toasts.Resource.Attribute.spinBars = global::B4.EE.RodriguezA.Droid.Resource.Attribute.spinBars;
+			global::Plugin.Toasts.Resource.Attribute.spinnerDropDownItemStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.spinnerDropDownItemStyle;
+			global::Plugin.Toasts.Resource.Attribute.spinnerStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.spinnerStyle;
+			global::Plugin.Toasts.Resource.Attribute.splitTrack = global::B4.EE.RodriguezA.Droid.Resource.Attribute.splitTrack;
+			global::Plugin.Toasts.Resource.Attribute.srcCompat = global::B4.EE.RodriguezA.Droid.Resource.Attribute.srcCompat;
+			global::Plugin.Toasts.Resource.Attribute.stackFromEnd = global::B4.EE.RodriguezA.Droid.Resource.Attribute.stackFromEnd;
+			global::Plugin.Toasts.Resource.Attribute.state_above_anchor = global::B4.EE.RodriguezA.Droid.Resource.Attribute.state_above_anchor;
+			global::Plugin.Toasts.Resource.Attribute.statusBarBackground = global::B4.EE.RodriguezA.Droid.Resource.Attribute.statusBarBackground;
+			global::Plugin.Toasts.Resource.Attribute.statusBarScrim = global::B4.EE.RodriguezA.Droid.Resource.Attribute.statusBarScrim;
+			global::Plugin.Toasts.Resource.Attribute.submitBackground = global::B4.EE.RodriguezA.Droid.Resource.Attribute.submitBackground;
+			global::Plugin.Toasts.Resource.Attribute.subtitle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.subtitle;
+			global::Plugin.Toasts.Resource.Attribute.subtitleTextAppearance = global::B4.EE.RodriguezA.Droid.Resource.Attribute.subtitleTextAppearance;
+			global::Plugin.Toasts.Resource.Attribute.subtitleTextColor = global::B4.EE.RodriguezA.Droid.Resource.Attribute.subtitleTextColor;
+			global::Plugin.Toasts.Resource.Attribute.subtitleTextStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.subtitleTextStyle;
+			global::Plugin.Toasts.Resource.Attribute.suggestionRowLayout = global::B4.EE.RodriguezA.Droid.Resource.Attribute.suggestionRowLayout;
+			global::Plugin.Toasts.Resource.Attribute.switchMinWidth = global::B4.EE.RodriguezA.Droid.Resource.Attribute.switchMinWidth;
+			global::Plugin.Toasts.Resource.Attribute.switchPadding = global::B4.EE.RodriguezA.Droid.Resource.Attribute.switchPadding;
+			global::Plugin.Toasts.Resource.Attribute.switchStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.switchStyle;
+			global::Plugin.Toasts.Resource.Attribute.switchTextAppearance = global::B4.EE.RodriguezA.Droid.Resource.Attribute.switchTextAppearance;
+			global::Plugin.Toasts.Resource.Attribute.tabBackground = global::B4.EE.RodriguezA.Droid.Resource.Attribute.tabBackground;
+			global::Plugin.Toasts.Resource.Attribute.tabContentStart = global::B4.EE.RodriguezA.Droid.Resource.Attribute.tabContentStart;
+			global::Plugin.Toasts.Resource.Attribute.tabGravity = global::B4.EE.RodriguezA.Droid.Resource.Attribute.tabGravity;
+			global::Plugin.Toasts.Resource.Attribute.tabIndicatorColor = global::B4.EE.RodriguezA.Droid.Resource.Attribute.tabIndicatorColor;
+			global::Plugin.Toasts.Resource.Attribute.tabIndicatorHeight = global::B4.EE.RodriguezA.Droid.Resource.Attribute.tabIndicatorHeight;
+			global::Plugin.Toasts.Resource.Attribute.tabMaxWidth = global::B4.EE.RodriguezA.Droid.Resource.Attribute.tabMaxWidth;
+			global::Plugin.Toasts.Resource.Attribute.tabMinWidth = global::B4.EE.RodriguezA.Droid.Resource.Attribute.tabMinWidth;
+			global::Plugin.Toasts.Resource.Attribute.tabMode = global::B4.EE.RodriguezA.Droid.Resource.Attribute.tabMode;
+			global::Plugin.Toasts.Resource.Attribute.tabPadding = global::B4.EE.RodriguezA.Droid.Resource.Attribute.tabPadding;
+			global::Plugin.Toasts.Resource.Attribute.tabPaddingBottom = global::B4.EE.RodriguezA.Droid.Resource.Attribute.tabPaddingBottom;
+			global::Plugin.Toasts.Resource.Attribute.tabPaddingEnd = global::B4.EE.RodriguezA.Droid.Resource.Attribute.tabPaddingEnd;
+			global::Plugin.Toasts.Resource.Attribute.tabPaddingStart = global::B4.EE.RodriguezA.Droid.Resource.Attribute.tabPaddingStart;
+			global::Plugin.Toasts.Resource.Attribute.tabPaddingTop = global::B4.EE.RodriguezA.Droid.Resource.Attribute.tabPaddingTop;
+			global::Plugin.Toasts.Resource.Attribute.tabSelectedTextColor = global::B4.EE.RodriguezA.Droid.Resource.Attribute.tabSelectedTextColor;
+			global::Plugin.Toasts.Resource.Attribute.tabTextAppearance = global::B4.EE.RodriguezA.Droid.Resource.Attribute.tabTextAppearance;
+			global::Plugin.Toasts.Resource.Attribute.tabTextColor = global::B4.EE.RodriguezA.Droid.Resource.Attribute.tabTextColor;
+			global::Plugin.Toasts.Resource.Attribute.textAllCaps = global::B4.EE.RodriguezA.Droid.Resource.Attribute.textAllCaps;
+			global::Plugin.Toasts.Resource.Attribute.textAppearanceLargePopupMenu = global::B4.EE.RodriguezA.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::Plugin.Toasts.Resource.Attribute.textAppearanceListItem = global::B4.EE.RodriguezA.Droid.Resource.Attribute.textAppearanceListItem;
+			global::Plugin.Toasts.Resource.Attribute.textAppearanceListItemSmall = global::B4.EE.RodriguezA.Droid.Resource.Attribute.textAppearanceListItemSmall;
+			global::Plugin.Toasts.Resource.Attribute.textAppearanceSearchResultSubtitle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::Plugin.Toasts.Resource.Attribute.textAppearanceSearchResultTitle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::Plugin.Toasts.Resource.Attribute.textAppearanceSmallPopupMenu = global::B4.EE.RodriguezA.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::Plugin.Toasts.Resource.Attribute.textColorAlertDialogListItem = global::B4.EE.RodriguezA.Droid.Resource.Attribute.textColorAlertDialogListItem;
+			global::Plugin.Toasts.Resource.Attribute.textColorSearchUrl = global::B4.EE.RodriguezA.Droid.Resource.Attribute.textColorSearchUrl;
+			global::Plugin.Toasts.Resource.Attribute.theme = global::B4.EE.RodriguezA.Droid.Resource.Attribute.theme;
+			global::Plugin.Toasts.Resource.Attribute.thickness = global::B4.EE.RodriguezA.Droid.Resource.Attribute.thickness;
+			global::Plugin.Toasts.Resource.Attribute.thumbTextPadding = global::B4.EE.RodriguezA.Droid.Resource.Attribute.thumbTextPadding;
+			global::Plugin.Toasts.Resource.Attribute.title = global::B4.EE.RodriguezA.Droid.Resource.Attribute.title;
+			global::Plugin.Toasts.Resource.Attribute.titleEnabled = global::B4.EE.RodriguezA.Droid.Resource.Attribute.titleEnabled;
+			global::Plugin.Toasts.Resource.Attribute.titleMarginBottom = global::B4.EE.RodriguezA.Droid.Resource.Attribute.titleMarginBottom;
+			global::Plugin.Toasts.Resource.Attribute.titleMarginEnd = global::B4.EE.RodriguezA.Droid.Resource.Attribute.titleMarginEnd;
+			global::Plugin.Toasts.Resource.Attribute.titleMarginStart = global::B4.EE.RodriguezA.Droid.Resource.Attribute.titleMarginStart;
+			global::Plugin.Toasts.Resource.Attribute.titleMarginTop = global::B4.EE.RodriguezA.Droid.Resource.Attribute.titleMarginTop;
+			global::Plugin.Toasts.Resource.Attribute.titleMargins = global::B4.EE.RodriguezA.Droid.Resource.Attribute.titleMargins;
+			global::Plugin.Toasts.Resource.Attribute.titleTextAppearance = global::B4.EE.RodriguezA.Droid.Resource.Attribute.titleTextAppearance;
+			global::Plugin.Toasts.Resource.Attribute.titleTextColor = global::B4.EE.RodriguezA.Droid.Resource.Attribute.titleTextColor;
+			global::Plugin.Toasts.Resource.Attribute.titleTextStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.titleTextStyle;
+			global::Plugin.Toasts.Resource.Attribute.toolbarId = global::B4.EE.RodriguezA.Droid.Resource.Attribute.toolbarId;
+			global::Plugin.Toasts.Resource.Attribute.toolbarNavigationButtonStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::Plugin.Toasts.Resource.Attribute.toolbarStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.toolbarStyle;
+			global::Plugin.Toasts.Resource.Attribute.track = global::B4.EE.RodriguezA.Droid.Resource.Attribute.track;
+			global::Plugin.Toasts.Resource.Attribute.useCompatPadding = global::B4.EE.RodriguezA.Droid.Resource.Attribute.useCompatPadding;
+			global::Plugin.Toasts.Resource.Attribute.voiceIcon = global::B4.EE.RodriguezA.Droid.Resource.Attribute.voiceIcon;
+			global::Plugin.Toasts.Resource.Attribute.windowActionBar = global::B4.EE.RodriguezA.Droid.Resource.Attribute.windowActionBar;
+			global::Plugin.Toasts.Resource.Attribute.windowActionBarOverlay = global::B4.EE.RodriguezA.Droid.Resource.Attribute.windowActionBarOverlay;
+			global::Plugin.Toasts.Resource.Attribute.windowActionModeOverlay = global::B4.EE.RodriguezA.Droid.Resource.Attribute.windowActionModeOverlay;
+			global::Plugin.Toasts.Resource.Attribute.windowFixedHeightMajor = global::B4.EE.RodriguezA.Droid.Resource.Attribute.windowFixedHeightMajor;
+			global::Plugin.Toasts.Resource.Attribute.windowFixedHeightMinor = global::B4.EE.RodriguezA.Droid.Resource.Attribute.windowFixedHeightMinor;
+			global::Plugin.Toasts.Resource.Attribute.windowFixedWidthMajor = global::B4.EE.RodriguezA.Droid.Resource.Attribute.windowFixedWidthMajor;
+			global::Plugin.Toasts.Resource.Attribute.windowFixedWidthMinor = global::B4.EE.RodriguezA.Droid.Resource.Attribute.windowFixedWidthMinor;
+			global::Plugin.Toasts.Resource.Attribute.windowMinWidthMajor = global::B4.EE.RodriguezA.Droid.Resource.Attribute.windowMinWidthMajor;
+			global::Plugin.Toasts.Resource.Attribute.windowMinWidthMinor = global::B4.EE.RodriguezA.Droid.Resource.Attribute.windowMinWidthMinor;
+			global::Plugin.Toasts.Resource.Attribute.windowNoTitle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.windowNoTitle;
+			global::Plugin.Toasts.Resource.Boolean.abc_action_bar_embed_tabs = global::B4.EE.RodriguezA.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::Plugin.Toasts.Resource.Boolean.abc_allow_stacked_button_bar = global::B4.EE.RodriguezA.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::Plugin.Toasts.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::B4.EE.RodriguezA.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::Plugin.Toasts.Resource.Color.abc_background_cache_hint_selector_material_dark = global::B4.EE.RodriguezA.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::Plugin.Toasts.Resource.Color.abc_background_cache_hint_selector_material_light = global::B4.EE.RodriguezA.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::Plugin.Toasts.Resource.Color.abc_color_highlight_material = global::B4.EE.RodriguezA.Droid.Resource.Color.abc_color_highlight_material;
+			global::Plugin.Toasts.Resource.Color.abc_input_method_navigation_guard = global::B4.EE.RodriguezA.Droid.Resource.Color.abc_input_method_navigation_guard;
+			global::Plugin.Toasts.Resource.Color.abc_primary_text_disable_only_material_dark = global::B4.EE.RodriguezA.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::Plugin.Toasts.Resource.Color.abc_primary_text_disable_only_material_light = global::B4.EE.RodriguezA.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::Plugin.Toasts.Resource.Color.abc_primary_text_material_dark = global::B4.EE.RodriguezA.Droid.Resource.Color.abc_primary_text_material_dark;
+			global::Plugin.Toasts.Resource.Color.abc_primary_text_material_light = global::B4.EE.RodriguezA.Droid.Resource.Color.abc_primary_text_material_light;
+			global::Plugin.Toasts.Resource.Color.abc_search_url_text = global::B4.EE.RodriguezA.Droid.Resource.Color.abc_search_url_text;
+			global::Plugin.Toasts.Resource.Color.abc_search_url_text_normal = global::B4.EE.RodriguezA.Droid.Resource.Color.abc_search_url_text_normal;
+			global::Plugin.Toasts.Resource.Color.abc_search_url_text_pressed = global::B4.EE.RodriguezA.Droid.Resource.Color.abc_search_url_text_pressed;
+			global::Plugin.Toasts.Resource.Color.abc_search_url_text_selected = global::B4.EE.RodriguezA.Droid.Resource.Color.abc_search_url_text_selected;
+			global::Plugin.Toasts.Resource.Color.abc_secondary_text_material_dark = global::B4.EE.RodriguezA.Droid.Resource.Color.abc_secondary_text_material_dark;
+			global::Plugin.Toasts.Resource.Color.abc_secondary_text_material_light = global::B4.EE.RodriguezA.Droid.Resource.Color.abc_secondary_text_material_light;
+			global::Plugin.Toasts.Resource.Color.accent_material_dark = global::B4.EE.RodriguezA.Droid.Resource.Color.accent_material_dark;
+			global::Plugin.Toasts.Resource.Color.accent_material_light = global::B4.EE.RodriguezA.Droid.Resource.Color.accent_material_light;
+			global::Plugin.Toasts.Resource.Color.background_floating_material_dark = global::B4.EE.RodriguezA.Droid.Resource.Color.background_floating_material_dark;
+			global::Plugin.Toasts.Resource.Color.background_floating_material_light = global::B4.EE.RodriguezA.Droid.Resource.Color.background_floating_material_light;
+			global::Plugin.Toasts.Resource.Color.background_material_dark = global::B4.EE.RodriguezA.Droid.Resource.Color.background_material_dark;
+			global::Plugin.Toasts.Resource.Color.background_material_light = global::B4.EE.RodriguezA.Droid.Resource.Color.background_material_light;
+			global::Plugin.Toasts.Resource.Color.bright_foreground_disabled_material_dark = global::B4.EE.RodriguezA.Droid.Resource.Color.bright_foreground_disabled_material_dark;
+			global::Plugin.Toasts.Resource.Color.bright_foreground_disabled_material_light = global::B4.EE.RodriguezA.Droid.Resource.Color.bright_foreground_disabled_material_light;
+			global::Plugin.Toasts.Resource.Color.bright_foreground_inverse_material_dark = global::B4.EE.RodriguezA.Droid.Resource.Color.bright_foreground_inverse_material_dark;
+			global::Plugin.Toasts.Resource.Color.bright_foreground_inverse_material_light = global::B4.EE.RodriguezA.Droid.Resource.Color.bright_foreground_inverse_material_light;
+			global::Plugin.Toasts.Resource.Color.bright_foreground_material_dark = global::B4.EE.RodriguezA.Droid.Resource.Color.bright_foreground_material_dark;
+			global::Plugin.Toasts.Resource.Color.bright_foreground_material_light = global::B4.EE.RodriguezA.Droid.Resource.Color.bright_foreground_material_light;
+			global::Plugin.Toasts.Resource.Color.button_material_dark = global::B4.EE.RodriguezA.Droid.Resource.Color.button_material_dark;
+			global::Plugin.Toasts.Resource.Color.button_material_light = global::B4.EE.RodriguezA.Droid.Resource.Color.button_material_light;
+			global::Plugin.Toasts.Resource.Color.design_fab_shadow_end_color = global::B4.EE.RodriguezA.Droid.Resource.Color.design_fab_shadow_end_color;
+			global::Plugin.Toasts.Resource.Color.design_fab_shadow_mid_color = global::B4.EE.RodriguezA.Droid.Resource.Color.design_fab_shadow_mid_color;
+			global::Plugin.Toasts.Resource.Color.design_fab_shadow_start_color = global::B4.EE.RodriguezA.Droid.Resource.Color.design_fab_shadow_start_color;
+			global::Plugin.Toasts.Resource.Color.design_fab_stroke_end_inner_color = global::B4.EE.RodriguezA.Droid.Resource.Color.design_fab_stroke_end_inner_color;
+			global::Plugin.Toasts.Resource.Color.design_fab_stroke_end_outer_color = global::B4.EE.RodriguezA.Droid.Resource.Color.design_fab_stroke_end_outer_color;
+			global::Plugin.Toasts.Resource.Color.design_fab_stroke_top_inner_color = global::B4.EE.RodriguezA.Droid.Resource.Color.design_fab_stroke_top_inner_color;
+			global::Plugin.Toasts.Resource.Color.design_fab_stroke_top_outer_color = global::B4.EE.RodriguezA.Droid.Resource.Color.design_fab_stroke_top_outer_color;
+			global::Plugin.Toasts.Resource.Color.design_snackbar_background_color = global::B4.EE.RodriguezA.Droid.Resource.Color.design_snackbar_background_color;
+			global::Plugin.Toasts.Resource.Color.dim_foreground_disabled_material_dark = global::B4.EE.RodriguezA.Droid.Resource.Color.dim_foreground_disabled_material_dark;
+			global::Plugin.Toasts.Resource.Color.dim_foreground_disabled_material_light = global::B4.EE.RodriguezA.Droid.Resource.Color.dim_foreground_disabled_material_light;
+			global::Plugin.Toasts.Resource.Color.dim_foreground_material_dark = global::B4.EE.RodriguezA.Droid.Resource.Color.dim_foreground_material_dark;
+			global::Plugin.Toasts.Resource.Color.dim_foreground_material_light = global::B4.EE.RodriguezA.Droid.Resource.Color.dim_foreground_material_light;
+			global::Plugin.Toasts.Resource.Color.foreground_material_dark = global::B4.EE.RodriguezA.Droid.Resource.Color.foreground_material_dark;
+			global::Plugin.Toasts.Resource.Color.foreground_material_light = global::B4.EE.RodriguezA.Droid.Resource.Color.foreground_material_light;
+			global::Plugin.Toasts.Resource.Color.highlighted_text_material_dark = global::B4.EE.RodriguezA.Droid.Resource.Color.highlighted_text_material_dark;
+			global::Plugin.Toasts.Resource.Color.highlighted_text_material_light = global::B4.EE.RodriguezA.Droid.Resource.Color.highlighted_text_material_light;
+			global::Plugin.Toasts.Resource.Color.material_blue_grey_800 = global::B4.EE.RodriguezA.Droid.Resource.Color.material_blue_grey_800;
+			global::Plugin.Toasts.Resource.Color.material_blue_grey_900 = global::B4.EE.RodriguezA.Droid.Resource.Color.material_blue_grey_900;
+			global::Plugin.Toasts.Resource.Color.material_blue_grey_950 = global::B4.EE.RodriguezA.Droid.Resource.Color.material_blue_grey_950;
+			global::Plugin.Toasts.Resource.Color.material_deep_teal_200 = global::B4.EE.RodriguezA.Droid.Resource.Color.material_deep_teal_200;
+			global::Plugin.Toasts.Resource.Color.material_deep_teal_500 = global::B4.EE.RodriguezA.Droid.Resource.Color.material_deep_teal_500;
+			global::Plugin.Toasts.Resource.Color.material_grey_100 = global::B4.EE.RodriguezA.Droid.Resource.Color.material_grey_100;
+			global::Plugin.Toasts.Resource.Color.material_grey_300 = global::B4.EE.RodriguezA.Droid.Resource.Color.material_grey_300;
+			global::Plugin.Toasts.Resource.Color.material_grey_50 = global::B4.EE.RodriguezA.Droid.Resource.Color.material_grey_50;
+			global::Plugin.Toasts.Resource.Color.material_grey_600 = global::B4.EE.RodriguezA.Droid.Resource.Color.material_grey_600;
+			global::Plugin.Toasts.Resource.Color.material_grey_800 = global::B4.EE.RodriguezA.Droid.Resource.Color.material_grey_800;
+			global::Plugin.Toasts.Resource.Color.material_grey_850 = global::B4.EE.RodriguezA.Droid.Resource.Color.material_grey_850;
+			global::Plugin.Toasts.Resource.Color.material_grey_900 = global::B4.EE.RodriguezA.Droid.Resource.Color.material_grey_900;
+			global::Plugin.Toasts.Resource.Color.primary_dark_material_dark = global::B4.EE.RodriguezA.Droid.Resource.Color.primary_dark_material_dark;
+			global::Plugin.Toasts.Resource.Color.primary_dark_material_light = global::B4.EE.RodriguezA.Droid.Resource.Color.primary_dark_material_light;
+			global::Plugin.Toasts.Resource.Color.primary_material_dark = global::B4.EE.RodriguezA.Droid.Resource.Color.primary_material_dark;
+			global::Plugin.Toasts.Resource.Color.primary_material_light = global::B4.EE.RodriguezA.Droid.Resource.Color.primary_material_light;
+			global::Plugin.Toasts.Resource.Color.primary_text_default_material_dark = global::B4.EE.RodriguezA.Droid.Resource.Color.primary_text_default_material_dark;
+			global::Plugin.Toasts.Resource.Color.primary_text_default_material_light = global::B4.EE.RodriguezA.Droid.Resource.Color.primary_text_default_material_light;
+			global::Plugin.Toasts.Resource.Color.primary_text_disabled_material_dark = global::B4.EE.RodriguezA.Droid.Resource.Color.primary_text_disabled_material_dark;
+			global::Plugin.Toasts.Resource.Color.primary_text_disabled_material_light = global::B4.EE.RodriguezA.Droid.Resource.Color.primary_text_disabled_material_light;
+			global::Plugin.Toasts.Resource.Color.ripple_material_dark = global::B4.EE.RodriguezA.Droid.Resource.Color.ripple_material_dark;
+			global::Plugin.Toasts.Resource.Color.ripple_material_light = global::B4.EE.RodriguezA.Droid.Resource.Color.ripple_material_light;
+			global::Plugin.Toasts.Resource.Color.secondary_text_default_material_dark = global::B4.EE.RodriguezA.Droid.Resource.Color.secondary_text_default_material_dark;
+			global::Plugin.Toasts.Resource.Color.secondary_text_default_material_light = global::B4.EE.RodriguezA.Droid.Resource.Color.secondary_text_default_material_light;
+			global::Plugin.Toasts.Resource.Color.secondary_text_disabled_material_dark = global::B4.EE.RodriguezA.Droid.Resource.Color.secondary_text_disabled_material_dark;
+			global::Plugin.Toasts.Resource.Color.secondary_text_disabled_material_light = global::B4.EE.RodriguezA.Droid.Resource.Color.secondary_text_disabled_material_light;
+			global::Plugin.Toasts.Resource.Color.switch_thumb_disabled_material_dark = global::B4.EE.RodriguezA.Droid.Resource.Color.switch_thumb_disabled_material_dark;
+			global::Plugin.Toasts.Resource.Color.switch_thumb_disabled_material_light = global::B4.EE.RodriguezA.Droid.Resource.Color.switch_thumb_disabled_material_light;
+			global::Plugin.Toasts.Resource.Color.switch_thumb_material_dark = global::B4.EE.RodriguezA.Droid.Resource.Color.switch_thumb_material_dark;
+			global::Plugin.Toasts.Resource.Color.switch_thumb_material_light = global::B4.EE.RodriguezA.Droid.Resource.Color.switch_thumb_material_light;
+			global::Plugin.Toasts.Resource.Color.switch_thumb_normal_material_dark = global::B4.EE.RodriguezA.Droid.Resource.Color.switch_thumb_normal_material_dark;
+			global::Plugin.Toasts.Resource.Color.switch_thumb_normal_material_light = global::B4.EE.RodriguezA.Droid.Resource.Color.switch_thumb_normal_material_light;
+			global::Plugin.Toasts.Resource.Dimension.abc_action_bar_content_inset_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_action_bar_default_height_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_action_bar_default_height_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_action_bar_default_padding_end_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_action_bar_default_padding_start_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_action_bar_stacked_max_height = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::Plugin.Toasts.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::Plugin.Toasts.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_action_button_min_height_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_action_button_min_height_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_action_button_min_width_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_action_button_min_width_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_action_button_min_width_overflow_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_alert_dialog_button_bar_height = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::Plugin.Toasts.Resource.Dimension.abc_button_inset_horizontal_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_button_inset_vertical_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_button_inset_vertical_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_button_padding_horizontal_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_button_padding_vertical_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_button_padding_vertical_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_config_prefDialogWidth = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_config_prefDialogWidth;
+			global::Plugin.Toasts.Resource.Dimension.abc_control_corner_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_control_corner_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_control_inset_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_control_inset_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_control_padding_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_control_padding_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_dialog_fixed_height_major = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::Plugin.Toasts.Resource.Dimension.abc_dialog_fixed_height_minor = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::Plugin.Toasts.Resource.Dimension.abc_dialog_fixed_width_major = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::Plugin.Toasts.Resource.Dimension.abc_dialog_fixed_width_minor = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::Plugin.Toasts.Resource.Dimension.abc_dialog_min_width_major = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_dialog_min_width_major;
+			global::Plugin.Toasts.Resource.Dimension.abc_dialog_min_width_minor = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_dialog_min_width_minor;
+			global::Plugin.Toasts.Resource.Dimension.abc_dialog_padding_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_dialog_padding_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_dialog_padding_top_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_dialog_padding_top_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_disabled_alpha_material_dark = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::Plugin.Toasts.Resource.Dimension.abc_disabled_alpha_material_light = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::Plugin.Toasts.Resource.Dimension.abc_dropdownitem_icon_width = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::Plugin.Toasts.Resource.Dimension.abc_dropdownitem_text_padding_left = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::Plugin.Toasts.Resource.Dimension.abc_dropdownitem_text_padding_right = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::Plugin.Toasts.Resource.Dimension.abc_edit_text_inset_bottom_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_edit_text_inset_top_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_floating_window_z = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_floating_window_z;
+			global::Plugin.Toasts.Resource.Dimension.abc_list_item_padding_horizontal_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_panel_menu_list_width = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_panel_menu_list_width;
+			global::Plugin.Toasts.Resource.Dimension.abc_search_view_preferred_width = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_search_view_preferred_width;
+			global::Plugin.Toasts.Resource.Dimension.abc_seekbar_track_background_height_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_seekbar_track_progress_height_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_select_dialog_padding_start_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_switch_padding = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_switch_padding;
+			global::Plugin.Toasts.Resource.Dimension.abc_text_size_body_1_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_text_size_body_1_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_text_size_body_2_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_text_size_body_2_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_text_size_button_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_text_size_button_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_text_size_caption_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_text_size_caption_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_text_size_display_1_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_text_size_display_1_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_text_size_display_2_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_text_size_display_2_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_text_size_display_3_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_text_size_display_3_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_text_size_display_4_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_text_size_display_4_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_text_size_headline_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_text_size_headline_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_text_size_large_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_text_size_large_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_text_size_medium_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_text_size_medium_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_text_size_menu_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_text_size_menu_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_text_size_small_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_text_size_small_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_text_size_subhead_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_text_size_subhead_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::Plugin.Toasts.Resource.Dimension.abc_text_size_title_material = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_text_size_title_material;
+			global::Plugin.Toasts.Resource.Dimension.abc_text_size_title_material_toolbar = global::B4.EE.RodriguezA.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::Plugin.Toasts.Resource.Dimension.design_appbar_elevation = global::B4.EE.RodriguezA.Droid.Resource.Dimension.design_appbar_elevation;
+			global::Plugin.Toasts.Resource.Dimension.design_bottom_sheet_modal_elevation = global::B4.EE.RodriguezA.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::Plugin.Toasts.Resource.Dimension.design_fab_border_width = global::B4.EE.RodriguezA.Droid.Resource.Dimension.design_fab_border_width;
+			global::Plugin.Toasts.Resource.Dimension.design_fab_elevation = global::B4.EE.RodriguezA.Droid.Resource.Dimension.design_fab_elevation;
+			global::Plugin.Toasts.Resource.Dimension.design_fab_image_size = global::B4.EE.RodriguezA.Droid.Resource.Dimension.design_fab_image_size;
+			global::Plugin.Toasts.Resource.Dimension.design_fab_size_mini = global::B4.EE.RodriguezA.Droid.Resource.Dimension.design_fab_size_mini;
+			global::Plugin.Toasts.Resource.Dimension.design_fab_size_normal = global::B4.EE.RodriguezA.Droid.Resource.Dimension.design_fab_size_normal;
+			global::Plugin.Toasts.Resource.Dimension.design_fab_translation_z_pressed = global::B4.EE.RodriguezA.Droid.Resource.Dimension.design_fab_translation_z_pressed;
+			global::Plugin.Toasts.Resource.Dimension.design_navigation_elevation = global::B4.EE.RodriguezA.Droid.Resource.Dimension.design_navigation_elevation;
+			global::Plugin.Toasts.Resource.Dimension.design_navigation_icon_padding = global::B4.EE.RodriguezA.Droid.Resource.Dimension.design_navigation_icon_padding;
+			global::Plugin.Toasts.Resource.Dimension.design_navigation_icon_size = global::B4.EE.RodriguezA.Droid.Resource.Dimension.design_navigation_icon_size;
+			global::Plugin.Toasts.Resource.Dimension.design_navigation_max_width = global::B4.EE.RodriguezA.Droid.Resource.Dimension.design_navigation_max_width;
+			global::Plugin.Toasts.Resource.Dimension.design_navigation_padding_bottom = global::B4.EE.RodriguezA.Droid.Resource.Dimension.design_navigation_padding_bottom;
+			global::Plugin.Toasts.Resource.Dimension.design_navigation_separator_vertical_padding = global::B4.EE.RodriguezA.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::Plugin.Toasts.Resource.Dimension.design_snackbar_action_inline_max_width = global::B4.EE.RodriguezA.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::Plugin.Toasts.Resource.Dimension.design_snackbar_background_corner_radius = global::B4.EE.RodriguezA.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::Plugin.Toasts.Resource.Dimension.design_snackbar_elevation = global::B4.EE.RodriguezA.Droid.Resource.Dimension.design_snackbar_elevation;
+			global::Plugin.Toasts.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::B4.EE.RodriguezA.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::Plugin.Toasts.Resource.Dimension.design_snackbar_max_width = global::B4.EE.RodriguezA.Droid.Resource.Dimension.design_snackbar_max_width;
+			global::Plugin.Toasts.Resource.Dimension.design_snackbar_min_width = global::B4.EE.RodriguezA.Droid.Resource.Dimension.design_snackbar_min_width;
+			global::Plugin.Toasts.Resource.Dimension.design_snackbar_padding_horizontal = global::B4.EE.RodriguezA.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::Plugin.Toasts.Resource.Dimension.design_snackbar_padding_vertical = global::B4.EE.RodriguezA.Droid.Resource.Dimension.design_snackbar_padding_vertical;
+			global::Plugin.Toasts.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::B4.EE.RodriguezA.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::Plugin.Toasts.Resource.Dimension.design_snackbar_text_size = global::B4.EE.RodriguezA.Droid.Resource.Dimension.design_snackbar_text_size;
+			global::Plugin.Toasts.Resource.Dimension.design_tab_max_width = global::B4.EE.RodriguezA.Droid.Resource.Dimension.design_tab_max_width;
+			global::Plugin.Toasts.Resource.Dimension.design_tab_scrollable_min_width = global::B4.EE.RodriguezA.Droid.Resource.Dimension.design_tab_scrollable_min_width;
+			global::Plugin.Toasts.Resource.Dimension.design_tab_text_size = global::B4.EE.RodriguezA.Droid.Resource.Dimension.design_tab_text_size;
+			global::Plugin.Toasts.Resource.Dimension.design_tab_text_size_2line = global::B4.EE.RodriguezA.Droid.Resource.Dimension.design_tab_text_size_2line;
+			global::Plugin.Toasts.Resource.Dimension.disabled_alpha_material_dark = global::B4.EE.RodriguezA.Droid.Resource.Dimension.disabled_alpha_material_dark;
+			global::Plugin.Toasts.Resource.Dimension.disabled_alpha_material_light = global::B4.EE.RodriguezA.Droid.Resource.Dimension.disabled_alpha_material_light;
+			global::Plugin.Toasts.Resource.Dimension.highlight_alpha_material_colored = global::B4.EE.RodriguezA.Droid.Resource.Dimension.highlight_alpha_material_colored;
+			global::Plugin.Toasts.Resource.Dimension.highlight_alpha_material_dark = global::B4.EE.RodriguezA.Droid.Resource.Dimension.highlight_alpha_material_dark;
+			global::Plugin.Toasts.Resource.Dimension.highlight_alpha_material_light = global::B4.EE.RodriguezA.Droid.Resource.Dimension.highlight_alpha_material_light;
+			global::Plugin.Toasts.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::B4.EE.RodriguezA.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::Plugin.Toasts.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::B4.EE.RodriguezA.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::Plugin.Toasts.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::B4.EE.RodriguezA.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::Plugin.Toasts.Resource.Dimension.notification_large_icon_height = global::B4.EE.RodriguezA.Droid.Resource.Dimension.notification_large_icon_height;
+			global::Plugin.Toasts.Resource.Dimension.notification_large_icon_width = global::B4.EE.RodriguezA.Droid.Resource.Dimension.notification_large_icon_width;
+			global::Plugin.Toasts.Resource.Dimension.notification_subtext_size = global::B4.EE.RodriguezA.Droid.Resource.Dimension.notification_subtext_size;
+			global::Plugin.Toasts.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::Plugin.Toasts.Resource.Drawable.abc_action_bar_item_background_material = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_action_bar_item_background_material;
+			global::Plugin.Toasts.Resource.Drawable.abc_btn_borderless_material = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_btn_borderless_material;
+			global::Plugin.Toasts.Resource.Drawable.abc_btn_check_material = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_btn_check_material;
+			global::Plugin.Toasts.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::Plugin.Toasts.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::Plugin.Toasts.Resource.Drawable.abc_btn_colored_material = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_btn_colored_material;
+			global::Plugin.Toasts.Resource.Drawable.abc_btn_default_mtrl_shape = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::Plugin.Toasts.Resource.Drawable.abc_btn_radio_material = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_btn_radio_material;
+			global::Plugin.Toasts.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::Plugin.Toasts.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::Plugin.Toasts.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::Plugin.Toasts.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::Plugin.Toasts.Resource.Drawable.abc_cab_background_internal_bg = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_cab_background_internal_bg;
+			global::Plugin.Toasts.Resource.Drawable.abc_cab_background_top_material = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_cab_background_top_material;
+			global::Plugin.Toasts.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::Plugin.Toasts.Resource.Drawable.abc_control_background_material = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_control_background_material;
+			global::Plugin.Toasts.Resource.Drawable.abc_edit_text_material = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_edit_text_material;
+			global::Plugin.Toasts.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::Plugin.Toasts.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::Plugin.Toasts.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::Plugin.Toasts.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::Plugin.Toasts.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::Plugin.Toasts.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::Plugin.Toasts.Resource.Drawable.abc_ic_star_black_16dp = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_ic_star_black_16dp;
+			global::Plugin.Toasts.Resource.Drawable.abc_ic_star_black_36dp = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_ic_star_black_36dp;
+			global::Plugin.Toasts.Resource.Drawable.abc_ic_star_half_black_16dp = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::Plugin.Toasts.Resource.Drawable.abc_ic_star_half_black_36dp = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::Plugin.Toasts.Resource.Drawable.abc_item_background_holo_dark = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_item_background_holo_dark;
+			global::Plugin.Toasts.Resource.Drawable.abc_item_background_holo_light = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_item_background_holo_light;
+			global::Plugin.Toasts.Resource.Drawable.abc_list_divider_mtrl_alpha = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::Plugin.Toasts.Resource.Drawable.abc_list_focused_holo = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_list_focused_holo;
+			global::Plugin.Toasts.Resource.Drawable.abc_list_longpressed_holo = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_list_longpressed_holo;
+			global::Plugin.Toasts.Resource.Drawable.abc_list_pressed_holo_dark = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::Plugin.Toasts.Resource.Drawable.abc_list_pressed_holo_light = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_list_pressed_holo_light;
+			global::Plugin.Toasts.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::Plugin.Toasts.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::Plugin.Toasts.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::Plugin.Toasts.Resource.Drawable.abc_list_selector_disabled_holo_light = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::Plugin.Toasts.Resource.Drawable.abc_list_selector_holo_dark = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_list_selector_holo_dark;
+			global::Plugin.Toasts.Resource.Drawable.abc_list_selector_holo_light = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_list_selector_holo_light;
+			global::Plugin.Toasts.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::Plugin.Toasts.Resource.Drawable.abc_popup_background_mtrl_mult = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::Plugin.Toasts.Resource.Drawable.abc_ratingbar_indicator_material = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::Plugin.Toasts.Resource.Drawable.abc_ratingbar_small_material = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_ratingbar_small_material;
+			global::Plugin.Toasts.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::Plugin.Toasts.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::Plugin.Toasts.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::Plugin.Toasts.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::Plugin.Toasts.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::Plugin.Toasts.Resource.Drawable.abc_seekbar_thumb_material = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_seekbar_thumb_material;
+			global::Plugin.Toasts.Resource.Drawable.abc_seekbar_track_material = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_seekbar_track_material;
+			global::Plugin.Toasts.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::Plugin.Toasts.Resource.Drawable.abc_spinner_textfield_background_material = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::Plugin.Toasts.Resource.Drawable.abc_switch_thumb_material = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_switch_thumb_material;
+			global::Plugin.Toasts.Resource.Drawable.abc_switch_track_mtrl_alpha = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::Plugin.Toasts.Resource.Drawable.abc_tab_indicator_material = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_tab_indicator_material;
+			global::Plugin.Toasts.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::Plugin.Toasts.Resource.Drawable.abc_text_cursor_material = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_text_cursor_material;
+			global::Plugin.Toasts.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::Plugin.Toasts.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::Plugin.Toasts.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::Plugin.Toasts.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::Plugin.Toasts.Resource.Drawable.abc_textfield_search_material = global::B4.EE.RodriguezA.Droid.Resource.Drawable.abc_textfield_search_material;
+			global::Plugin.Toasts.Resource.Drawable.design_fab_background = global::B4.EE.RodriguezA.Droid.Resource.Drawable.design_fab_background;
+			global::Plugin.Toasts.Resource.Drawable.design_snackbar_background = global::B4.EE.RodriguezA.Droid.Resource.Drawable.design_snackbar_background;
+			global::Plugin.Toasts.Resource.Drawable.notification_template_icon_bg = global::B4.EE.RodriguezA.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::Plugin.Toasts.Resource.Id.action0 = global::B4.EE.RodriguezA.Droid.Resource.Id.action0;
+			global::Plugin.Toasts.Resource.Id.action_bar = global::B4.EE.RodriguezA.Droid.Resource.Id.action_bar;
+			global::Plugin.Toasts.Resource.Id.action_bar_activity_content = global::B4.EE.RodriguezA.Droid.Resource.Id.action_bar_activity_content;
+			global::Plugin.Toasts.Resource.Id.action_bar_container = global::B4.EE.RodriguezA.Droid.Resource.Id.action_bar_container;
+			global::Plugin.Toasts.Resource.Id.action_bar_root = global::B4.EE.RodriguezA.Droid.Resource.Id.action_bar_root;
+			global::Plugin.Toasts.Resource.Id.action_bar_spinner = global::B4.EE.RodriguezA.Droid.Resource.Id.action_bar_spinner;
+			global::Plugin.Toasts.Resource.Id.action_bar_subtitle = global::B4.EE.RodriguezA.Droid.Resource.Id.action_bar_subtitle;
+			global::Plugin.Toasts.Resource.Id.action_bar_title = global::B4.EE.RodriguezA.Droid.Resource.Id.action_bar_title;
+			global::Plugin.Toasts.Resource.Id.action_context_bar = global::B4.EE.RodriguezA.Droid.Resource.Id.action_context_bar;
+			global::Plugin.Toasts.Resource.Id.action_divider = global::B4.EE.RodriguezA.Droid.Resource.Id.action_divider;
+			global::Plugin.Toasts.Resource.Id.action_menu_divider = global::B4.EE.RodriguezA.Droid.Resource.Id.action_menu_divider;
+			global::Plugin.Toasts.Resource.Id.action_menu_presenter = global::B4.EE.RodriguezA.Droid.Resource.Id.action_menu_presenter;
+			global::Plugin.Toasts.Resource.Id.action_mode_bar = global::B4.EE.RodriguezA.Droid.Resource.Id.action_mode_bar;
+			global::Plugin.Toasts.Resource.Id.action_mode_bar_stub = global::B4.EE.RodriguezA.Droid.Resource.Id.action_mode_bar_stub;
+			global::Plugin.Toasts.Resource.Id.action_mode_close_button = global::B4.EE.RodriguezA.Droid.Resource.Id.action_mode_close_button;
+			global::Plugin.Toasts.Resource.Id.activity_chooser_view_content = global::B4.EE.RodriguezA.Droid.Resource.Id.activity_chooser_view_content;
+			global::Plugin.Toasts.Resource.Id.alertTitle = global::B4.EE.RodriguezA.Droid.Resource.Id.alertTitle;
+			global::Plugin.Toasts.Resource.Id.always = global::B4.EE.RodriguezA.Droid.Resource.Id.always;
+			global::Plugin.Toasts.Resource.Id.beginning = global::B4.EE.RodriguezA.Droid.Resource.Id.beginning;
+			global::Plugin.Toasts.Resource.Id.bottom = global::B4.EE.RodriguezA.Droid.Resource.Id.bottom;
+			global::Plugin.Toasts.Resource.Id.buttonPanel = global::B4.EE.RodriguezA.Droid.Resource.Id.buttonPanel;
+			global::Plugin.Toasts.Resource.Id.cancel_action = global::B4.EE.RodriguezA.Droid.Resource.Id.cancel_action;
+			global::Plugin.Toasts.Resource.Id.center = global::B4.EE.RodriguezA.Droid.Resource.Id.center;
+			global::Plugin.Toasts.Resource.Id.center_horizontal = global::B4.EE.RodriguezA.Droid.Resource.Id.center_horizontal;
+			global::Plugin.Toasts.Resource.Id.center_vertical = global::B4.EE.RodriguezA.Droid.Resource.Id.center_vertical;
+			global::Plugin.Toasts.Resource.Id.checkbox = global::B4.EE.RodriguezA.Droid.Resource.Id.checkbox;
+			global::Plugin.Toasts.Resource.Id.chronometer = global::B4.EE.RodriguezA.Droid.Resource.Id.chronometer;
+			global::Plugin.Toasts.Resource.Id.clip_horizontal = global::B4.EE.RodriguezA.Droid.Resource.Id.clip_horizontal;
+			global::Plugin.Toasts.Resource.Id.clip_vertical = global::B4.EE.RodriguezA.Droid.Resource.Id.clip_vertical;
+			global::Plugin.Toasts.Resource.Id.collapseActionView = global::B4.EE.RodriguezA.Droid.Resource.Id.collapseActionView;
+			global::Plugin.Toasts.Resource.Id.contentPanel = global::B4.EE.RodriguezA.Droid.Resource.Id.contentPanel;
+			global::Plugin.Toasts.Resource.Id.custom = global::B4.EE.RodriguezA.Droid.Resource.Id.custom;
+			global::Plugin.Toasts.Resource.Id.customPanel = global::B4.EE.RodriguezA.Droid.Resource.Id.customPanel;
+			global::Plugin.Toasts.Resource.Id.decor_content_parent = global::B4.EE.RodriguezA.Droid.Resource.Id.decor_content_parent;
+			global::Plugin.Toasts.Resource.Id.default_activity_button = global::B4.EE.RodriguezA.Droid.Resource.Id.default_activity_button;
+			global::Plugin.Toasts.Resource.Id.design_bottom_sheet = global::B4.EE.RodriguezA.Droid.Resource.Id.design_bottom_sheet;
+			global::Plugin.Toasts.Resource.Id.design_menu_item_action_area = global::B4.EE.RodriguezA.Droid.Resource.Id.design_menu_item_action_area;
+			global::Plugin.Toasts.Resource.Id.design_menu_item_action_area_stub = global::B4.EE.RodriguezA.Droid.Resource.Id.design_menu_item_action_area_stub;
+			global::Plugin.Toasts.Resource.Id.design_menu_item_text = global::B4.EE.RodriguezA.Droid.Resource.Id.design_menu_item_text;
+			global::Plugin.Toasts.Resource.Id.design_navigation_view = global::B4.EE.RodriguezA.Droid.Resource.Id.design_navigation_view;
+			global::Plugin.Toasts.Resource.Id.disableHome = global::B4.EE.RodriguezA.Droid.Resource.Id.disableHome;
+			global::Plugin.Toasts.Resource.Id.edit_query = global::B4.EE.RodriguezA.Droid.Resource.Id.edit_query;
+			global::Plugin.Toasts.Resource.Id.end = global::B4.EE.RodriguezA.Droid.Resource.Id.end;
+			global::Plugin.Toasts.Resource.Id.end_padder = global::B4.EE.RodriguezA.Droid.Resource.Id.end_padder;
+			global::Plugin.Toasts.Resource.Id.enterAlways = global::B4.EE.RodriguezA.Droid.Resource.Id.enterAlways;
+			global::Plugin.Toasts.Resource.Id.enterAlwaysCollapsed = global::B4.EE.RodriguezA.Droid.Resource.Id.enterAlwaysCollapsed;
+			global::Plugin.Toasts.Resource.Id.exitUntilCollapsed = global::B4.EE.RodriguezA.Droid.Resource.Id.exitUntilCollapsed;
+			global::Plugin.Toasts.Resource.Id.expand_activities_button = global::B4.EE.RodriguezA.Droid.Resource.Id.expand_activities_button;
+			global::Plugin.Toasts.Resource.Id.expanded_menu = global::B4.EE.RodriguezA.Droid.Resource.Id.expanded_menu;
+			global::Plugin.Toasts.Resource.Id.fill = global::B4.EE.RodriguezA.Droid.Resource.Id.fill;
+			global::Plugin.Toasts.Resource.Id.fill_horizontal = global::B4.EE.RodriguezA.Droid.Resource.Id.fill_horizontal;
+			global::Plugin.Toasts.Resource.Id.fill_vertical = global::B4.EE.RodriguezA.Droid.Resource.Id.fill_vertical;
+			global::Plugin.Toasts.Resource.Id.@fixed = global::B4.EE.RodriguezA.Droid.Resource.Id.@fixed;
+			global::Plugin.Toasts.Resource.Id.home = global::B4.EE.RodriguezA.Droid.Resource.Id.home;
+			global::Plugin.Toasts.Resource.Id.homeAsUp = global::B4.EE.RodriguezA.Droid.Resource.Id.homeAsUp;
+			global::Plugin.Toasts.Resource.Id.icon = global::B4.EE.RodriguezA.Droid.Resource.Id.icon;
+			global::Plugin.Toasts.Resource.Id.ifRoom = global::B4.EE.RodriguezA.Droid.Resource.Id.ifRoom;
+			global::Plugin.Toasts.Resource.Id.image = global::B4.EE.RodriguezA.Droid.Resource.Id.image;
+			global::Plugin.Toasts.Resource.Id.info = global::B4.EE.RodriguezA.Droid.Resource.Id.info;
+			global::Plugin.Toasts.Resource.Id.item_touch_helper_previous_elevation = global::B4.EE.RodriguezA.Droid.Resource.Id.item_touch_helper_previous_elevation;
+			global::Plugin.Toasts.Resource.Id.left = global::B4.EE.RodriguezA.Droid.Resource.Id.left;
+			global::Plugin.Toasts.Resource.Id.line1 = global::B4.EE.RodriguezA.Droid.Resource.Id.line1;
+			global::Plugin.Toasts.Resource.Id.line3 = global::B4.EE.RodriguezA.Droid.Resource.Id.line3;
+			global::Plugin.Toasts.Resource.Id.listMode = global::B4.EE.RodriguezA.Droid.Resource.Id.listMode;
+			global::Plugin.Toasts.Resource.Id.list_item = global::B4.EE.RodriguezA.Droid.Resource.Id.list_item;
+			global::Plugin.Toasts.Resource.Id.media_actions = global::B4.EE.RodriguezA.Droid.Resource.Id.media_actions;
+			global::Plugin.Toasts.Resource.Id.middle = global::B4.EE.RodriguezA.Droid.Resource.Id.middle;
+			global::Plugin.Toasts.Resource.Id.mini = global::B4.EE.RodriguezA.Droid.Resource.Id.mini;
+			global::Plugin.Toasts.Resource.Id.multiply = global::B4.EE.RodriguezA.Droid.Resource.Id.multiply;
+			global::Plugin.Toasts.Resource.Id.navigation_header_container = global::B4.EE.RodriguezA.Droid.Resource.Id.navigation_header_container;
+			global::Plugin.Toasts.Resource.Id.never = global::B4.EE.RodriguezA.Droid.Resource.Id.never;
+			global::Plugin.Toasts.Resource.Id.none = global::B4.EE.RodriguezA.Droid.Resource.Id.none;
+			global::Plugin.Toasts.Resource.Id.normal = global::B4.EE.RodriguezA.Droid.Resource.Id.normal;
+			global::Plugin.Toasts.Resource.Id.parallax = global::B4.EE.RodriguezA.Droid.Resource.Id.parallax;
+			global::Plugin.Toasts.Resource.Id.parentPanel = global::B4.EE.RodriguezA.Droid.Resource.Id.parentPanel;
+			global::Plugin.Toasts.Resource.Id.pin = global::B4.EE.RodriguezA.Droid.Resource.Id.pin;
+			global::Plugin.Toasts.Resource.Id.progress_circular = global::B4.EE.RodriguezA.Droid.Resource.Id.progress_circular;
+			global::Plugin.Toasts.Resource.Id.progress_horizontal = global::B4.EE.RodriguezA.Droid.Resource.Id.progress_horizontal;
+			global::Plugin.Toasts.Resource.Id.radio = global::B4.EE.RodriguezA.Droid.Resource.Id.radio;
+			global::Plugin.Toasts.Resource.Id.right = global::B4.EE.RodriguezA.Droid.Resource.Id.right;
+			global::Plugin.Toasts.Resource.Id.screen = global::B4.EE.RodriguezA.Droid.Resource.Id.screen;
+			global::Plugin.Toasts.Resource.Id.scroll = global::B4.EE.RodriguezA.Droid.Resource.Id.scroll;
+			global::Plugin.Toasts.Resource.Id.scrollIndicatorDown = global::B4.EE.RodriguezA.Droid.Resource.Id.scrollIndicatorDown;
+			global::Plugin.Toasts.Resource.Id.scrollIndicatorUp = global::B4.EE.RodriguezA.Droid.Resource.Id.scrollIndicatorUp;
+			global::Plugin.Toasts.Resource.Id.scrollView = global::B4.EE.RodriguezA.Droid.Resource.Id.scrollView;
+			global::Plugin.Toasts.Resource.Id.scrollable = global::B4.EE.RodriguezA.Droid.Resource.Id.scrollable;
+			global::Plugin.Toasts.Resource.Id.search_badge = global::B4.EE.RodriguezA.Droid.Resource.Id.search_badge;
+			global::Plugin.Toasts.Resource.Id.search_bar = global::B4.EE.RodriguezA.Droid.Resource.Id.search_bar;
+			global::Plugin.Toasts.Resource.Id.search_button = global::B4.EE.RodriguezA.Droid.Resource.Id.search_button;
+			global::Plugin.Toasts.Resource.Id.search_close_btn = global::B4.EE.RodriguezA.Droid.Resource.Id.search_close_btn;
+			global::Plugin.Toasts.Resource.Id.search_edit_frame = global::B4.EE.RodriguezA.Droid.Resource.Id.search_edit_frame;
+			global::Plugin.Toasts.Resource.Id.search_go_btn = global::B4.EE.RodriguezA.Droid.Resource.Id.search_go_btn;
+			global::Plugin.Toasts.Resource.Id.search_mag_icon = global::B4.EE.RodriguezA.Droid.Resource.Id.search_mag_icon;
+			global::Plugin.Toasts.Resource.Id.search_plate = global::B4.EE.RodriguezA.Droid.Resource.Id.search_plate;
+			global::Plugin.Toasts.Resource.Id.search_src_text = global::B4.EE.RodriguezA.Droid.Resource.Id.search_src_text;
+			global::Plugin.Toasts.Resource.Id.search_voice_btn = global::B4.EE.RodriguezA.Droid.Resource.Id.search_voice_btn;
+			global::Plugin.Toasts.Resource.Id.select_dialog_listview = global::B4.EE.RodriguezA.Droid.Resource.Id.select_dialog_listview;
+			global::Plugin.Toasts.Resource.Id.shortcut = global::B4.EE.RodriguezA.Droid.Resource.Id.shortcut;
+			global::Plugin.Toasts.Resource.Id.showCustom = global::B4.EE.RodriguezA.Droid.Resource.Id.showCustom;
+			global::Plugin.Toasts.Resource.Id.showHome = global::B4.EE.RodriguezA.Droid.Resource.Id.showHome;
+			global::Plugin.Toasts.Resource.Id.showTitle = global::B4.EE.RodriguezA.Droid.Resource.Id.showTitle;
+			global::Plugin.Toasts.Resource.Id.snackbar_action = global::B4.EE.RodriguezA.Droid.Resource.Id.snackbar_action;
+			global::Plugin.Toasts.Resource.Id.snackbar_text = global::B4.EE.RodriguezA.Droid.Resource.Id.snackbar_text;
+			global::Plugin.Toasts.Resource.Id.snap = global::B4.EE.RodriguezA.Droid.Resource.Id.snap;
+			global::Plugin.Toasts.Resource.Id.spacer = global::B4.EE.RodriguezA.Droid.Resource.Id.spacer;
+			global::Plugin.Toasts.Resource.Id.split_action_bar = global::B4.EE.RodriguezA.Droid.Resource.Id.split_action_bar;
+			global::Plugin.Toasts.Resource.Id.src_atop = global::B4.EE.RodriguezA.Droid.Resource.Id.src_atop;
+			global::Plugin.Toasts.Resource.Id.src_in = global::B4.EE.RodriguezA.Droid.Resource.Id.src_in;
+			global::Plugin.Toasts.Resource.Id.src_over = global::B4.EE.RodriguezA.Droid.Resource.Id.src_over;
+			global::Plugin.Toasts.Resource.Id.start = global::B4.EE.RodriguezA.Droid.Resource.Id.start;
+			global::Plugin.Toasts.Resource.Id.status_bar_latest_event_content = global::B4.EE.RodriguezA.Droid.Resource.Id.status_bar_latest_event_content;
+			global::Plugin.Toasts.Resource.Id.submit_area = global::B4.EE.RodriguezA.Droid.Resource.Id.submit_area;
+			global::Plugin.Toasts.Resource.Id.tabMode = global::B4.EE.RodriguezA.Droid.Resource.Id.tabMode;
+			global::Plugin.Toasts.Resource.Id.text = global::B4.EE.RodriguezA.Droid.Resource.Id.text;
+			global::Plugin.Toasts.Resource.Id.text2 = global::B4.EE.RodriguezA.Droid.Resource.Id.text2;
+			global::Plugin.Toasts.Resource.Id.textSpacerNoButtons = global::B4.EE.RodriguezA.Droid.Resource.Id.textSpacerNoButtons;
+			global::Plugin.Toasts.Resource.Id.time = global::B4.EE.RodriguezA.Droid.Resource.Id.time;
+			global::Plugin.Toasts.Resource.Id.title = global::B4.EE.RodriguezA.Droid.Resource.Id.title;
+			global::Plugin.Toasts.Resource.Id.title_template = global::B4.EE.RodriguezA.Droid.Resource.Id.title_template;
+			global::Plugin.Toasts.Resource.Id.top = global::B4.EE.RodriguezA.Droid.Resource.Id.top;
+			global::Plugin.Toasts.Resource.Id.topPanel = global::B4.EE.RodriguezA.Droid.Resource.Id.topPanel;
+			global::Plugin.Toasts.Resource.Id.touch_outside = global::B4.EE.RodriguezA.Droid.Resource.Id.touch_outside;
+			global::Plugin.Toasts.Resource.Id.up = global::B4.EE.RodriguezA.Droid.Resource.Id.up;
+			global::Plugin.Toasts.Resource.Id.useLogo = global::B4.EE.RodriguezA.Droid.Resource.Id.useLogo;
+			global::Plugin.Toasts.Resource.Id.view_offset_helper = global::B4.EE.RodriguezA.Droid.Resource.Id.view_offset_helper;
+			global::Plugin.Toasts.Resource.Id.withText = global::B4.EE.RodriguezA.Droid.Resource.Id.withText;
+			global::Plugin.Toasts.Resource.Id.wrap_content = global::B4.EE.RodriguezA.Droid.Resource.Id.wrap_content;
+			global::Plugin.Toasts.Resource.Integer.abc_config_activityDefaultDur = global::B4.EE.RodriguezA.Droid.Resource.Integer.abc_config_activityDefaultDur;
+			global::Plugin.Toasts.Resource.Integer.abc_config_activityShortDur = global::B4.EE.RodriguezA.Droid.Resource.Integer.abc_config_activityShortDur;
+			global::Plugin.Toasts.Resource.Integer.bottom_sheet_slide_duration = global::B4.EE.RodriguezA.Droid.Resource.Integer.bottom_sheet_slide_duration;
+			global::Plugin.Toasts.Resource.Integer.cancel_button_image_alpha = global::B4.EE.RodriguezA.Droid.Resource.Integer.cancel_button_image_alpha;
+			global::Plugin.Toasts.Resource.Integer.design_snackbar_text_max_lines = global::B4.EE.RodriguezA.Droid.Resource.Integer.design_snackbar_text_max_lines;
+			global::Plugin.Toasts.Resource.Integer.status_bar_notification_info_maxnum = global::B4.EE.RodriguezA.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::Plugin.Toasts.Resource.Layout.abc_action_bar_title_item = global::B4.EE.RodriguezA.Droid.Resource.Layout.abc_action_bar_title_item;
+			global::Plugin.Toasts.Resource.Layout.abc_action_bar_up_container = global::B4.EE.RodriguezA.Droid.Resource.Layout.abc_action_bar_up_container;
+			global::Plugin.Toasts.Resource.Layout.abc_action_menu_item_layout = global::B4.EE.RodriguezA.Droid.Resource.Layout.abc_action_menu_item_layout;
+			global::Plugin.Toasts.Resource.Layout.abc_action_menu_layout = global::B4.EE.RodriguezA.Droid.Resource.Layout.abc_action_menu_layout;
+			global::Plugin.Toasts.Resource.Layout.abc_action_mode_bar = global::B4.EE.RodriguezA.Droid.Resource.Layout.abc_action_mode_bar;
+			global::Plugin.Toasts.Resource.Layout.abc_action_mode_close_item_material = global::B4.EE.RodriguezA.Droid.Resource.Layout.abc_action_mode_close_item_material;
+			global::Plugin.Toasts.Resource.Layout.abc_activity_chooser_view = global::B4.EE.RodriguezA.Droid.Resource.Layout.abc_activity_chooser_view;
+			global::Plugin.Toasts.Resource.Layout.abc_activity_chooser_view_list_item = global::B4.EE.RodriguezA.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::Plugin.Toasts.Resource.Layout.abc_alert_dialog_button_bar_material = global::B4.EE.RodriguezA.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::Plugin.Toasts.Resource.Layout.abc_alert_dialog_material = global::B4.EE.RodriguezA.Droid.Resource.Layout.abc_alert_dialog_material;
+			global::Plugin.Toasts.Resource.Layout.abc_dialog_title_material = global::B4.EE.RodriguezA.Droid.Resource.Layout.abc_dialog_title_material;
+			global::Plugin.Toasts.Resource.Layout.abc_expanded_menu_layout = global::B4.EE.RodriguezA.Droid.Resource.Layout.abc_expanded_menu_layout;
+			global::Plugin.Toasts.Resource.Layout.abc_list_menu_item_checkbox = global::B4.EE.RodriguezA.Droid.Resource.Layout.abc_list_menu_item_checkbox;
+			global::Plugin.Toasts.Resource.Layout.abc_list_menu_item_icon = global::B4.EE.RodriguezA.Droid.Resource.Layout.abc_list_menu_item_icon;
+			global::Plugin.Toasts.Resource.Layout.abc_list_menu_item_layout = global::B4.EE.RodriguezA.Droid.Resource.Layout.abc_list_menu_item_layout;
+			global::Plugin.Toasts.Resource.Layout.abc_list_menu_item_radio = global::B4.EE.RodriguezA.Droid.Resource.Layout.abc_list_menu_item_radio;
+			global::Plugin.Toasts.Resource.Layout.abc_popup_menu_item_layout = global::B4.EE.RodriguezA.Droid.Resource.Layout.abc_popup_menu_item_layout;
+			global::Plugin.Toasts.Resource.Layout.abc_screen_content_include = global::B4.EE.RodriguezA.Droid.Resource.Layout.abc_screen_content_include;
+			global::Plugin.Toasts.Resource.Layout.abc_screen_simple = global::B4.EE.RodriguezA.Droid.Resource.Layout.abc_screen_simple;
+			global::Plugin.Toasts.Resource.Layout.abc_screen_simple_overlay_action_mode = global::B4.EE.RodriguezA.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::Plugin.Toasts.Resource.Layout.abc_screen_toolbar = global::B4.EE.RodriguezA.Droid.Resource.Layout.abc_screen_toolbar;
+			global::Plugin.Toasts.Resource.Layout.abc_search_dropdown_item_icons_2line = global::B4.EE.RodriguezA.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::Plugin.Toasts.Resource.Layout.abc_search_view = global::B4.EE.RodriguezA.Droid.Resource.Layout.abc_search_view;
+			global::Plugin.Toasts.Resource.Layout.abc_select_dialog_material = global::B4.EE.RodriguezA.Droid.Resource.Layout.abc_select_dialog_material;
+			global::Plugin.Toasts.Resource.Layout.design_bottom_sheet_dialog = global::B4.EE.RodriguezA.Droid.Resource.Layout.design_bottom_sheet_dialog;
+			global::Plugin.Toasts.Resource.Layout.design_layout_snackbar = global::B4.EE.RodriguezA.Droid.Resource.Layout.design_layout_snackbar;
+			global::Plugin.Toasts.Resource.Layout.design_layout_snackbar_include = global::B4.EE.RodriguezA.Droid.Resource.Layout.design_layout_snackbar_include;
+			global::Plugin.Toasts.Resource.Layout.design_layout_tab_icon = global::B4.EE.RodriguezA.Droid.Resource.Layout.design_layout_tab_icon;
+			global::Plugin.Toasts.Resource.Layout.design_layout_tab_text = global::B4.EE.RodriguezA.Droid.Resource.Layout.design_layout_tab_text;
+			global::Plugin.Toasts.Resource.Layout.design_menu_item_action_area = global::B4.EE.RodriguezA.Droid.Resource.Layout.design_menu_item_action_area;
+			global::Plugin.Toasts.Resource.Layout.design_navigation_item = global::B4.EE.RodriguezA.Droid.Resource.Layout.design_navigation_item;
+			global::Plugin.Toasts.Resource.Layout.design_navigation_item_header = global::B4.EE.RodriguezA.Droid.Resource.Layout.design_navigation_item_header;
+			global::Plugin.Toasts.Resource.Layout.design_navigation_item_separator = global::B4.EE.RodriguezA.Droid.Resource.Layout.design_navigation_item_separator;
+			global::Plugin.Toasts.Resource.Layout.design_navigation_item_subheader = global::B4.EE.RodriguezA.Droid.Resource.Layout.design_navigation_item_subheader;
+			global::Plugin.Toasts.Resource.Layout.design_navigation_menu = global::B4.EE.RodriguezA.Droid.Resource.Layout.design_navigation_menu;
+			global::Plugin.Toasts.Resource.Layout.design_navigation_menu_item = global::B4.EE.RodriguezA.Droid.Resource.Layout.design_navigation_menu_item;
+			global::Plugin.Toasts.Resource.Layout.notification_media_action = global::B4.EE.RodriguezA.Droid.Resource.Layout.notification_media_action;
+			global::Plugin.Toasts.Resource.Layout.notification_media_cancel_action = global::B4.EE.RodriguezA.Droid.Resource.Layout.notification_media_cancel_action;
+			global::Plugin.Toasts.Resource.Layout.notification_template_big_media = global::B4.EE.RodriguezA.Droid.Resource.Layout.notification_template_big_media;
+			global::Plugin.Toasts.Resource.Layout.notification_template_big_media_narrow = global::B4.EE.RodriguezA.Droid.Resource.Layout.notification_template_big_media_narrow;
+			global::Plugin.Toasts.Resource.Layout.notification_template_media = global::B4.EE.RodriguezA.Droid.Resource.Layout.notification_template_media;
+			global::Plugin.Toasts.Resource.Layout.notification_template_part_chronometer = global::B4.EE.RodriguezA.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::Plugin.Toasts.Resource.Layout.notification_template_part_time = global::B4.EE.RodriguezA.Droid.Resource.Layout.notification_template_part_time;
+			global::Plugin.Toasts.Resource.Layout.select_dialog_item_material = global::B4.EE.RodriguezA.Droid.Resource.Layout.select_dialog_item_material;
+			global::Plugin.Toasts.Resource.Layout.select_dialog_multichoice_material = global::B4.EE.RodriguezA.Droid.Resource.Layout.select_dialog_multichoice_material;
+			global::Plugin.Toasts.Resource.Layout.select_dialog_singlechoice_material = global::B4.EE.RodriguezA.Droid.Resource.Layout.select_dialog_singlechoice_material;
+			global::Plugin.Toasts.Resource.Layout.support_simple_spinner_dropdown_item = global::B4.EE.RodriguezA.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::Plugin.Toasts.Resource.String.ApplicationName = global::B4.EE.RodriguezA.Droid.Resource.String.ApplicationName;
+			global::Plugin.Toasts.Resource.String.Hello = global::B4.EE.RodriguezA.Droid.Resource.String.Hello;
+			global::Plugin.Toasts.Resource.String.abc_action_bar_home_description = global::B4.EE.RodriguezA.Droid.Resource.String.abc_action_bar_home_description;
+			global::Plugin.Toasts.Resource.String.abc_action_bar_up_description = global::B4.EE.RodriguezA.Droid.Resource.String.abc_action_bar_up_description;
+			global::Plugin.Toasts.Resource.String.abc_action_menu_overflow_description = global::B4.EE.RodriguezA.Droid.Resource.String.abc_action_menu_overflow_description;
+			global::Plugin.Toasts.Resource.String.abc_action_mode_done = global::B4.EE.RodriguezA.Droid.Resource.String.abc_action_mode_done;
+			global::Plugin.Toasts.Resource.String.abc_activity_chooser_view_see_all = global::B4.EE.RodriguezA.Droid.Resource.String.abc_activity_chooser_view_see_all;
+			global::Plugin.Toasts.Resource.String.abc_activitychooserview_choose_application = global::B4.EE.RodriguezA.Droid.Resource.String.abc_activitychooserview_choose_application;
+			global::Plugin.Toasts.Resource.String.abc_capital_off = global::B4.EE.RodriguezA.Droid.Resource.String.abc_capital_off;
+			global::Plugin.Toasts.Resource.String.abc_capital_on = global::B4.EE.RodriguezA.Droid.Resource.String.abc_capital_on;
+			global::Plugin.Toasts.Resource.String.abc_search_hint = global::B4.EE.RodriguezA.Droid.Resource.String.abc_search_hint;
+			global::Plugin.Toasts.Resource.String.abc_searchview_description_clear = global::B4.EE.RodriguezA.Droid.Resource.String.abc_searchview_description_clear;
+			global::Plugin.Toasts.Resource.String.abc_searchview_description_query = global::B4.EE.RodriguezA.Droid.Resource.String.abc_searchview_description_query;
+			global::Plugin.Toasts.Resource.String.abc_searchview_description_search = global::B4.EE.RodriguezA.Droid.Resource.String.abc_searchview_description_search;
+			global::Plugin.Toasts.Resource.String.abc_searchview_description_submit = global::B4.EE.RodriguezA.Droid.Resource.String.abc_searchview_description_submit;
+			global::Plugin.Toasts.Resource.String.abc_searchview_description_voice = global::B4.EE.RodriguezA.Droid.Resource.String.abc_searchview_description_voice;
+			global::Plugin.Toasts.Resource.String.abc_shareactionprovider_share_with = global::B4.EE.RodriguezA.Droid.Resource.String.abc_shareactionprovider_share_with;
+			global::Plugin.Toasts.Resource.String.abc_shareactionprovider_share_with_application = global::B4.EE.RodriguezA.Droid.Resource.String.abc_shareactionprovider_share_with_application;
+			global::Plugin.Toasts.Resource.String.abc_toolbar_collapse_description = global::B4.EE.RodriguezA.Droid.Resource.String.abc_toolbar_collapse_description;
+			global::Plugin.Toasts.Resource.String.appbar_scrolling_view_behavior = global::B4.EE.RodriguezA.Droid.Resource.String.appbar_scrolling_view_behavior;
+			global::Plugin.Toasts.Resource.String.bottom_sheet_behavior = global::B4.EE.RodriguezA.Droid.Resource.String.bottom_sheet_behavior;
+			global::Plugin.Toasts.Resource.String.character_counter_pattern = global::B4.EE.RodriguezA.Droid.Resource.String.character_counter_pattern;
+			global::Plugin.Toasts.Resource.String.status_bar_notification_info_overflow = global::B4.EE.RodriguezA.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::Plugin.Toasts.Resource.Style.AlertDialog_AppCompat = global::B4.EE.RodriguezA.Droid.Resource.Style.AlertDialog_AppCompat;
+			global::Plugin.Toasts.Resource.Style.AlertDialog_AppCompat_Light = global::B4.EE.RodriguezA.Droid.Resource.Style.AlertDialog_AppCompat_Light;
+			global::Plugin.Toasts.Resource.Style.Animation_AppCompat_Dialog = global::B4.EE.RodriguezA.Droid.Resource.Style.Animation_AppCompat_Dialog;
+			global::Plugin.Toasts.Resource.Style.Animation_AppCompat_DropDownUp = global::B4.EE.RodriguezA.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::Plugin.Toasts.Resource.Style.Animation_Design_BottomSheetDialog = global::B4.EE.RodriguezA.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::Plugin.Toasts.Resource.Style.Base_AlertDialog_AppCompat = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_AlertDialog_AppCompat;
+			global::Plugin.Toasts.Resource.Style.Base_AlertDialog_AppCompat_Light = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::Plugin.Toasts.Resource.Style.Base_Animation_AppCompat_Dialog = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::Plugin.Toasts.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::Plugin.Toasts.Resource.Style.Base_DialogWindowTitle_AppCompat = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::Plugin.Toasts.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat_Button = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat_Large = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat_Small = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat_Title = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Plugin.Toasts.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Plugin.Toasts.Resource.Style.Base_Theme_AppCompat = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Theme_AppCompat;
+			global::Plugin.Toasts.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::Plugin.Toasts.Resource.Style.Base_Theme_AppCompat_Dialog = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::Plugin.Toasts.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::Plugin.Toasts.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::Plugin.Toasts.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::Plugin.Toasts.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::Plugin.Toasts.Resource.Style.Base_Theme_AppCompat_Light = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Theme_AppCompat_Light;
+			global::Plugin.Toasts.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::Plugin.Toasts.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::Plugin.Toasts.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::Plugin.Toasts.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::Plugin.Toasts.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Plugin.Toasts.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::Plugin.Toasts.Resource.Style.Base_ThemeOverlay_AppCompat = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::Plugin.Toasts.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::Plugin.Toasts.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::Plugin.Toasts.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Plugin.Toasts.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::Plugin.Toasts.Resource.Style.Base_V21_Theme_AppCompat = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_V21_Theme_AppCompat;
+			global::Plugin.Toasts.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::Plugin.Toasts.Resource.Style.Base_V21_Theme_AppCompat_Light = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::Plugin.Toasts.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::Plugin.Toasts.Resource.Style.Base_V22_Theme_AppCompat = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_V22_Theme_AppCompat;
+			global::Plugin.Toasts.Resource.Style.Base_V22_Theme_AppCompat_Light = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::Plugin.Toasts.Resource.Style.Base_V23_Theme_AppCompat = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_V23_Theme_AppCompat;
+			global::Plugin.Toasts.Resource.Style.Base_V23_Theme_AppCompat_Light = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::Plugin.Toasts.Resource.Style.Base_V7_Theme_AppCompat = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_V7_Theme_AppCompat;
+			global::Plugin.Toasts.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::Plugin.Toasts.Resource.Style.Base_V7_Theme_AppCompat_Light = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::Plugin.Toasts.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::Plugin.Toasts.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::Plugin.Toasts.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_ActionBar = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_ActionButton = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_ActionMode = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_Button = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_Button;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_Button_Small = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_EditText = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_ImageButton = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_ListView = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_RatingBar = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_SearchView = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_SeekBar = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_Spinner = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_Toolbar = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Plugin.Toasts.Resource.Style.Base_Widget_Design_TabLayout = global::B4.EE.RodriguezA.Droid.Resource.Style.Base_Widget_Design_TabLayout;
+			global::Plugin.Toasts.Resource.Style.Platform_AppCompat = global::B4.EE.RodriguezA.Droid.Resource.Style.Platform_AppCompat;
+			global::Plugin.Toasts.Resource.Style.Platform_AppCompat_Light = global::B4.EE.RodriguezA.Droid.Resource.Style.Platform_AppCompat_Light;
+			global::Plugin.Toasts.Resource.Style.Platform_ThemeOverlay_AppCompat = global::B4.EE.RodriguezA.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::Plugin.Toasts.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::B4.EE.RodriguezA.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::Plugin.Toasts.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::B4.EE.RodriguezA.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::Plugin.Toasts.Resource.Style.Platform_Widget_AppCompat_Spinner = global::B4.EE.RodriguezA.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::Plugin.Toasts.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::B4.EE.RodriguezA.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::Plugin.Toasts.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::B4.EE.RodriguezA.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::Plugin.Toasts.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::B4.EE.RodriguezA.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::Plugin.Toasts.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::B4.EE.RodriguezA.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::Plugin.Toasts.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::B4.EE.RodriguezA.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::Plugin.Toasts.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::B4.EE.RodriguezA.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::Plugin.Toasts.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::B4.EE.RodriguezA.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::Plugin.Toasts.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::B4.EE.RodriguezA.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::Plugin.Toasts.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::B4.EE.RodriguezA.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::Plugin.Toasts.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::B4.EE.RodriguezA.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::Plugin.Toasts.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::B4.EE.RodriguezA.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::Plugin.Toasts.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::B4.EE.RodriguezA.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::Plugin.Toasts.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::B4.EE.RodriguezA.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::Plugin.Toasts.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::B4.EE.RodriguezA.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Body1 = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Body2 = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Button = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Button;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Caption = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Display1 = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Display2 = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Display3 = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Display4 = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Headline = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Inverse = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Large = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Large;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Medium = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Menu = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Small = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Small;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Subhead = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Title = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Title;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_Design_Counter = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_Design_Counter;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_Design_Counter_Overflow = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_Design_Error = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_Design_Error;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_Design_Hint = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_Design_Hint;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_Design_Snackbar_Message = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_Design_Tab = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_Design_Tab;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Plugin.Toasts.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::B4.EE.RodriguezA.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Plugin.Toasts.Resource.Style.Theme_AppCompat = global::B4.EE.RodriguezA.Droid.Resource.Style.Theme_AppCompat;
+			global::Plugin.Toasts.Resource.Style.Theme_AppCompat_CompactMenu = global::B4.EE.RodriguezA.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::Plugin.Toasts.Resource.Style.Theme_AppCompat_DayNight = global::B4.EE.RodriguezA.Droid.Resource.Style.Theme_AppCompat_DayNight;
+			global::Plugin.Toasts.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::B4.EE.RodriguezA.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::Plugin.Toasts.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::B4.EE.RodriguezA.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::Plugin.Toasts.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::B4.EE.RodriguezA.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::Plugin.Toasts.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::B4.EE.RodriguezA.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::Plugin.Toasts.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::B4.EE.RodriguezA.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::Plugin.Toasts.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::B4.EE.RodriguezA.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::Plugin.Toasts.Resource.Style.Theme_AppCompat_Dialog = global::B4.EE.RodriguezA.Droid.Resource.Style.Theme_AppCompat_Dialog;
+			global::Plugin.Toasts.Resource.Style.Theme_AppCompat_Dialog_Alert = global::B4.EE.RodriguezA.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::Plugin.Toasts.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::B4.EE.RodriguezA.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::Plugin.Toasts.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::B4.EE.RodriguezA.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::Plugin.Toasts.Resource.Style.Theme_AppCompat_Light = global::B4.EE.RodriguezA.Droid.Resource.Style.Theme_AppCompat_Light;
+			global::Plugin.Toasts.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::B4.EE.RodriguezA.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::Plugin.Toasts.Resource.Style.Theme_AppCompat_Light_Dialog = global::B4.EE.RodriguezA.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::Plugin.Toasts.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::B4.EE.RodriguezA.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::Plugin.Toasts.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::B4.EE.RodriguezA.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Plugin.Toasts.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::B4.EE.RodriguezA.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::Plugin.Toasts.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::B4.EE.RodriguezA.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::Plugin.Toasts.Resource.Style.Theme_AppCompat_NoActionBar = global::B4.EE.RodriguezA.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::Plugin.Toasts.Resource.Style.Theme_Design = global::B4.EE.RodriguezA.Droid.Resource.Style.Theme_Design;
+			global::Plugin.Toasts.Resource.Style.Theme_Design_BottomSheetDialog = global::B4.EE.RodriguezA.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::Plugin.Toasts.Resource.Style.Theme_Design_Light = global::B4.EE.RodriguezA.Droid.Resource.Style.Theme_Design_Light;
+			global::Plugin.Toasts.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::B4.EE.RodriguezA.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::Plugin.Toasts.Resource.Style.Theme_Design_Light_NoActionBar = global::B4.EE.RodriguezA.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::Plugin.Toasts.Resource.Style.Theme_Design_NoActionBar = global::B4.EE.RodriguezA.Droid.Resource.Style.Theme_Design_NoActionBar;
+			global::Plugin.Toasts.Resource.Style.ThemeOverlay_AppCompat = global::B4.EE.RodriguezA.Droid.Resource.Style.ThemeOverlay_AppCompat;
+			global::Plugin.Toasts.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::B4.EE.RodriguezA.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::Plugin.Toasts.Resource.Style.ThemeOverlay_AppCompat_Dark = global::B4.EE.RodriguezA.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::Plugin.Toasts.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::B4.EE.RodriguezA.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Plugin.Toasts.Resource.Style.ThemeOverlay_AppCompat_Light = global::B4.EE.RodriguezA.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_ActionBar = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_ActionBar;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_ActionButton = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_ActionButton;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_ActionMode = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_ActionMode;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_ActivityChooserView = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_Button = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_Button;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_Button_Borderless = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_Button_Colored = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_Button_Small = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_Button_Small;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_ButtonBar = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_EditText = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_EditText;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_ImageButton = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_ImageButton;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_Light_ActionBar = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_Light_ActionButton = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_Light_SearchView = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_ListPopupWindow = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_ListView = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_ListView;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_ListView_DropDown = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_ListView_Menu = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_PopupMenu = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_PopupWindow = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_ProgressBar = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_RatingBar = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_RatingBar;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_RatingBar_Small = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_SearchView = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_SearchView;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_SeekBar = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_SeekBar;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_Spinner = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_Spinner;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_Toolbar = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_Toolbar;
+			global::Plugin.Toasts.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Plugin.Toasts.Resource.Style.Widget_Design_AppBarLayout = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_Design_AppBarLayout;
+			global::Plugin.Toasts.Resource.Style.Widget_Design_BottomSheet_Modal = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::Plugin.Toasts.Resource.Style.Widget_Design_CollapsingToolbar = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::Plugin.Toasts.Resource.Style.Widget_Design_FloatingActionButton = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_Design_FloatingActionButton;
+			global::Plugin.Toasts.Resource.Style.Widget_Design_NavigationView = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_Design_NavigationView;
+			global::Plugin.Toasts.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::Plugin.Toasts.Resource.Style.Widget_Design_Snackbar = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_Design_Snackbar;
+			global::Plugin.Toasts.Resource.Style.Widget_Design_TabLayout = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_Design_TabLayout;
+			global::Plugin.Toasts.Resource.Style.Widget_Design_TextInputLayout = global::B4.EE.RodriguezA.Droid.Resource.Style.Widget_Design_TextInputLayout;
+			global::Plugin.Toasts.Resource.Styleable.ActionBar = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActionBar;
+			global::Plugin.Toasts.Resource.Styleable.ActionBar_background = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActionBar_background;
+			global::Plugin.Toasts.Resource.Styleable.ActionBar_backgroundSplit = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActionBar_backgroundSplit;
+			global::Plugin.Toasts.Resource.Styleable.ActionBar_backgroundStacked = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActionBar_backgroundStacked;
+			global::Plugin.Toasts.Resource.Styleable.ActionBar_contentInsetEnd = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::Plugin.Toasts.Resource.Styleable.ActionBar_contentInsetLeft = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::Plugin.Toasts.Resource.Styleable.ActionBar_contentInsetRight = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActionBar_contentInsetRight;
+			global::Plugin.Toasts.Resource.Styleable.ActionBar_contentInsetStart = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActionBar_contentInsetStart;
+			global::Plugin.Toasts.Resource.Styleable.ActionBar_customNavigationLayout = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::Plugin.Toasts.Resource.Styleable.ActionBar_displayOptions = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActionBar_displayOptions;
+			global::Plugin.Toasts.Resource.Styleable.ActionBar_divider = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActionBar_divider;
+			global::Plugin.Toasts.Resource.Styleable.ActionBar_elevation = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActionBar_elevation;
+			global::Plugin.Toasts.Resource.Styleable.ActionBar_height = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActionBar_height;
+			global::Plugin.Toasts.Resource.Styleable.ActionBar_hideOnContentScroll = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::Plugin.Toasts.Resource.Styleable.ActionBar_homeAsUpIndicator = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::Plugin.Toasts.Resource.Styleable.ActionBar_homeLayout = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActionBar_homeLayout;
+			global::Plugin.Toasts.Resource.Styleable.ActionBar_icon = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActionBar_icon;
+			global::Plugin.Toasts.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::Plugin.Toasts.Resource.Styleable.ActionBar_itemPadding = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActionBar_itemPadding;
+			global::Plugin.Toasts.Resource.Styleable.ActionBar_logo = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActionBar_logo;
+			global::Plugin.Toasts.Resource.Styleable.ActionBar_navigationMode = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActionBar_navigationMode;
+			global::Plugin.Toasts.Resource.Styleable.ActionBar_popupTheme = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActionBar_popupTheme;
+			global::Plugin.Toasts.Resource.Styleable.ActionBar_progressBarPadding = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActionBar_progressBarPadding;
+			global::Plugin.Toasts.Resource.Styleable.ActionBar_progressBarStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActionBar_progressBarStyle;
+			global::Plugin.Toasts.Resource.Styleable.ActionBar_subtitle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActionBar_subtitle;
+			global::Plugin.Toasts.Resource.Styleable.ActionBar_subtitleTextStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::Plugin.Toasts.Resource.Styleable.ActionBar_title = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActionBar_title;
+			global::Plugin.Toasts.Resource.Styleable.ActionBar_titleTextStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActionBar_titleTextStyle;
+			global::Plugin.Toasts.Resource.Styleable.ActionBarLayout = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActionBarLayout;
+			global::Plugin.Toasts.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::Plugin.Toasts.Resource.Styleable.ActionMenuItemView = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActionMenuItemView;
+			global::Plugin.Toasts.Resource.Styleable.ActionMenuItemView_android_minWidth = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::Plugin.Toasts.Resource.Styleable.ActionMenuView = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActionMenuView;
+			global::Plugin.Toasts.Resource.Styleable.ActionMode = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActionMode;
+			global::Plugin.Toasts.Resource.Styleable.ActionMode_background = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActionMode_background;
+			global::Plugin.Toasts.Resource.Styleable.ActionMode_backgroundSplit = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActionMode_backgroundSplit;
+			global::Plugin.Toasts.Resource.Styleable.ActionMode_closeItemLayout = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActionMode_closeItemLayout;
+			global::Plugin.Toasts.Resource.Styleable.ActionMode_height = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActionMode_height;
+			global::Plugin.Toasts.Resource.Styleable.ActionMode_subtitleTextStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::Plugin.Toasts.Resource.Styleable.ActionMode_titleTextStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActionMode_titleTextStyle;
+			global::Plugin.Toasts.Resource.Styleable.ActivityChooserView = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActivityChooserView;
+			global::Plugin.Toasts.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::Plugin.Toasts.Resource.Styleable.ActivityChooserView_initialActivityCount = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::Plugin.Toasts.Resource.Styleable.AlertDialog = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AlertDialog;
+			global::Plugin.Toasts.Resource.Styleable.AlertDialog_android_layout = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AlertDialog_android_layout;
+			global::Plugin.Toasts.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::Plugin.Toasts.Resource.Styleable.AlertDialog_listItemLayout = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AlertDialog_listItemLayout;
+			global::Plugin.Toasts.Resource.Styleable.AlertDialog_listLayout = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AlertDialog_listLayout;
+			global::Plugin.Toasts.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::Plugin.Toasts.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::Plugin.Toasts.Resource.Styleable.AppBarLayout = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppBarLayout;
+			global::Plugin.Toasts.Resource.Styleable.AppBarLayout_android_background = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppBarLayout_android_background;
+			global::Plugin.Toasts.Resource.Styleable.AppBarLayout_elevation = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppBarLayout_elevation;
+			global::Plugin.Toasts.Resource.Styleable.AppBarLayout_expanded = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppBarLayout_expanded;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatImageView = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatImageView;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatImageView_android_src = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatImageView_android_src;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatImageView_srcCompat = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTextView = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTextView;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTextView_android_textAppearance = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTextView_textAllCaps = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_actionBarDivider = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_actionBarSize = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_actionBarStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_actionBarTheme = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_actionModeBackground = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_actionModeStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_buttonStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_checkboxStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_colorAccent = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_colorControlActivated = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_colorControlNormal = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_colorPrimary = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_controlBackground = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_dialogTheme = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_dividerVertical = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_editTextBackground = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_editTextColor = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_editTextStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_panelBackground = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_searchViewStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_seekBarStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_spinnerStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_switchStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_toolbarStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_windowActionBar = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::Plugin.Toasts.Resource.Styleable.AppCompatTheme_windowNoTitle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::Plugin.Toasts.Resource.Styleable.ButtonBarLayout = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ButtonBarLayout;
+			global::Plugin.Toasts.Resource.Styleable.ButtonBarLayout_allowStacking = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::Plugin.Toasts.Resource.Styleable.CollapsingToolbarLayout = global::B4.EE.RodriguezA.Droid.Resource.Styleable.CollapsingToolbarLayout;
+			global::Plugin.Toasts.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::B4.EE.RodriguezA.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::Plugin.Toasts.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::B4.EE.RodriguezA.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::Plugin.Toasts.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::B4.EE.RodriguezA.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::Plugin.Toasts.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::B4.EE.RodriguezA.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::Plugin.Toasts.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::B4.EE.RodriguezA.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::Plugin.Toasts.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::B4.EE.RodriguezA.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::Plugin.Toasts.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::B4.EE.RodriguezA.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::Plugin.Toasts.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::B4.EE.RodriguezA.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::Plugin.Toasts.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::B4.EE.RodriguezA.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::Plugin.Toasts.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::B4.EE.RodriguezA.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::Plugin.Toasts.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::B4.EE.RodriguezA.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::Plugin.Toasts.Resource.Styleable.CollapsingToolbarLayout_title = global::B4.EE.RodriguezA.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::Plugin.Toasts.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::B4.EE.RodriguezA.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::Plugin.Toasts.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::B4.EE.RodriguezA.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::Plugin.Toasts.Resource.Styleable.CompoundButton = global::B4.EE.RodriguezA.Droid.Resource.Styleable.CompoundButton;
+			global::Plugin.Toasts.Resource.Styleable.CompoundButton_android_button = global::B4.EE.RodriguezA.Droid.Resource.Styleable.CompoundButton_android_button;
+			global::Plugin.Toasts.Resource.Styleable.CompoundButton_buttonTint = global::B4.EE.RodriguezA.Droid.Resource.Styleable.CompoundButton_buttonTint;
+			global::Plugin.Toasts.Resource.Styleable.CompoundButton_buttonTintMode = global::B4.EE.RodriguezA.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::Plugin.Toasts.Resource.Styleable.CoordinatorLayout = global::B4.EE.RodriguezA.Droid.Resource.Styleable.CoordinatorLayout;
+			global::Plugin.Toasts.Resource.Styleable.CoordinatorLayout_keylines = global::B4.EE.RodriguezA.Droid.Resource.Styleable.CoordinatorLayout_keylines;
+			global::Plugin.Toasts.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::B4.EE.RodriguezA.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::Plugin.Toasts.Resource.Styleable.DesignTheme = global::B4.EE.RodriguezA.Droid.Resource.Styleable.DesignTheme;
+			global::Plugin.Toasts.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::B4.EE.RodriguezA.Droid.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
+			global::Plugin.Toasts.Resource.Styleable.DesignTheme_bottomSheetStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.DesignTheme_bottomSheetStyle;
+			global::Plugin.Toasts.Resource.Styleable.DrawerArrowToggle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.DrawerArrowToggle;
+			global::Plugin.Toasts.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::B4.EE.RodriguezA.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::Plugin.Toasts.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::B4.EE.RodriguezA.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::Plugin.Toasts.Resource.Styleable.DrawerArrowToggle_barLength = global::B4.EE.RodriguezA.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::Plugin.Toasts.Resource.Styleable.DrawerArrowToggle_color = global::B4.EE.RodriguezA.Droid.Resource.Styleable.DrawerArrowToggle_color;
+			global::Plugin.Toasts.Resource.Styleable.DrawerArrowToggle_drawableSize = global::B4.EE.RodriguezA.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::Plugin.Toasts.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::B4.EE.RodriguezA.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::Plugin.Toasts.Resource.Styleable.DrawerArrowToggle_spinBars = global::B4.EE.RodriguezA.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::Plugin.Toasts.Resource.Styleable.DrawerArrowToggle_thickness = global::B4.EE.RodriguezA.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::Plugin.Toasts.Resource.Styleable.FloatingActionButton = global::B4.EE.RodriguezA.Droid.Resource.Styleable.FloatingActionButton;
+			global::Plugin.Toasts.Resource.Styleable.FloatingActionButton_backgroundTint = global::B4.EE.RodriguezA.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::Plugin.Toasts.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::B4.EE.RodriguezA.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::Plugin.Toasts.Resource.Styleable.FloatingActionButton_borderWidth = global::B4.EE.RodriguezA.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::Plugin.Toasts.Resource.Styleable.FloatingActionButton_elevation = global::B4.EE.RodriguezA.Droid.Resource.Styleable.FloatingActionButton_elevation;
+			global::Plugin.Toasts.Resource.Styleable.FloatingActionButton_fabSize = global::B4.EE.RodriguezA.Droid.Resource.Styleable.FloatingActionButton_fabSize;
+			global::Plugin.Toasts.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::B4.EE.RodriguezA.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::Plugin.Toasts.Resource.Styleable.FloatingActionButton_rippleColor = global::B4.EE.RodriguezA.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::Plugin.Toasts.Resource.Styleable.FloatingActionButton_useCompatPadding = global::B4.EE.RodriguezA.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::Plugin.Toasts.Resource.Styleable.ForegroundLinearLayout = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ForegroundLinearLayout;
+			global::Plugin.Toasts.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::Plugin.Toasts.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::Plugin.Toasts.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::Plugin.Toasts.Resource.Styleable.LinearLayoutCompat = global::B4.EE.RodriguezA.Droid.Resource.Styleable.LinearLayoutCompat;
+			global::Plugin.Toasts.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::B4.EE.RodriguezA.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::Plugin.Toasts.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::B4.EE.RodriguezA.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::Plugin.Toasts.Resource.Styleable.LinearLayoutCompat_android_gravity = global::B4.EE.RodriguezA.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::Plugin.Toasts.Resource.Styleable.LinearLayoutCompat_android_orientation = global::B4.EE.RodriguezA.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::Plugin.Toasts.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::B4.EE.RodriguezA.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::Plugin.Toasts.Resource.Styleable.LinearLayoutCompat_divider = global::B4.EE.RodriguezA.Droid.Resource.Styleable.LinearLayoutCompat_divider;
+			global::Plugin.Toasts.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::B4.EE.RodriguezA.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::Plugin.Toasts.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::B4.EE.RodriguezA.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::Plugin.Toasts.Resource.Styleable.LinearLayoutCompat_showDividers = global::B4.EE.RodriguezA.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::Plugin.Toasts.Resource.Styleable.LinearLayoutCompat_Layout = global::B4.EE.RodriguezA.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::Plugin.Toasts.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::B4.EE.RodriguezA.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::Plugin.Toasts.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::B4.EE.RodriguezA.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::Plugin.Toasts.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::B4.EE.RodriguezA.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::Plugin.Toasts.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::B4.EE.RodriguezA.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::Plugin.Toasts.Resource.Styleable.ListPopupWindow = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ListPopupWindow;
+			global::Plugin.Toasts.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::Plugin.Toasts.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::Plugin.Toasts.Resource.Styleable.MenuGroup = global::B4.EE.RodriguezA.Droid.Resource.Styleable.MenuGroup;
+			global::Plugin.Toasts.Resource.Styleable.MenuGroup_android_checkableBehavior = global::B4.EE.RodriguezA.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::Plugin.Toasts.Resource.Styleable.MenuGroup_android_enabled = global::B4.EE.RodriguezA.Droid.Resource.Styleable.MenuGroup_android_enabled;
+			global::Plugin.Toasts.Resource.Styleable.MenuGroup_android_id = global::B4.EE.RodriguezA.Droid.Resource.Styleable.MenuGroup_android_id;
+			global::Plugin.Toasts.Resource.Styleable.MenuGroup_android_menuCategory = global::B4.EE.RodriguezA.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::Plugin.Toasts.Resource.Styleable.MenuGroup_android_orderInCategory = global::B4.EE.RodriguezA.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::Plugin.Toasts.Resource.Styleable.MenuGroup_android_visible = global::B4.EE.RodriguezA.Droid.Resource.Styleable.MenuGroup_android_visible;
+			global::Plugin.Toasts.Resource.Styleable.MenuItem = global::B4.EE.RodriguezA.Droid.Resource.Styleable.MenuItem;
+			global::Plugin.Toasts.Resource.Styleable.MenuItem_actionLayout = global::B4.EE.RodriguezA.Droid.Resource.Styleable.MenuItem_actionLayout;
+			global::Plugin.Toasts.Resource.Styleable.MenuItem_actionProviderClass = global::B4.EE.RodriguezA.Droid.Resource.Styleable.MenuItem_actionProviderClass;
+			global::Plugin.Toasts.Resource.Styleable.MenuItem_actionViewClass = global::B4.EE.RodriguezA.Droid.Resource.Styleable.MenuItem_actionViewClass;
+			global::Plugin.Toasts.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::B4.EE.RodriguezA.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::Plugin.Toasts.Resource.Styleable.MenuItem_android_checkable = global::B4.EE.RodriguezA.Droid.Resource.Styleable.MenuItem_android_checkable;
+			global::Plugin.Toasts.Resource.Styleable.MenuItem_android_checked = global::B4.EE.RodriguezA.Droid.Resource.Styleable.MenuItem_android_checked;
+			global::Plugin.Toasts.Resource.Styleable.MenuItem_android_enabled = global::B4.EE.RodriguezA.Droid.Resource.Styleable.MenuItem_android_enabled;
+			global::Plugin.Toasts.Resource.Styleable.MenuItem_android_icon = global::B4.EE.RodriguezA.Droid.Resource.Styleable.MenuItem_android_icon;
+			global::Plugin.Toasts.Resource.Styleable.MenuItem_android_id = global::B4.EE.RodriguezA.Droid.Resource.Styleable.MenuItem_android_id;
+			global::Plugin.Toasts.Resource.Styleable.MenuItem_android_menuCategory = global::B4.EE.RodriguezA.Droid.Resource.Styleable.MenuItem_android_menuCategory;
+			global::Plugin.Toasts.Resource.Styleable.MenuItem_android_numericShortcut = global::B4.EE.RodriguezA.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::Plugin.Toasts.Resource.Styleable.MenuItem_android_onClick = global::B4.EE.RodriguezA.Droid.Resource.Styleable.MenuItem_android_onClick;
+			global::Plugin.Toasts.Resource.Styleable.MenuItem_android_orderInCategory = global::B4.EE.RodriguezA.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::Plugin.Toasts.Resource.Styleable.MenuItem_android_title = global::B4.EE.RodriguezA.Droid.Resource.Styleable.MenuItem_android_title;
+			global::Plugin.Toasts.Resource.Styleable.MenuItem_android_titleCondensed = global::B4.EE.RodriguezA.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::Plugin.Toasts.Resource.Styleable.MenuItem_android_visible = global::B4.EE.RodriguezA.Droid.Resource.Styleable.MenuItem_android_visible;
+			global::Plugin.Toasts.Resource.Styleable.MenuItem_showAsAction = global::B4.EE.RodriguezA.Droid.Resource.Styleable.MenuItem_showAsAction;
+			global::Plugin.Toasts.Resource.Styleable.MenuView = global::B4.EE.RodriguezA.Droid.Resource.Styleable.MenuView;
+			global::Plugin.Toasts.Resource.Styleable.MenuView_android_headerBackground = global::B4.EE.RodriguezA.Droid.Resource.Styleable.MenuView_android_headerBackground;
+			global::Plugin.Toasts.Resource.Styleable.MenuView_android_horizontalDivider = global::B4.EE.RodriguezA.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::Plugin.Toasts.Resource.Styleable.MenuView_android_itemBackground = global::B4.EE.RodriguezA.Droid.Resource.Styleable.MenuView_android_itemBackground;
+			global::Plugin.Toasts.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::B4.EE.RodriguezA.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::Plugin.Toasts.Resource.Styleable.MenuView_android_itemTextAppearance = global::B4.EE.RodriguezA.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::Plugin.Toasts.Resource.Styleable.MenuView_android_verticalDivider = global::B4.EE.RodriguezA.Droid.Resource.Styleable.MenuView_android_verticalDivider;
+			global::Plugin.Toasts.Resource.Styleable.MenuView_android_windowAnimationStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::Plugin.Toasts.Resource.Styleable.MenuView_preserveIconSpacing = global::B4.EE.RodriguezA.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::Plugin.Toasts.Resource.Styleable.NavigationView = global::B4.EE.RodriguezA.Droid.Resource.Styleable.NavigationView;
+			global::Plugin.Toasts.Resource.Styleable.NavigationView_android_background = global::B4.EE.RodriguezA.Droid.Resource.Styleable.NavigationView_android_background;
+			global::Plugin.Toasts.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::B4.EE.RodriguezA.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::Plugin.Toasts.Resource.Styleable.NavigationView_android_maxWidth = global::B4.EE.RodriguezA.Droid.Resource.Styleable.NavigationView_android_maxWidth;
+			global::Plugin.Toasts.Resource.Styleable.NavigationView_elevation = global::B4.EE.RodriguezA.Droid.Resource.Styleable.NavigationView_elevation;
+			global::Plugin.Toasts.Resource.Styleable.NavigationView_headerLayout = global::B4.EE.RodriguezA.Droid.Resource.Styleable.NavigationView_headerLayout;
+			global::Plugin.Toasts.Resource.Styleable.NavigationView_itemBackground = global::B4.EE.RodriguezA.Droid.Resource.Styleable.NavigationView_itemBackground;
+			global::Plugin.Toasts.Resource.Styleable.NavigationView_itemIconTint = global::B4.EE.RodriguezA.Droid.Resource.Styleable.NavigationView_itemIconTint;
+			global::Plugin.Toasts.Resource.Styleable.NavigationView_itemTextAppearance = global::B4.EE.RodriguezA.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::Plugin.Toasts.Resource.Styleable.NavigationView_itemTextColor = global::B4.EE.RodriguezA.Droid.Resource.Styleable.NavigationView_itemTextColor;
+			global::Plugin.Toasts.Resource.Styleable.NavigationView_menu = global::B4.EE.RodriguezA.Droid.Resource.Styleable.NavigationView_menu;
+			global::Plugin.Toasts.Resource.Styleable.PopupWindow = global::B4.EE.RodriguezA.Droid.Resource.Styleable.PopupWindow;
+			global::Plugin.Toasts.Resource.Styleable.PopupWindow_android_popupBackground = global::B4.EE.RodriguezA.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::Plugin.Toasts.Resource.Styleable.PopupWindow_overlapAnchor = global::B4.EE.RodriguezA.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::Plugin.Toasts.Resource.Styleable.PopupWindowBackgroundState = global::B4.EE.RodriguezA.Droid.Resource.Styleable.PopupWindowBackgroundState;
+			global::Plugin.Toasts.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::B4.EE.RodriguezA.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::Plugin.Toasts.Resource.Styleable.RecyclerView = global::B4.EE.RodriguezA.Droid.Resource.Styleable.RecyclerView;
+			global::Plugin.Toasts.Resource.Styleable.RecyclerView_android_orientation = global::B4.EE.RodriguezA.Droid.Resource.Styleable.RecyclerView_android_orientation;
+			global::Plugin.Toasts.Resource.Styleable.RecyclerView_layoutManager = global::B4.EE.RodriguezA.Droid.Resource.Styleable.RecyclerView_layoutManager;
+			global::Plugin.Toasts.Resource.Styleable.RecyclerView_reverseLayout = global::B4.EE.RodriguezA.Droid.Resource.Styleable.RecyclerView_reverseLayout;
+			global::Plugin.Toasts.Resource.Styleable.RecyclerView_spanCount = global::B4.EE.RodriguezA.Droid.Resource.Styleable.RecyclerView_spanCount;
+			global::Plugin.Toasts.Resource.Styleable.RecyclerView_stackFromEnd = global::B4.EE.RodriguezA.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::Plugin.Toasts.Resource.Styleable.ScrimInsetsFrameLayout = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::Plugin.Toasts.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::Plugin.Toasts.Resource.Styleable.SearchView = global::B4.EE.RodriguezA.Droid.Resource.Styleable.SearchView;
+			global::Plugin.Toasts.Resource.Styleable.SearchView_android_focusable = global::B4.EE.RodriguezA.Droid.Resource.Styleable.SearchView_android_focusable;
+			global::Plugin.Toasts.Resource.Styleable.SearchView_android_imeOptions = global::B4.EE.RodriguezA.Droid.Resource.Styleable.SearchView_android_imeOptions;
+			global::Plugin.Toasts.Resource.Styleable.SearchView_android_inputType = global::B4.EE.RodriguezA.Droid.Resource.Styleable.SearchView_android_inputType;
+			global::Plugin.Toasts.Resource.Styleable.SearchView_android_maxWidth = global::B4.EE.RodriguezA.Droid.Resource.Styleable.SearchView_android_maxWidth;
+			global::Plugin.Toasts.Resource.Styleable.SearchView_closeIcon = global::B4.EE.RodriguezA.Droid.Resource.Styleable.SearchView_closeIcon;
+			global::Plugin.Toasts.Resource.Styleable.SearchView_commitIcon = global::B4.EE.RodriguezA.Droid.Resource.Styleable.SearchView_commitIcon;
+			global::Plugin.Toasts.Resource.Styleable.SearchView_defaultQueryHint = global::B4.EE.RodriguezA.Droid.Resource.Styleable.SearchView_defaultQueryHint;
+			global::Plugin.Toasts.Resource.Styleable.SearchView_goIcon = global::B4.EE.RodriguezA.Droid.Resource.Styleable.SearchView_goIcon;
+			global::Plugin.Toasts.Resource.Styleable.SearchView_iconifiedByDefault = global::B4.EE.RodriguezA.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::Plugin.Toasts.Resource.Styleable.SearchView_layout = global::B4.EE.RodriguezA.Droid.Resource.Styleable.SearchView_layout;
+			global::Plugin.Toasts.Resource.Styleable.SearchView_queryBackground = global::B4.EE.RodriguezA.Droid.Resource.Styleable.SearchView_queryBackground;
+			global::Plugin.Toasts.Resource.Styleable.SearchView_queryHint = global::B4.EE.RodriguezA.Droid.Resource.Styleable.SearchView_queryHint;
+			global::Plugin.Toasts.Resource.Styleable.SearchView_searchHintIcon = global::B4.EE.RodriguezA.Droid.Resource.Styleable.SearchView_searchHintIcon;
+			global::Plugin.Toasts.Resource.Styleable.SearchView_searchIcon = global::B4.EE.RodriguezA.Droid.Resource.Styleable.SearchView_searchIcon;
+			global::Plugin.Toasts.Resource.Styleable.SearchView_submitBackground = global::B4.EE.RodriguezA.Droid.Resource.Styleable.SearchView_submitBackground;
+			global::Plugin.Toasts.Resource.Styleable.SearchView_suggestionRowLayout = global::B4.EE.RodriguezA.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::Plugin.Toasts.Resource.Styleable.SearchView_voiceIcon = global::B4.EE.RodriguezA.Droid.Resource.Styleable.SearchView_voiceIcon;
+			global::Plugin.Toasts.Resource.Styleable.SnackbarLayout = global::B4.EE.RodriguezA.Droid.Resource.Styleable.SnackbarLayout;
+			global::Plugin.Toasts.Resource.Styleable.SnackbarLayout_android_maxWidth = global::B4.EE.RodriguezA.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::Plugin.Toasts.Resource.Styleable.SnackbarLayout_elevation = global::B4.EE.RodriguezA.Droid.Resource.Styleable.SnackbarLayout_elevation;
+			global::Plugin.Toasts.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::B4.EE.RodriguezA.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::Plugin.Toasts.Resource.Styleable.Spinner = global::B4.EE.RodriguezA.Droid.Resource.Styleable.Spinner;
+			global::Plugin.Toasts.Resource.Styleable.Spinner_android_dropDownWidth = global::B4.EE.RodriguezA.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::Plugin.Toasts.Resource.Styleable.Spinner_android_entries = global::B4.EE.RodriguezA.Droid.Resource.Styleable.Spinner_android_entries;
+			global::Plugin.Toasts.Resource.Styleable.Spinner_android_popupBackground = global::B4.EE.RodriguezA.Droid.Resource.Styleable.Spinner_android_popupBackground;
+			global::Plugin.Toasts.Resource.Styleable.Spinner_android_prompt = global::B4.EE.RodriguezA.Droid.Resource.Styleable.Spinner_android_prompt;
+			global::Plugin.Toasts.Resource.Styleable.Spinner_popupTheme = global::B4.EE.RodriguezA.Droid.Resource.Styleable.Spinner_popupTheme;
+			global::Plugin.Toasts.Resource.Styleable.SwitchCompat = global::B4.EE.RodriguezA.Droid.Resource.Styleable.SwitchCompat;
+			global::Plugin.Toasts.Resource.Styleable.SwitchCompat_android_textOff = global::B4.EE.RodriguezA.Droid.Resource.Styleable.SwitchCompat_android_textOff;
+			global::Plugin.Toasts.Resource.Styleable.SwitchCompat_android_textOn = global::B4.EE.RodriguezA.Droid.Resource.Styleable.SwitchCompat_android_textOn;
+			global::Plugin.Toasts.Resource.Styleable.SwitchCompat_android_thumb = global::B4.EE.RodriguezA.Droid.Resource.Styleable.SwitchCompat_android_thumb;
+			global::Plugin.Toasts.Resource.Styleable.SwitchCompat_showText = global::B4.EE.RodriguezA.Droid.Resource.Styleable.SwitchCompat_showText;
+			global::Plugin.Toasts.Resource.Styleable.SwitchCompat_splitTrack = global::B4.EE.RodriguezA.Droid.Resource.Styleable.SwitchCompat_splitTrack;
+			global::Plugin.Toasts.Resource.Styleable.SwitchCompat_switchMinWidth = global::B4.EE.RodriguezA.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::Plugin.Toasts.Resource.Styleable.SwitchCompat_switchPadding = global::B4.EE.RodriguezA.Droid.Resource.Styleable.SwitchCompat_switchPadding;
+			global::Plugin.Toasts.Resource.Styleable.SwitchCompat_switchTextAppearance = global::B4.EE.RodriguezA.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::Plugin.Toasts.Resource.Styleable.SwitchCompat_thumbTextPadding = global::B4.EE.RodriguezA.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::Plugin.Toasts.Resource.Styleable.SwitchCompat_track = global::B4.EE.RodriguezA.Droid.Resource.Styleable.SwitchCompat_track;
+			global::Plugin.Toasts.Resource.Styleable.TabItem = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TabItem;
+			global::Plugin.Toasts.Resource.Styleable.TabItem_android_icon = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TabItem_android_icon;
+			global::Plugin.Toasts.Resource.Styleable.TabItem_android_layout = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TabItem_android_layout;
+			global::Plugin.Toasts.Resource.Styleable.TabItem_android_text = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TabItem_android_text;
+			global::Plugin.Toasts.Resource.Styleable.TabLayout = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TabLayout;
+			global::Plugin.Toasts.Resource.Styleable.TabLayout_tabBackground = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TabLayout_tabBackground;
+			global::Plugin.Toasts.Resource.Styleable.TabLayout_tabContentStart = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TabLayout_tabContentStart;
+			global::Plugin.Toasts.Resource.Styleable.TabLayout_tabGravity = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TabLayout_tabGravity;
+			global::Plugin.Toasts.Resource.Styleable.TabLayout_tabIndicatorColor = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::Plugin.Toasts.Resource.Styleable.TabLayout_tabIndicatorHeight = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::Plugin.Toasts.Resource.Styleable.TabLayout_tabMaxWidth = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::Plugin.Toasts.Resource.Styleable.TabLayout_tabMinWidth = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TabLayout_tabMinWidth;
+			global::Plugin.Toasts.Resource.Styleable.TabLayout_tabMode = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TabLayout_tabMode;
+			global::Plugin.Toasts.Resource.Styleable.TabLayout_tabPadding = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TabLayout_tabPadding;
+			global::Plugin.Toasts.Resource.Styleable.TabLayout_tabPaddingBottom = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::Plugin.Toasts.Resource.Styleable.TabLayout_tabPaddingEnd = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::Plugin.Toasts.Resource.Styleable.TabLayout_tabPaddingStart = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::Plugin.Toasts.Resource.Styleable.TabLayout_tabPaddingTop = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::Plugin.Toasts.Resource.Styleable.TabLayout_tabSelectedTextColor = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::Plugin.Toasts.Resource.Styleable.TabLayout_tabTextAppearance = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::Plugin.Toasts.Resource.Styleable.TabLayout_tabTextColor = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TabLayout_tabTextColor;
+			global::Plugin.Toasts.Resource.Styleable.TextAppearance = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TextAppearance;
+			global::Plugin.Toasts.Resource.Styleable.TextAppearance_android_shadowColor = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::Plugin.Toasts.Resource.Styleable.TextAppearance_android_shadowDx = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::Plugin.Toasts.Resource.Styleable.TextAppearance_android_shadowDy = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::Plugin.Toasts.Resource.Styleable.TextAppearance_android_shadowRadius = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::Plugin.Toasts.Resource.Styleable.TextAppearance_android_textColor = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TextAppearance_android_textColor;
+			global::Plugin.Toasts.Resource.Styleable.TextAppearance_android_textSize = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TextAppearance_android_textSize;
+			global::Plugin.Toasts.Resource.Styleable.TextAppearance_android_textStyle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TextAppearance_android_textStyle;
+			global::Plugin.Toasts.Resource.Styleable.TextAppearance_android_typeface = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TextAppearance_android_typeface;
+			global::Plugin.Toasts.Resource.Styleable.TextAppearance_textAllCaps = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TextAppearance_textAllCaps;
+			global::Plugin.Toasts.Resource.Styleable.TextInputLayout = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TextInputLayout;
+			global::Plugin.Toasts.Resource.Styleable.TextInputLayout_android_hint = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TextInputLayout_android_hint;
+			global::Plugin.Toasts.Resource.Styleable.TextInputLayout_android_textColorHint = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::Plugin.Toasts.Resource.Styleable.TextInputLayout_counterEnabled = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::Plugin.Toasts.Resource.Styleable.TextInputLayout_counterMaxLength = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::Plugin.Toasts.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::Plugin.Toasts.Resource.Styleable.TextInputLayout_counterTextAppearance = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::Plugin.Toasts.Resource.Styleable.TextInputLayout_errorEnabled = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::Plugin.Toasts.Resource.Styleable.TextInputLayout_errorTextAppearance = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::Plugin.Toasts.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::Plugin.Toasts.Resource.Styleable.TextInputLayout_hintEnabled = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::Plugin.Toasts.Resource.Styleable.TextInputLayout_hintTextAppearance = global::B4.EE.RodriguezA.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::Plugin.Toasts.Resource.Styleable.Toolbar = global::B4.EE.RodriguezA.Droid.Resource.Styleable.Toolbar;
+			global::Plugin.Toasts.Resource.Styleable.Toolbar_android_gravity = global::B4.EE.RodriguezA.Droid.Resource.Styleable.Toolbar_android_gravity;
+			global::Plugin.Toasts.Resource.Styleable.Toolbar_android_minHeight = global::B4.EE.RodriguezA.Droid.Resource.Styleable.Toolbar_android_minHeight;
+			global::Plugin.Toasts.Resource.Styleable.Toolbar_collapseContentDescription = global::B4.EE.RodriguezA.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::Plugin.Toasts.Resource.Styleable.Toolbar_collapseIcon = global::B4.EE.RodriguezA.Droid.Resource.Styleable.Toolbar_collapseIcon;
+			global::Plugin.Toasts.Resource.Styleable.Toolbar_contentInsetEnd = global::B4.EE.RodriguezA.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::Plugin.Toasts.Resource.Styleable.Toolbar_contentInsetLeft = global::B4.EE.RodriguezA.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::Plugin.Toasts.Resource.Styleable.Toolbar_contentInsetRight = global::B4.EE.RodriguezA.Droid.Resource.Styleable.Toolbar_contentInsetRight;
+			global::Plugin.Toasts.Resource.Styleable.Toolbar_contentInsetStart = global::B4.EE.RodriguezA.Droid.Resource.Styleable.Toolbar_contentInsetStart;
+			global::Plugin.Toasts.Resource.Styleable.Toolbar_logo = global::B4.EE.RodriguezA.Droid.Resource.Styleable.Toolbar_logo;
+			global::Plugin.Toasts.Resource.Styleable.Toolbar_logoDescription = global::B4.EE.RodriguezA.Droid.Resource.Styleable.Toolbar_logoDescription;
+			global::Plugin.Toasts.Resource.Styleable.Toolbar_maxButtonHeight = global::B4.EE.RodriguezA.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::Plugin.Toasts.Resource.Styleable.Toolbar_navigationContentDescription = global::B4.EE.RodriguezA.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::Plugin.Toasts.Resource.Styleable.Toolbar_navigationIcon = global::B4.EE.RodriguezA.Droid.Resource.Styleable.Toolbar_navigationIcon;
+			global::Plugin.Toasts.Resource.Styleable.Toolbar_popupTheme = global::B4.EE.RodriguezA.Droid.Resource.Styleable.Toolbar_popupTheme;
+			global::Plugin.Toasts.Resource.Styleable.Toolbar_subtitle = global::B4.EE.RodriguezA.Droid.Resource.Styleable.Toolbar_subtitle;
+			global::Plugin.Toasts.Resource.Styleable.Toolbar_subtitleTextAppearance = global::B4.EE.RodriguezA.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::Plugin.Toasts.Resource.Styleable.Toolbar_subtitleTextColor = global::B4.EE.RodriguezA.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::Plugin.Toasts.Resource.Styleable.Toolbar_title = global::B4.EE.RodriguezA.Droid.Resource.Styleable.Toolbar_title;
+			global::Plugin.Toasts.Resource.Styleable.Toolbar_titleMarginBottom = global::B4.EE.RodriguezA.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::Plugin.Toasts.Resource.Styleable.Toolbar_titleMarginEnd = global::B4.EE.RodriguezA.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::Plugin.Toasts.Resource.Styleable.Toolbar_titleMarginStart = global::B4.EE.RodriguezA.Droid.Resource.Styleable.Toolbar_titleMarginStart;
+			global::Plugin.Toasts.Resource.Styleable.Toolbar_titleMarginTop = global::B4.EE.RodriguezA.Droid.Resource.Styleable.Toolbar_titleMarginTop;
+			global::Plugin.Toasts.Resource.Styleable.Toolbar_titleMargins = global::B4.EE.RodriguezA.Droid.Resource.Styleable.Toolbar_titleMargins;
+			global::Plugin.Toasts.Resource.Styleable.Toolbar_titleTextAppearance = global::B4.EE.RodriguezA.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::Plugin.Toasts.Resource.Styleable.Toolbar_titleTextColor = global::B4.EE.RodriguezA.Droid.Resource.Styleable.Toolbar_titleTextColor;
+			global::Plugin.Toasts.Resource.Styleable.View = global::B4.EE.RodriguezA.Droid.Resource.Styleable.View;
+			global::Plugin.Toasts.Resource.Styleable.View_android_focusable = global::B4.EE.RodriguezA.Droid.Resource.Styleable.View_android_focusable;
+			global::Plugin.Toasts.Resource.Styleable.View_android_theme = global::B4.EE.RodriguezA.Droid.Resource.Styleable.View_android_theme;
+			global::Plugin.Toasts.Resource.Styleable.View_paddingEnd = global::B4.EE.RodriguezA.Droid.Resource.Styleable.View_paddingEnd;
+			global::Plugin.Toasts.Resource.Styleable.View_paddingStart = global::B4.EE.RodriguezA.Droid.Resource.Styleable.View_paddingStart;
+			global::Plugin.Toasts.Resource.Styleable.View_theme = global::B4.EE.RodriguezA.Droid.Resource.Styleable.View_theme;
+			global::Plugin.Toasts.Resource.Styleable.ViewBackgroundHelper = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ViewBackgroundHelper;
+			global::Plugin.Toasts.Resource.Styleable.ViewBackgroundHelper_android_background = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::Plugin.Toasts.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::Plugin.Toasts.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::Plugin.Toasts.Resource.Styleable.ViewStubCompat = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ViewStubCompat;
+			global::Plugin.Toasts.Resource.Styleable.ViewStubCompat_android_id = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ViewStubCompat_android_id;
+			global::Plugin.Toasts.Resource.Styleable.ViewStubCompat_android_inflatedId = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::Plugin.Toasts.Resource.Styleable.ViewStubCompat_android_layout = global::B4.EE.RodriguezA.Droid.Resource.Styleable.ViewStubCompat_android_layout;
 			global::Xamarin.Essentials.Resource.Attribute.alpha = global::B4.EE.RodriguezA.Droid.Resource.Attribute.alpha;
 			global::Xamarin.Essentials.Resource.Attribute.coordinatorLayoutStyle = global::B4.EE.RodriguezA.Droid.Resource.Attribute.coordinatorLayoutStyle;
 			global::Xamarin.Essentials.Resource.Attribute.font = global::B4.EE.RodriguezA.Droid.Resource.Attribute.font;
@@ -8294,323 +9790,329 @@ namespace B4.EE.RodriguezA.Droid
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7F0D0000
-			public const int abc_action_bar_home_description = 2131558400;
-			
-			// aapt resource value: 0x7F0D0001
-			public const int abc_action_bar_up_description = 2131558401;
-			
 			// aapt resource value: 0x7F0D0002
-			public const int abc_action_menu_overflow_description = 2131558402;
+			public const int abc_action_bar_home_description = 2131558402;
 			
 			// aapt resource value: 0x7F0D0003
-			public const int abc_action_mode_done = 2131558403;
-			
-			// aapt resource value: 0x7F0D0005
-			public const int abc_activitychooserview_choose_application = 2131558405;
+			public const int abc_action_bar_up_description = 2131558403;
 			
 			// aapt resource value: 0x7F0D0004
-			public const int abc_activity_chooser_view_see_all = 2131558404;
+			public const int abc_action_menu_overflow_description = 2131558404;
 			
-			// aapt resource value: 0x7F0D0006
-			public const int abc_capital_off = 2131558406;
+			// aapt resource value: 0x7F0D0005
+			public const int abc_action_mode_done = 2131558405;
 			
 			// aapt resource value: 0x7F0D0007
-			public const int abc_capital_on = 2131558407;
+			public const int abc_activitychooserview_choose_application = 2131558407;
+			
+			// aapt resource value: 0x7F0D0006
+			public const int abc_activity_chooser_view_see_all = 2131558406;
 			
 			// aapt resource value: 0x7F0D0008
-			public const int abc_font_family_body_1_material = 2131558408;
+			public const int abc_capital_off = 2131558408;
 			
 			// aapt resource value: 0x7F0D0009
-			public const int abc_font_family_body_2_material = 2131558409;
+			public const int abc_capital_on = 2131558409;
 			
 			// aapt resource value: 0x7F0D000A
-			public const int abc_font_family_button_material = 2131558410;
+			public const int abc_font_family_body_1_material = 2131558410;
 			
 			// aapt resource value: 0x7F0D000B
-			public const int abc_font_family_caption_material = 2131558411;
+			public const int abc_font_family_body_2_material = 2131558411;
 			
 			// aapt resource value: 0x7F0D000C
-			public const int abc_font_family_display_1_material = 2131558412;
+			public const int abc_font_family_button_material = 2131558412;
 			
 			// aapt resource value: 0x7F0D000D
-			public const int abc_font_family_display_2_material = 2131558413;
+			public const int abc_font_family_caption_material = 2131558413;
 			
 			// aapt resource value: 0x7F0D000E
-			public const int abc_font_family_display_3_material = 2131558414;
+			public const int abc_font_family_display_1_material = 2131558414;
 			
 			// aapt resource value: 0x7F0D000F
-			public const int abc_font_family_display_4_material = 2131558415;
+			public const int abc_font_family_display_2_material = 2131558415;
 			
 			// aapt resource value: 0x7F0D0010
-			public const int abc_font_family_headline_material = 2131558416;
+			public const int abc_font_family_display_3_material = 2131558416;
 			
 			// aapt resource value: 0x7F0D0011
-			public const int abc_font_family_menu_material = 2131558417;
+			public const int abc_font_family_display_4_material = 2131558417;
 			
 			// aapt resource value: 0x7F0D0012
-			public const int abc_font_family_subhead_material = 2131558418;
+			public const int abc_font_family_headline_material = 2131558418;
 			
 			// aapt resource value: 0x7F0D0013
-			public const int abc_font_family_title_material = 2131558419;
+			public const int abc_font_family_menu_material = 2131558419;
 			
 			// aapt resource value: 0x7F0D0014
-			public const int abc_menu_alt_shortcut_label = 2131558420;
+			public const int abc_font_family_subhead_material = 2131558420;
 			
 			// aapt resource value: 0x7F0D0015
-			public const int abc_menu_ctrl_shortcut_label = 2131558421;
+			public const int abc_font_family_title_material = 2131558421;
 			
 			// aapt resource value: 0x7F0D0016
-			public const int abc_menu_delete_shortcut_label = 2131558422;
+			public const int abc_menu_alt_shortcut_label = 2131558422;
 			
 			// aapt resource value: 0x7F0D0017
-			public const int abc_menu_enter_shortcut_label = 2131558423;
+			public const int abc_menu_ctrl_shortcut_label = 2131558423;
 			
 			// aapt resource value: 0x7F0D0018
-			public const int abc_menu_function_shortcut_label = 2131558424;
+			public const int abc_menu_delete_shortcut_label = 2131558424;
 			
 			// aapt resource value: 0x7F0D0019
-			public const int abc_menu_meta_shortcut_label = 2131558425;
+			public const int abc_menu_enter_shortcut_label = 2131558425;
 			
 			// aapt resource value: 0x7F0D001A
-			public const int abc_menu_shift_shortcut_label = 2131558426;
+			public const int abc_menu_function_shortcut_label = 2131558426;
 			
 			// aapt resource value: 0x7F0D001B
-			public const int abc_menu_space_shortcut_label = 2131558427;
+			public const int abc_menu_meta_shortcut_label = 2131558427;
 			
 			// aapt resource value: 0x7F0D001C
-			public const int abc_menu_sym_shortcut_label = 2131558428;
+			public const int abc_menu_shift_shortcut_label = 2131558428;
 			
 			// aapt resource value: 0x7F0D001D
-			public const int abc_prepend_shortcut_label = 2131558429;
-			
-			// aapt resource value: 0x7F0D001F
-			public const int abc_searchview_description_clear = 2131558431;
-			
-			// aapt resource value: 0x7F0D0020
-			public const int abc_searchview_description_query = 2131558432;
-			
-			// aapt resource value: 0x7F0D0021
-			public const int abc_searchview_description_search = 2131558433;
-			
-			// aapt resource value: 0x7F0D0022
-			public const int abc_searchview_description_submit = 2131558434;
-			
-			// aapt resource value: 0x7F0D0023
-			public const int abc_searchview_description_voice = 2131558435;
+			public const int abc_menu_space_shortcut_label = 2131558429;
 			
 			// aapt resource value: 0x7F0D001E
-			public const int abc_search_hint = 2131558430;
+			public const int abc_menu_sym_shortcut_label = 2131558430;
+			
+			// aapt resource value: 0x7F0D001F
+			public const int abc_prepend_shortcut_label = 2131558431;
+			
+			// aapt resource value: 0x7F0D0021
+			public const int abc_searchview_description_clear = 2131558433;
+			
+			// aapt resource value: 0x7F0D0022
+			public const int abc_searchview_description_query = 2131558434;
+			
+			// aapt resource value: 0x7F0D0023
+			public const int abc_searchview_description_search = 2131558435;
 			
 			// aapt resource value: 0x7F0D0024
-			public const int abc_shareactionprovider_share_with = 2131558436;
+			public const int abc_searchview_description_submit = 2131558436;
 			
 			// aapt resource value: 0x7F0D0025
-			public const int abc_shareactionprovider_share_with_application = 2131558437;
+			public const int abc_searchview_description_voice = 2131558437;
+			
+			// aapt resource value: 0x7F0D0020
+			public const int abc_search_hint = 2131558432;
 			
 			// aapt resource value: 0x7F0D0026
-			public const int abc_toolbar_collapse_description = 2131558438;
+			public const int abc_shareactionprovider_share_with = 2131558438;
 			
 			// aapt resource value: 0x7F0D0027
-			public const int appbar_scrolling_view_behavior = 2131558439;
+			public const int abc_shareactionprovider_share_with_application = 2131558439;
 			
 			// aapt resource value: 0x7F0D0028
-			public const int bottom_sheet_behavior = 2131558440;
+			public const int abc_toolbar_collapse_description = 2131558440;
 			
 			// aapt resource value: 0x7F0D0029
-			public const int character_counter_content_description = 2131558441;
+			public const int appbar_scrolling_view_behavior = 2131558441;
+			
+			// aapt resource value: 0x7F0D0000
+			public const int ApplicationName = 2131558400;
 			
 			// aapt resource value: 0x7F0D002A
-			public const int character_counter_pattern = 2131558442;
+			public const int bottom_sheet_behavior = 2131558442;
 			
 			// aapt resource value: 0x7F0D002B
-			public const int common_google_play_services_enable_button = 2131558443;
+			public const int character_counter_content_description = 2131558443;
 			
 			// aapt resource value: 0x7F0D002C
-			public const int common_google_play_services_enable_text = 2131558444;
+			public const int character_counter_pattern = 2131558444;
 			
 			// aapt resource value: 0x7F0D002D
-			public const int common_google_play_services_enable_title = 2131558445;
+			public const int common_google_play_services_enable_button = 2131558445;
 			
 			// aapt resource value: 0x7F0D002E
-			public const int common_google_play_services_install_button = 2131558446;
+			public const int common_google_play_services_enable_text = 2131558446;
 			
 			// aapt resource value: 0x7F0D002F
-			public const int common_google_play_services_install_text = 2131558447;
+			public const int common_google_play_services_enable_title = 2131558447;
 			
 			// aapt resource value: 0x7F0D0030
-			public const int common_google_play_services_install_title = 2131558448;
+			public const int common_google_play_services_install_button = 2131558448;
 			
 			// aapt resource value: 0x7F0D0031
-			public const int common_google_play_services_notification_channel_name = 2131558449;
+			public const int common_google_play_services_install_text = 2131558449;
 			
 			// aapt resource value: 0x7F0D0032
-			public const int common_google_play_services_notification_ticker = 2131558450;
+			public const int common_google_play_services_install_title = 2131558450;
 			
 			// aapt resource value: 0x7F0D0033
-			public const int common_google_play_services_unknown_issue = 2131558451;
+			public const int common_google_play_services_notification_channel_name = 2131558451;
 			
 			// aapt resource value: 0x7F0D0034
-			public const int common_google_play_services_unsupported_text = 2131558452;
+			public const int common_google_play_services_notification_ticker = 2131558452;
 			
 			// aapt resource value: 0x7F0D0035
-			public const int common_google_play_services_update_button = 2131558453;
+			public const int common_google_play_services_unknown_issue = 2131558453;
 			
 			// aapt resource value: 0x7F0D0036
-			public const int common_google_play_services_update_text = 2131558454;
+			public const int common_google_play_services_unsupported_text = 2131558454;
 			
 			// aapt resource value: 0x7F0D0037
-			public const int common_google_play_services_update_title = 2131558455;
+			public const int common_google_play_services_update_button = 2131558455;
 			
 			// aapt resource value: 0x7F0D0038
-			public const int common_google_play_services_updating_text = 2131558456;
+			public const int common_google_play_services_update_text = 2131558456;
 			
 			// aapt resource value: 0x7F0D0039
-			public const int common_google_play_services_wear_update_text = 2131558457;
+			public const int common_google_play_services_update_title = 2131558457;
 			
 			// aapt resource value: 0x7F0D003A
-			public const int common_open_on_phone = 2131558458;
+			public const int common_google_play_services_updating_text = 2131558458;
 			
 			// aapt resource value: 0x7F0D003B
-			public const int common_signin_button_text = 2131558459;
+			public const int common_google_play_services_wear_update_text = 2131558459;
 			
 			// aapt resource value: 0x7F0D003C
-			public const int common_signin_button_text_long = 2131558460;
+			public const int common_open_on_phone = 2131558460;
 			
 			// aapt resource value: 0x7F0D003D
-			public const int default_web_client_id = 2131558461;
+			public const int common_signin_button_text = 2131558461;
 			
 			// aapt resource value: 0x7F0D003E
-			public const int fab_transformation_scrim_behavior = 2131558462;
+			public const int common_signin_button_text_long = 2131558462;
 			
 			// aapt resource value: 0x7F0D003F
-			public const int fab_transformation_sheet_behavior = 2131558463;
+			public const int default_web_client_id = 2131558463;
 			
 			// aapt resource value: 0x7F0D0040
-			public const int fcm_fallback_notification_channel_label = 2131558464;
+			public const int fab_transformation_scrim_behavior = 2131558464;
 			
 			// aapt resource value: 0x7F0D0041
-			public const int firebase_database_url = 2131558465;
+			public const int fab_transformation_sheet_behavior = 2131558465;
 			
 			// aapt resource value: 0x7F0D0042
-			public const int gcm_defaultSenderId = 2131558466;
+			public const int fcm_fallback_notification_channel_label = 2131558466;
 			
 			// aapt resource value: 0x7F0D0043
-			public const int google_api_key = 2131558467;
+			public const int firebase_database_url = 2131558467;
 			
 			// aapt resource value: 0x7F0D0044
-			public const int google_app_id = 2131558468;
+			public const int gcm_defaultSenderId = 2131558468;
 			
 			// aapt resource value: 0x7F0D0045
-			public const int google_crash_reporting_api_key = 2131558469;
+			public const int google_api_key = 2131558469;
 			
 			// aapt resource value: 0x7F0D0046
-			public const int google_storage_bucket = 2131558470;
+			public const int google_app_id = 2131558470;
 			
 			// aapt resource value: 0x7F0D0047
-			public const int hide_bottom_view_on_scroll_behavior = 2131558471;
+			public const int google_crash_reporting_api_key = 2131558471;
 			
 			// aapt resource value: 0x7F0D0048
-			public const int library_name = 2131558472;
+			public const int google_storage_bucket = 2131558472;
+			
+			// aapt resource value: 0x7F0D0001
+			public const int Hello = 2131558401;
 			
 			// aapt resource value: 0x7F0D0049
-			public const int mr_button_content_description = 2131558473;
+			public const int hide_bottom_view_on_scroll_behavior = 2131558473;
 			
 			// aapt resource value: 0x7F0D004A
-			public const int mr_cast_button_connected = 2131558474;
+			public const int library_name = 2131558474;
 			
 			// aapt resource value: 0x7F0D004B
-			public const int mr_cast_button_connecting = 2131558475;
+			public const int mr_button_content_description = 2131558475;
 			
 			// aapt resource value: 0x7F0D004C
-			public const int mr_cast_button_disconnected = 2131558476;
+			public const int mr_cast_button_connected = 2131558476;
 			
 			// aapt resource value: 0x7F0D004D
-			public const int mr_cast_dialog_title_view_placeholder = 2131558477;
+			public const int mr_cast_button_connecting = 2131558477;
 			
 			// aapt resource value: 0x7F0D004E
-			public const int mr_chooser_searching = 2131558478;
+			public const int mr_cast_button_disconnected = 2131558478;
 			
 			// aapt resource value: 0x7F0D004F
-			public const int mr_chooser_title = 2131558479;
+			public const int mr_cast_dialog_title_view_placeholder = 2131558479;
 			
 			// aapt resource value: 0x7F0D0050
-			public const int mr_controller_album_art = 2131558480;
+			public const int mr_chooser_searching = 2131558480;
 			
 			// aapt resource value: 0x7F0D0051
-			public const int mr_controller_casting_screen = 2131558481;
+			public const int mr_chooser_title = 2131558481;
 			
 			// aapt resource value: 0x7F0D0052
-			public const int mr_controller_close_description = 2131558482;
+			public const int mr_controller_album_art = 2131558482;
 			
 			// aapt resource value: 0x7F0D0053
-			public const int mr_controller_collapse_group = 2131558483;
+			public const int mr_controller_casting_screen = 2131558483;
 			
 			// aapt resource value: 0x7F0D0054
-			public const int mr_controller_disconnect = 2131558484;
+			public const int mr_controller_close_description = 2131558484;
 			
 			// aapt resource value: 0x7F0D0055
-			public const int mr_controller_expand_group = 2131558485;
+			public const int mr_controller_collapse_group = 2131558485;
 			
 			// aapt resource value: 0x7F0D0056
-			public const int mr_controller_no_info_available = 2131558486;
+			public const int mr_controller_disconnect = 2131558486;
 			
 			// aapt resource value: 0x7F0D0057
-			public const int mr_controller_no_media_selected = 2131558487;
+			public const int mr_controller_expand_group = 2131558487;
 			
 			// aapt resource value: 0x7F0D0058
-			public const int mr_controller_pause = 2131558488;
+			public const int mr_controller_no_info_available = 2131558488;
 			
 			// aapt resource value: 0x7F0D0059
-			public const int mr_controller_play = 2131558489;
+			public const int mr_controller_no_media_selected = 2131558489;
 			
 			// aapt resource value: 0x7F0D005A
-			public const int mr_controller_stop = 2131558490;
+			public const int mr_controller_pause = 2131558490;
 			
 			// aapt resource value: 0x7F0D005B
-			public const int mr_controller_stop_casting = 2131558491;
+			public const int mr_controller_play = 2131558491;
 			
 			// aapt resource value: 0x7F0D005C
-			public const int mr_controller_volume_slider = 2131558492;
+			public const int mr_controller_stop = 2131558492;
 			
 			// aapt resource value: 0x7F0D005D
-			public const int mr_dialog_device_header = 2131558493;
+			public const int mr_controller_stop_casting = 2131558493;
 			
 			// aapt resource value: 0x7F0D005E
-			public const int mr_dialog_route_header = 2131558494;
+			public const int mr_controller_volume_slider = 2131558494;
 			
 			// aapt resource value: 0x7F0D005F
-			public const int mr_system_route_name = 2131558495;
+			public const int mr_dialog_device_header = 2131558495;
 			
 			// aapt resource value: 0x7F0D0060
-			public const int mr_user_route_category_name = 2131558496;
+			public const int mr_dialog_route_header = 2131558496;
 			
 			// aapt resource value: 0x7F0D0061
-			public const int mtrl_chip_close_icon_content_description = 2131558497;
+			public const int mr_system_route_name = 2131558497;
 			
 			// aapt resource value: 0x7F0D0062
-			public const int password_toggle_content_description = 2131558498;
+			public const int mr_user_route_category_name = 2131558498;
 			
 			// aapt resource value: 0x7F0D0063
-			public const int path_password_eye = 2131558499;
+			public const int mtrl_chip_close_icon_content_description = 2131558499;
 			
 			// aapt resource value: 0x7F0D0064
-			public const int path_password_eye_mask_strike_through = 2131558500;
+			public const int password_toggle_content_description = 2131558500;
 			
 			// aapt resource value: 0x7F0D0065
-			public const int path_password_eye_mask_visible = 2131558501;
+			public const int path_password_eye = 2131558501;
 			
 			// aapt resource value: 0x7F0D0066
-			public const int path_password_strike_through = 2131558502;
+			public const int path_password_eye_mask_strike_through = 2131558502;
 			
 			// aapt resource value: 0x7F0D0067
-			public const int project_id = 2131558503;
+			public const int path_password_eye_mask_visible = 2131558503;
 			
 			// aapt resource value: 0x7F0D0068
-			public const int search_menu_title = 2131558504;
+			public const int path_password_strike_through = 2131558504;
 			
 			// aapt resource value: 0x7F0D0069
-			public const int status_bar_notification_info_overflow = 2131558505;
+			public const int project_id = 2131558505;
+			
+			// aapt resource value: 0x7F0D006A
+			public const int search_menu_title = 2131558506;
+			
+			// aapt resource value: 0x7F0D006B
+			public const int status_bar_notification_info_overflow = 2131558507;
 			
 			static String()
 			{

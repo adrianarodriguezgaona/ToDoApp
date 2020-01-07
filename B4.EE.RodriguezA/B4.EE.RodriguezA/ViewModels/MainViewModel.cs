@@ -1,6 +1,7 @@
 ﻿using B4.EE.RodriguezA.Domain.Models;
 using B4.EE.RodriguezA.Domain.Services;
 using FreshMvvm;
+using Plugin.Toasts;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
@@ -16,7 +17,7 @@ namespace B4.EE.RodriguezA.ViewModels
     {
         private readonly ITopicRepository _topicRepository;
         private readonly ITopicService topicService;
-
+        int counter = 0;
         public MainViewModel(ITopicRepository topicRepository)
         {
             _topicRepository = topicRepository;
@@ -38,8 +39,7 @@ namespace B4.EE.RodriguezA.ViewModels
             set
             {
                 isBusy = value;
-                // este metodo ya esta en classe FreshBasePageModel
-
+     
                 RaisePropertyChanged(nameof(IsBusy));
             }
         }
@@ -52,12 +52,11 @@ namespace B4.EE.RodriguezA.ViewModels
             set { headerForList = value; RaisePropertyChanged(nameof(HeaderForList)); }
         }
 
-
         protected async override void ViewIsAppearing(object sender, EventArgs e)
         {
-            base.ViewIsAppearing(sender, e);
-
+            base.ViewIsAppearing(sender, e);           
             await RefreshReminderTopicLists();
+            await WelkomToast();
         }
 
 
@@ -67,7 +66,6 @@ namespace B4.EE.RodriguezA.ViewModels
             }
         );
 
-
         public ICommand DeleteReminderTopicCommand => new Command<ReminderTopic>(
             async (ReminderTopic topic) => {
                 await topicService.Delete(topic.Id);
@@ -75,22 +73,62 @@ namespace B4.EE.RodriguezA.ViewModels
             }
         );
 
+        private async Task WelkomToast()
+        {
+            counter++;
+            if (counter == 1 && ReminderTopics.Count > 0)
+            {
+                var message = "Welkom Terug";
+                ShowToast(message);
+            }
+        }
         private async Task RefreshReminderTopicLists()
         {
+            
             IsBusy = true;
             var reminderTopic = await topicService.GetAll();
             //bind IEnumerable<ReminderTopic> to the ListView's ItemSource
             ReminderTopics = null;    //Important! ensure the list is empty first to force refresh!
             ReminderTopics = new ObservableCollection<ReminderTopic>(reminderTopic.OrderBy(e => e.Name));
-            if (ReminderTopics == null)
+           
+            if (ReminderTopics.Count == 0)
             {
-                HeaderForList = "Nog geen To Do lijst?? Voeg jouw eerste lijst toe!";
+                var message = "";
+                HeaderForList = "Nog geen To Do lijst!";
+                message = "Voeg jouw eerste To Do Lijst nu!!";
+                ShowToast(message);
             }
             else
             {
                 HeaderForList = "Mijn To Do lijst:";
+               
             }
             IsBusy = false;
+        }
+
+        private async void ShowToast(string message)
+        {
+            //see https://github.com/EgorBo/Toasts.Forms.Plugin for usage
+            //of this Toasts plugin
+            var notificator = DependencyService.Get<IToastNotificator>();
+
+            var options = new NotificationOptions()
+            {
+                Title = "To Do App",
+                Description = message,
+                IsClickable = true,
+                WindowsOptions = new WindowsOptions() { LogoUri = "icon.png" },
+                ClearFromHistory = false,
+                AllowTapInNotificationCenter = false,
+                AndroidOptions = new AndroidOptions()
+                {
+                    HexColor = "#F99D1C",
+                    ForceOpenAppOnNotificationTap = true
+                }
+            };
+
+            await notificator.Notify(options);
+
         }
 
     }

@@ -11,7 +11,7 @@ using Android.Content;
 using Xamarin.Forms;
 using B4.EE.RodriguezA.Droid.Services;
 using B4.EE.RodriguezA.Domain.Services;
-
+using Plugin.Toasts;
 
 namespace B4.EE.RodriguezA.Droid
 {
@@ -19,11 +19,13 @@ namespace B4.EE.RodriguezA.Droid
     public class MainActivity : global::Xamarin.Forms.Platform.Android.FormsAppCompatActivity
     {
         internal static MainActivity Instance { get; private set; }
+
+        public static Activity CurrentActivity { get; set; }
         protected override void OnCreate(Bundle savedInstanceState)
         {
             TabLayoutResource = Resource.Layout.Tabbar;
             ToolbarResource = Resource.Layout.Toolbar;
-
+            
             
             //base.OnCreate(savedInstanceState);
 
@@ -36,8 +38,15 @@ namespace B4.EE.RodriguezA.Droid
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
 
+            //register and init toast plugin
+            DependencyService.Register<ToastNotification>();
+            ToastNotification.Init(this, new PlatformOptions() { SmallIconDrawable = Android.Resource.Drawable.IcDialogInfo });
+
+            CurrentActivity = this;
+
             LoadApplication(new App());
             DependencyService.Register<IPhotoPickerService, PhotoPickerService>();
+            DependencyService.Register<IAlarmService, AlarmService>();
         }
         //public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)
         //{

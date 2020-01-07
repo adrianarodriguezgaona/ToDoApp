@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Plugin.Toasts.UWP;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -12,6 +13,7 @@ using Windows.UI.Xaml.Data;
 using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
+using Xamarin.Forms;
 
 namespace B4.EE.RodriguezA.UWP
 {
@@ -20,6 +22,10 @@ namespace B4.EE.RodriguezA.UWP
         public MainPage()
         {
             this.InitializeComponent();
+
+            //register and init toast plugin
+            DependencyService.Register<ToastNotification>();
+            ToastNotification.Init();
 
             LoadApplication(new B4.EE.RodriguezA.App());
         }

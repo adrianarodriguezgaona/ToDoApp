@@ -48,6 +48,13 @@
                     <StackLayout HorizontalOptions="FillAndExpand">
                         <Image Source="{Binding ImageFromDeviceSource }" WidthRequest="450" HeightRequest="300" />
                     </StackLayout>
+
+                     <StackLayout>
+
+                                <Button Command="{Binding CreateAlarmCommand}" Text="In mijn agenda" IsVisible="{OnPlatform Android= True, UWP= False}" HorizontalOptions="CenterAndExpand" WidthRequest="200" HeightRequest="40"/>
+
+                     </StackLayout>
+                                    
                 </StackLayout>
 
             </ScrollView>
