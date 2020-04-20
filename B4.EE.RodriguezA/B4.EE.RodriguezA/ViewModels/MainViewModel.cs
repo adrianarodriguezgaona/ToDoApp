@@ -59,7 +59,6 @@ namespace B4.EE.RodriguezA.ViewModels
             await WelkomToast();
         }
 
-
         public ICommand OpenReminderTopicPageCommand => new Command<ReminderTopic>(
             async (ReminderTopic topic) => {
                 await CoreMethods.PushPageModel<ReminderTopicViewModel>(topic, false, true);
